@@ -105,27 +105,92 @@ english-nations-hub/
 
 ## 🎯 Purpose
 
-This repository serves as a comprehensive geographical reference for:
+This repository serves a dual purpose:
 
+**1. Geographic Reference**
 - **Content Localization**: Target content to specific cities and neighborhoods
 - **Business Directory**: Organize business listings by location
 - **Market Research**: Understand regional breakdowns for English-speaking markets
-- **SEO & Marketing**: Create location-specific landing pages
-- **Data Organization**: Structure location-based datasets
+
+**2. Autonomous Lead Intelligence Engine**
+- **Public Lead Collection**: GMB, LinkedIn, and web-sourced business contacts
+- **Niche-Based Segmentation**: 60+ business niches across all city areas
+- **Email Validation Pipeline**: Multi-method validation (SMTP, MX, syntax, disposable)
+- **Geographically Organized**: Leads stored at the City Area level with intelligent fallback
+- **Digital Marketing Outreach**: Structured contacts for campaigns and business intelligence
+
+## 📁 Folder Structure
+
+```
+english-nations-hub/
+├── countries/
+│   ├── Ghana/
+│   │   └── Greater-Accra/
+│   │       └── Accra/
+│   │           ├── East-Legon/
+│   │           │   ├── GMB_Leads/
+│   │           │   │   ├── Raw_Leads/
+│   │           │   │   ├── Enriched_Leads/
+│   │           │   │   └── Niches/
+│   │           │   ├── LinkedIn_Public_Leads/
+│   │           │   │   ├── Niches/
+│   │           │   │   └── Search_Operators_Used/
+│   │           │   └── Other_Public_Web_Leads/
+│   │           │       ├── Business_Niches/
+│   │           │       └── Skilled_Professionals/
+│   │           ├── Osu/
+│   │           ├── Labone/
+│   │           └── ...
+│   ├── Nigeria/
+│   ├── United-Kingdom/
+│   ├── United-States-of-America/
+│   └── ... (15 countries total)
+├── docs/
+│   ├── AGENT_FRAMEWORK.md          ← Master operational document (16 sections)
+│   ├── DISCOVERY_QUERIES_500_PLUS.md  ← 660+ prebuilt Google search queries
+│   ├── project_overview.md         ← System architecture & capabilities
+│   ├── lead_collection_methods.md  ← GMB, LinkedIn, and web collection guides
+│   ├── geographic_handling.md      ← Intelligent lead placement rules
+│   ├── niche_organization.md       ← 60 business niches with priority matrix
+│   ├── email_validation_methods.md ← Multi-method email verification guide
+│   ├── search_operator_playbook.md ← Google operators reference & patterns
+│   └── progress_tracker.md         ← Session logs & operational history
+├── LICENSE
+└── README.md
+```
+
+## 🤖 Agent Framework
+
+This repository includes a complete autonomous agent operational framework:
+
+| Document | Purpose | Size |
+|----------|---------|------|
+| **AGENT_FRAMEWORK.md** | Master operational document — all rules, structures, and procedures | 92KB |
+| **DISCOVERY_QUERIES_500_PLUS.md** | 660+ prebuilt Google queries for lead discovery across 15 categories | 52KB |
+| **lead_collection_methods.md** | Step-by-step collection guides for GMB, LinkedIn, and web sources | 62KB |
+| **geographic_handling.md** | 10 scenarios for handling incomplete location data with fallback rules | 31KB |
+| **niche_organization.md** | 60 business niches with priority matrix and search strategies | 49KB |
+| **email_validation_methods.md** | 5-method validation pipeline with Python code examples | 34KB |
+| **search_operator_playbook.md** | 22 operators, 90+ query patterns, advanced techniques | 52KB |
+| **progress_tracker.md** | Session templates, history log, multi-agent coordination | 29KB |
+
+**Start here:** Read [`docs/AGENT_FRAMEWORK.md`](docs/AGENT_FRAMEWORK.md) for the complete operational guide.
+
+## 📊 Lead Data Structure
+
+Each city area contains three lead categories:
+
+| Category | Source | Key Data |
+|----------|--------|----------|
+| **GMB_Leads** | Google Maps & Business Profiles | Business name, phone, WhatsApp, website, email, address |
+| **LinkedIn_Public_Leads** | Public LinkedIn profiles | Name, profession, company, profile URL, email |
+| **Other_Public_Web_Leads** | Directories, portfolios, platforms | Name, skill, email, phone, website, portfolio URL |
 
 ## 📝 Naming Conventions
 
 - **Spaces replaced with hyphens**: `New York` → `New-York`
 - **Consistent capitalization**: Title Case for all names
 - **ASCII-safe**: Special characters converted (e.g., `Whangārei` → `Whangarei`)
-
-## 🔄 Future Enhancements
-
-- [ ] Add population data for each city/area
-- [ ] Include geographic coordinates
-- [ ] Add timezone information
-- [ ] Include local government information
-- [ ] Add economic indicators
 
 ## 📜 License
 
@@ -135,3 +200,4 @@ This repository is provided as open data for public use.
 
 *Created: March 2026*
 *Total Structure: 2,701+ nested directories across 15 English-speaking nations*
+*Lead Intelligence Framework: 426KB of operational documentation*
