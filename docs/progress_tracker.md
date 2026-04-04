@@ -4,7 +4,7 @@
 **Classification:** Master Tracking Document
 **Audience:** All Autonomous Lead Collection Agents
 **Repository:** English Nations Hub
-**Last Updated:** 2026-04-04
+**Last Updated:** 2026-04-05
 
 ---
 
@@ -193,7 +193,7 @@ The following table tracks high-level coverage across all 15 countries in the re
 | Barbados | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Belize | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Canada | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
-| Ghana | 16 | 1 | 0 | 174 | 2026-04-04 | In Progress |
+| Ghana | 16 | 1 | 0 | 395 | 2026-04-05 | In Progress |
 | Guyana | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Ireland | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Jamaica | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
@@ -233,7 +233,7 @@ This section tracks the status of individual city areas. Each city area progress
 | Ghana | Greater-Accra | Accra | Airport-Residential | 0 | 0 | 0 | 0 | Not Started | — |
 | Ghana | Greater-Accra | Accra | Cantonments | 0 | 0 | 0 | 0 | Not Started | — |
 | Ghana | Greater-Accra | Accra | Dansoman | 0 | 0 | 0 | 0 | Not Started | — |
-| Ghana | Greater-Accra | Accra | East-Legon | 106 | 20 | 48 | 0 | Validation In Progress | LeadCollector-01 |
+| Ghana | Greater-Accra | Accra | East-Legon | 193 | 114 | 88 | 0 | Validation In Progress | DataConsolidator-01 |
 | Ghana | Greater-Accra | Accra | Labone | 0 | 0 | 0 | 0 | Not Started | — |
 | Ghana | Greater-Accra | Accra | Osu | 0 | 0 | 0 | 0 | Not Started | — |
 | Nigeria | Lagos | Lagos | Ajah | 0 | 0 | 0 | 0 | Not Started | — |
@@ -410,6 +410,68 @@ This section contains the **permanent, chronological record** of all operational
 
 ---
 
+#### 2026-04-05 — Session 003
+- **Agent ID**: DataConsolidator-01
+- **Location**: Ghana / Greater-Accra / Accra / East-Legon
+- **Session Start**: 2026-04-05 10:00 UTC
+- **Session End**: 2026-04-05 11:30 UTC
+- **Duration**: 1h 30m
+
+##### Completed Actions
+- Merged existing GMB raw_leads.csv (106 leads) with new raw_leads_all_niches.csv (88 leads) into raw_leads_master.csv
+- Applied case-insensitive fuzzy deduplication (0.90 SequenceMatcher threshold) on business_name field
+- Identified and removed 1 true duplicate ("Fresh and Ready Cleaners" appeared in both files)
+- Merged LinkedIn linkedin_leads.csv (20 professionals) with company_leads_new.csv (40 companies) into linkedin_all_companies.csv (59 unique companies)
+- Combined all LinkedIn professionals (20 old + 35 new) into linkedin_all_professionals.csv (55 unique, deduped by LinkedIn URL)
+- Merged web_leads.csv (48 leads) with web_leads_new.csv (40 leads) into web_leads_master.csv with unified 17-column schema
+- Identified 36 niche CSV files in GMB_Leads/Niches/ (21 existing + 15 new)
+- Updated AREA_SUMMARY.md with complete consolidated statistics
+- Updated progress_tracker.md dashboard and aggregate statistics
+
+##### Leads Collected
+- GMB Raw Master (deduped): 193 (106 existing + 88 new - 1 duplicate)
+- GMB Enriched Leads: 106 (unchanged — new leads not yet enriched)
+- LinkedIn Companies: 59 (20 mapped from old professionals + 40 new - 1 overlap)
+- LinkedIn Professionals: 55 (20 old + 35 new, 0 duplicates)
+- Other Web Leads (Master): 88 (48 old + 40 new, 0 duplicates)
+- **Total Leads (all sources)**: **395**
+- **Net New Leads This Session**: +221 (from 174 pre-session total)
+
+##### Niches Covered
+- 36 total niche CSV files in GMB_Leads/Niches/
+- 15 new niches added this session: Bank (6), Car Wash (5), Church (4), Electrician (4), Fashion Boutique (5), Hardware Store (4), Hospital/Clinic (7), Insurance (5), Laundry/Dry Cleaning (4), Petrol Station (5), Pharmacy (8), Printing Services (4), Tech/IT (17), Tech Startups (5), Travel Agency (5)
+
+##### Emails Validated
+- Validated: 0
+- Pending: 75+ (previous count — new leads not yet enriched)
+- Invalid: 0
+
+##### Issues Encountered
+- **Data Quality Issue in raw_leads_all_niches.csv:** 87 of 88 new GMB leads have the business address in the `niche` column instead of a proper niche category. These leads are valid but need niche re-classification. They are correctly categorized in their individual niche CSV files (bank.csv, tech_it.csv, pharmacy.csv, etc.) but the master file has malformed data.
+- **CSV formatting issue (unresolved from Session 002):** Line 54 of raw_leads.csv still has unquoted comma in business name "Akufo-Addo, Prempeh & Co".
+- **Schema mismatch:** Web leads old and new files have different column structures (8 vs 16 columns). Unified into a 17-column schema for the master file.
+- **Fuzzy dedup tuning:** Initial 0.85 threshold produced false positives (Zentech vs Techland IT, FBNBank vs Ecobank). Tightened to 0.90 which correctly identified only the genuine "Fresh and Ready Cleaners" duplicate.
+
+##### Next Steps
+- Fix niche field for 87 new GMB leads — remap address data in niche column to proper categories
+- Run enrichment pipeline on all 193 GMB master leads to update enriched_leads.csv
+- Fix CSV formatting error on line 54 of raw_leads.csv
+- Merge prempeh_and_co.csv into law_firm.csv
+- Validate all pending emails using SMTP validation
+- Cross-source deduplication — identify same businesses across GMB, LinkedIn, and Web for true unique count
+- Expand collection to additional niches (Auto Repair, Cleaning Services, Courier/Delivery)
+- Begin collection for neighboring areas (Osu, Airport Residential, Labone)
+
+##### Files Modified
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Raw_Leads/raw_leads_master.csv` (created — 193 deduplicated leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/LinkedIn_Public_Leads/Niches/linkedin_all_companies.csv` (created — 59 unique companies)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/LinkedIn_Public_Leads/Niches/linkedin_all_professionals.csv` (created — 55 unique professionals)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/Other_Public_Web_Leads/Business_Niches/web_leads_master.csv` (created — 88 deduplicated leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/AREA_SUMMARY.md` (updated — consolidated statistics)
+- `docs/progress_tracker.md` (updated dashboard, checklist, aggregate stats, added Session 003)
+
+---
+
 ---
 
 ## Session Planning Template
@@ -445,21 +507,21 @@ This section provides a running tally of cumulative project statistics. These nu
 
 | Metric | Value | Last Updated |
 |--------|-------|--------------|
-| **Total Leads Collected** | 174 | 2026-04-04 |
-| **Total GMB Raw Leads** | 106 | 2026-04-04 |
-| **Total GMB Enriched Leads** | 106 | 2026-04-04 |
-| **Total LinkedIn Public Leads** | 20 | 2026-04-04 |
-| **Total Other Web Leads** | 48 | 2026-04-04 |
-| **Total Areas Started** | 1 | 2026-04-04 |
-| **Total Areas Completed** | 0 | 2026-04-04 |
-| **Total Countries Touched** | 1 | 2026-04-04 |
-| **Total Emails Validated** | 0 | 2026-04-04 |
-| **Total Emails Valid** | 0 | 2026-04-04 |
-| **Total Emails Invalid** | 0 | 2026-04-04 |
-| **Total Emails Pending** | 75 | 2026-04-04 |
-| **Total Niches Covered** | 20 | 2026-04-04 |
-| **Total Sessions Logged** | 2 | 2026-04-04 |
-| **Total Unique Agents** | 2 (System, LeadCollector-01) | 2026-04-04 |
+| **Total Leads Collected** | 395 | 2026-04-05 |
+| **Total GMB Raw Leads** | 193 | 2026-04-05 |
+| **Total GMB Enriched Leads** | 106 | 2026-04-05 |
+| **Total LinkedIn Public Leads** | 114 | 2026-04-05 |
+| **Total Other Web Leads** | 88 | 2026-04-05 |
+| **Total Areas Started** | 1 | 2026-04-05 |
+| **Total Areas Completed** | 0 | 2026-04-05 |
+| **Total Countries Touched** | 1 | 2026-04-05 |
+| **Total Emails Validated** | 0 | 2026-04-05 |
+| **Total Emails Valid** | 0 | 2026-04-05 |
+| **Total Emails Invalid** | 0 | 2026-04-05 |
+| **Total Emails Pending** | 75+ | 2026-04-05 |
+| **Total Niches Covered** | 36 | 2026-04-05 |
+| **Total Sessions Logged** | 3 | 2026-04-05 |
+| **Total Unique Agents** | 3 (System, LeadCollector-01, DataConsolidator-01) | 2026-04-05 |
 
 ### Per-Country Lead Breakdown
 
@@ -470,7 +532,7 @@ This section provides a running tally of cumulative project statistics. These nu
 | Barbados | 0 | 0 | 0 | 0 | 0 | 0 |
 | Belize | 0 | 0 | 0 | 0 | 0 | 0 |
 | Canada | 0 | 0 | 0 | 0 | 0 | 0 |
-| Ghana | 106 | 106 | 20 | 48 | 0 | 174 |
+| Ghana | 193 | 106 | 114 | 88 | 0 | 395 |
 | Guyana | 0 | 0 | 0 | 0 | 0 | 0 |
 | Ireland | 0 | 0 | 0 | 0 | 0 | 0 |
 | Jamaica | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -480,7 +542,7 @@ This section provides a running tally of cumulative project statistics. These nu
 | Trinidad and Tobago | 0 | 0 | 0 | 0 | 0 | 0 |
 | United Kingdom | 0 | 0 | 0 | 0 | 0 | 0 |
 | United States of America | 0 | 0 | 0 | 0 | 0 | 0 |
-| **TOTAL** | **106** | **106** | **20** | **48** | **0** | **174** |
+| **TOTAL** | **193** | **106** | **114** | **88** | **0** | **395** |
 
 ---
 
