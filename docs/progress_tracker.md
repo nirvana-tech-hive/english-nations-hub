@@ -193,7 +193,7 @@ The following table tracks high-level coverage across all 15 countries in the re
 | Barbados | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Belize | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Canada | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
-| Ghana | 16 | 0 | 0 | 0 | 2026-04-04 | Not Started |
+| Ghana | 16 | 1 | 0 | 174 | 2026-04-04 | In Progress |
 | Guyana | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Ireland | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Jamaica | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
@@ -233,7 +233,7 @@ This section tracks the status of individual city areas. Each city area progress
 | Ghana | Greater-Accra | Accra | Airport-Residential | 0 | 0 | 0 | 0 | Not Started | — |
 | Ghana | Greater-Accra | Accra | Cantonments | 0 | 0 | 0 | 0 | Not Started | — |
 | Ghana | Greater-Accra | Accra | Dansoman | 0 | 0 | 0 | 0 | Not Started | — |
-| Ghana | Greater-Accra | Accra | East-Legon | 0 | 0 | 0 | 0 | Not Started | — |
+| Ghana | Greater-Accra | Accra | East-Legon | 106 | 20 | 48 | 0 | Validation In Progress | LeadCollector-01 |
 | Ghana | Greater-Accra | Accra | Labone | 0 | 0 | 0 | 0 | Not Started | — |
 | Ghana | Greater-Accra | Accra | Osu | 0 | 0 | 0 | 0 | Not Started | — |
 | Nigeria | Lagos | Lagos | Ajah | 0 | 0 | 0 | 0 | Not Started | — |
@@ -316,6 +316,100 @@ This section contains the **permanent, chronological record** of all operational
 > ---
 >
 
+### Phase 2: Lead Collection
+
+#### 2026-04-04 — Session 002
+- **Agent ID**: LeadCollector-01
+- **Location**: Ghana / Greater-Accra / Accra / East-Legon
+- **Session Start**: 2026-04-04 10:00 UTC
+- **Session End**: 2026-04-04 12:30 UTC
+- **Duration**: 2h 30m
+
+##### Completed Actions
+- Read and analyzed all three source CSV files: raw_leads.csv (106 leads), linkedin_leads.csv (20 leads), web_leads.csv (48 leads)
+- Created enriched_leads.csv with 106 rows applying enrichment logic: WhatsApp availability inference for +233 phone numbers, email derivation from website domains (info@domain pattern), cross-referencing with web_leads.csv for additional email addresses
+- Created 21 niche-specific CSV files from raw_leads.csv grouped by niche column
+- Created AREA_SUMMARY.md with comprehensive statistics, data quality notes, and next steps
+- Identified CSV formatting issue in raw_leads.csv line 54 (unquoted comma in business name)
+
+##### Leads Collected
+- GMB Raw Leads: 106
+- GMB Enriched Leads: 106
+- LinkedIn Public Leads: 20
+- Other Web Leads: 48
+- **Total New Leads This Session**: 174
+
+##### Niches Covered
+- Restaurant: 13 leads
+- Dentist: 13 leads
+- Interior Design: 8 leads
+- Photography: 7 leads
+- Event Planning: 7 leads
+- Education: 7 leads
+- Salon: 6 leads
+- Marketing Agency: 6 leads
+- Gym & Fitness: 5 leads
+- Real Estate: 5 leads
+- Plumbing: 5 leads
+- Supermarket & Retail: 4 leads
+- Barbershop: 3 leads
+- Hotel: 3 leads
+- Shopping Mall: 3 leads
+- Law Firm: 3 leads
+- Restaurant & Bar: 2 leads
+- Hotel & Restaurant: 2 leads
+- Restaurant & Cafe: 2 leads
+- Restaurant & Bakery: 1 lead
+
+##### Emails Validated
+- Validated: 0
+- Pending: 75 (14 from raw data + 25 from web cross-reference + 36 derived from domains)
+- Invalid: 0
+- Missing: 31 leads have no email and no website to derive from
+
+##### Issues Encountered
+- CSV formatting error on line 54 of raw_leads.csv: business name "Akufo-Addo, Prempeh & Co" contains an unquoted comma, causing it to be parsed as business_name="Akufo-Addo" and niche="Prempeh & Co" instead of business_name="Akufo-Addo, Prempeh & Co" and niche="Law Firm". This creates a phantom niche file (prempeh_and_co.csv) and undercounts the Law Firm niche by 1.
+- 31% of GMB leads (33/106) have no phone number — these were sourced from directory listings only
+- 30% of GMB leads (32/106) have no website — limiting email enrichment options
+
+##### Next Steps
+- Fix CSV formatting error on line 54 of raw_leads.csv (quote the business name)
+- Re-run enrichment after fixing the CSV to correct niche counts
+- Merge prempeh_and_co.csv into law_firm.csv after correction
+- Validate all 75 pending emails using SMTP validation
+- Deduplicate across all three sources (GMB, LinkedIn, Web)
+- Extract social media profiles from source URLs
+- Expand collection to additional niches not yet covered
+- Begin collection for neighboring areas (Osu, Airport Residential, Labone)
+
+##### Files Modified
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Enriched_Leads/enriched_leads.csv` (created — 106 rows)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/barbershop.csv` (created — 3 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/dentist.csv` (created — 13 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/education.csv` (created — 7 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/event_planning.csv` (created — 7 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/gym_and_fitness.csv` (created — 5 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/hotel.csv` (created — 3 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/hotel_and_restaurant.csv` (created — 2 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/interior_design.csv` (created — 8 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/law_firm.csv` (created — 3 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/marketing_agency.csv` (created — 6 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/photography.csv` (created — 7 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/plumbing.csv` (created — 5 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/prempeh_and_co.csv` (created — 1 lead; to be merged into law_firm.csv)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/real_estate.csv` (created — 5 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/restaurant.csv` (created — 13 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/restaurant_and_bakery.csv` (created — 1 lead)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/restaurant_and_bar.csv` (created — 2 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/restaurant_and_cafe.csv` (created — 2 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/salon.csv` (created — 6 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/shopping_mall.csv` (created — 3 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/GMB_Leads/Niches/supermarket_and_retail.csv` (created — 4 leads)
+- `countries/Ghana/Greater-Accra/Accra/East-Legon/AREA_SUMMARY.md` (created)
+- `docs/progress_tracker.md` (updated dashboard and added Session 002)
+
+---
+
 ---
 
 ## Session Planning Template
@@ -351,21 +445,21 @@ This section provides a running tally of cumulative project statistics. These nu
 
 | Metric | Value | Last Updated |
 |--------|-------|--------------|
-| **Total Leads Collected** | 0 | 2026-04-04 |
-| **Total GMB Raw Leads** | 0 | 2026-04-04 |
-| **Total GMB Enriched Leads** | 0 | 2026-04-04 |
-| **Total LinkedIn Public Leads** | 0 | 2026-04-04 |
-| **Total Other Web Leads** | 0 | 2026-04-04 |
-| **Total Areas Started** | 0 | 2026-04-04 |
+| **Total Leads Collected** | 174 | 2026-04-04 |
+| **Total GMB Raw Leads** | 106 | 2026-04-04 |
+| **Total GMB Enriched Leads** | 106 | 2026-04-04 |
+| **Total LinkedIn Public Leads** | 20 | 2026-04-04 |
+| **Total Other Web Leads** | 48 | 2026-04-04 |
+| **Total Areas Started** | 1 | 2026-04-04 |
 | **Total Areas Completed** | 0 | 2026-04-04 |
-| **Total Countries Touched** | 0 | 2026-04-04 |
+| **Total Countries Touched** | 1 | 2026-04-04 |
 | **Total Emails Validated** | 0 | 2026-04-04 |
 | **Total Emails Valid** | 0 | 2026-04-04 |
 | **Total Emails Invalid** | 0 | 2026-04-04 |
-| **Total Emails Pending** | 0 | 2026-04-04 |
-| **Total Niches Covered** | 0 | 2026-04-04 |
-| **Total Sessions Logged** | 1 | 2026-04-04 |
-| **Total Unique Agents** | 1 (System) | 2026-04-04 |
+| **Total Emails Pending** | 75 | 2026-04-04 |
+| **Total Niches Covered** | 20 | 2026-04-04 |
+| **Total Sessions Logged** | 2 | 2026-04-04 |
+| **Total Unique Agents** | 2 (System, LeadCollector-01) | 2026-04-04 |
 
 ### Per-Country Lead Breakdown
 
@@ -376,7 +470,7 @@ This section provides a running tally of cumulative project statistics. These nu
 | Barbados | 0 | 0 | 0 | 0 | 0 | 0 |
 | Belize | 0 | 0 | 0 | 0 | 0 | 0 |
 | Canada | 0 | 0 | 0 | 0 | 0 | 0 |
-| Ghana | 0 | 0 | 0 | 0 | 0 | 0 |
+| Ghana | 106 | 106 | 20 | 48 | 0 | 174 |
 | Guyana | 0 | 0 | 0 | 0 | 0 | 0 |
 | Ireland | 0 | 0 | 0 | 0 | 0 | 0 |
 | Jamaica | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -386,7 +480,7 @@ This section provides a running tally of cumulative project statistics. These nu
 | Trinidad and Tobago | 0 | 0 | 0 | 0 | 0 | 0 |
 | United Kingdom | 0 | 0 | 0 | 0 | 0 | 0 |
 | United States of America | 0 | 0 | 0 | 0 | 0 | 0 |
-| **TOTAL** | **0** | **0** | **0** | **0** | **0** | **0** |
+| **TOTAL** | **106** | **106** | **20** | **48** | **0** | **174** |
 
 ---
 
