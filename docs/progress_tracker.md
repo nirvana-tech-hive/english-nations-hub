@@ -193,7 +193,7 @@ The following table tracks high-level coverage across all 15 countries in the re
 | Barbados | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Belize | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Canada | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
-| Ghana | 16 | 1 | 0 | 395 | 2026-04-05 | In Progress |
+| Ghana | 16 | 2 | 0 | 897 | 2026-04-05 | In Progress |
 | Guyana | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Ireland | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Jamaica | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
@@ -235,7 +235,7 @@ This section tracks the status of individual city areas. Each city area progress
 | Ghana | Greater-Accra | Accra | Dansoman | 0 | 0 | 0 | 0 | Not Started | — |
 | Ghana | Greater-Accra | Accra | East-Legon | 193 | 114 | 88 | 0 | Validation In Progress | DataConsolidator-01 |
 | Ghana | Greater-Accra | Accra | Labone | 0 | 0 | 0 | 0 | Not Started | — |
-| Ghana | Greater-Accra | Accra | Osu | 0 | 0 | 0 | 0 | Not Started | — |
+| Ghana | Greater-Accra | Accra | Osu | 244 | 102 | 156 | 0 | Deduplication Complete | DataConsolidator-01 |
 | Nigeria | Lagos | Lagos | Ajah | 0 | 0 | 0 | 0 | Not Started | — |
 | Nigeria | Lagos | Lagos | Ikeja | 0 | 0 | 0 | 0 | Not Started | — |
 | Nigeria | Lagos | Lagos | Ikoyi | 0 | 0 | 0 | 0 | Not Started | — |
@@ -472,6 +472,68 @@ This section contains the **permanent, chronological record** of all operational
 
 ---
 
+#### 2026-04-05 — Session 004
+- **Agent ID**: DataConsolidator-01
+- **Location**: Ghana / Greater-Accra / Accra / Osu
+- **Session Start**: 2026-04-05 12:00 UTC
+- **Session End**: 2026-04-05 13:00 UTC
+- **Duration**: 1h 00m
+
+##### Completed Actions
+- Read and analyzed all Osu source CSV files across 3 lead sources (GMB, LinkedIn, Other Web)
+- Deduplicated GMB raw_leads.csv (247 leads) using case-insensitive fuzzy matching (SequenceMatcher 0.85 threshold)
+- Identified 3 intra-GMB duplicates (BloomBar, SHARPNET, SilverHair Salon & Spa — multi-niche listings)
+- Deduplicated LinkedIn company_leads.csv (50 companies) by company_name + industry combination
+- Identified 1 duplicate (La Villa Boutique Hotel listed twice)
+- Deduplicated LinkedIn professional_leads.csv (53 professionals) by linkedin_profile_url — no duplicates found
+- Deduplicated web_leads.csv (156 leads) by business_name case-insensitive — no duplicates found
+- Catalogued all 30 GMB niche CSV files with per-niche lead counts
+- Computed LinkedIn industry breakdowns for both companies and professionals
+- Computed web leads category breakdown
+- Created AREA_SUMMARY.md with comprehensive statistics
+- Updated progress_tracker.md dashboard, checklist, and aggregate statistics
+
+##### Leads Collected
+- GMB Raw Leads (post-dedup): 244 (from 247 original, 3 removed)
+- LinkedIn Companies (post-dedup): 49 (from 50 original, 1 removed)
+- LinkedIn Professionals (post-dedup): 53 (from 53 original, 0 removed)
+- Other Web Leads (post-dedup): 156 (from 156 original, 0 removed)
+- **Total Leads (all sources, post-dedup): 502**
+- **Net New Leads This Session**: +502 (Osu is a new area)
+
+##### Niches Covered
+- 30 GMB niches: restaurant (18), hotel (15), it_company (12), bakery (11), travel_agency (11), bar (10), church (10), marketing_agency (10), school (10), bank (8), cafe (8), fashion_boutique (8), fast_food (8), gym (8), law_firm (8), salon (8), supermarket (8), electronics (7), real_estate (7), spa (7), car_dealership (6), event_planning (6), hospital_clinic (6), insurance (6), photography (6), accounting_firm (5), art_gallery (5), nightclub (5), pharmacy (5), printing_service (5)
+- 14 LinkedIn company industries: Technology (9), Hospitality & Tourism (8), Healthcare (7), Real Estate & Construction (5), Retail (4), General Business (4)
+- 12 LinkedIn professional industries: Technology (12), Healthcare (8), General Business (6), Education & Training (6)
+- 18 web categories: Food & Dining (54), Financial Services (17), Hospitality (17), Retail (16), Nightlife (11), Healthcare (9)
+
+##### Emails Validated
+- No email validation performed this session
+
+##### Issues Encountered
+- **Multi-niche GMB listings**: 3 businesses (BloomBar, SHARPNET, SilverHair) appeared in multiple niche CSVs because they serve multiple categories. These are legitimate cross-niche entries, not true data errors. First occurrence retained.
+- **LinkedIn false-positive risk**: Some LinkedIn professionals matched on the keyword "Osu" may not actually be in Osu, Accra (e.g., Katie Heitz from "OSU Health" in Ohio, USA). Estimated 5-10% contamination rate. Needs manual review.
+- **Cross-source overlap not addressed**: Several businesses appear across multiple sources (e.g., La Villa Boutique Hotel in GMB + LinkedIn, Kukun in GMB + LinkedIn). True unique business count would be lower than 502. Cross-source dedup recommended as next step.
+- **No issues with data integrity**: All CSVs were well-formed and parseable.
+
+##### Next Steps
+- Cross-source deduplication to compute true unique business count across GMB + LinkedIn + Web
+- Clean LinkedIn professional false-positives (remove non-Osu Accra profiles)
+- Email enrichment for leads with websites but no email (derive info@domain)
+- Email validation using SMTP checks
+- Expand to additional Osu niches (Auto Repair, Cleaning Services, Courier/Delivery)
+- Begin collection for next area (Airport Residential or Labone)
+
+##### Files Modified
+- `countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv` (created — 244 deduplicated leads)
+- `countries/Ghana/Greater-Accra/Accra/Osu/LinkedIn_Public_Leads/Raw_Leads/linkedin_companies_deduped.csv` (created — 49 deduplicated companies)
+- `countries/Ghana/Greater-Accra/Accra/Osu/LinkedIn_Public_Leads/Raw_Leads/linkedin_professionals_deduped.csv` (created — 53 deduplicated professionals)
+- `countries/Ghana/Greater-Accra/Accra/Osu/Other_Public_Web_Leads/Raw_Leads/web_leads_deduped.csv` (created — 156 deduplicated leads)
+- `countries/Ghana/Greater-Accra/Accra/Osu/AREA_SUMMARY.md` (created)
+- `docs/progress_tracker.md` (updated dashboard, checklist, aggregate stats, added Session 004)
+
+---
+
 ---
 
 ## Session Planning Template
@@ -507,20 +569,20 @@ This section provides a running tally of cumulative project statistics. These nu
 
 | Metric | Value | Last Updated |
 |--------|-------|--------------|
-| **Total Leads Collected** | 395 | 2026-04-05 |
-| **Total GMB Raw Leads** | 193 | 2026-04-05 |
+| **Total Leads Collected** | 897 | 2026-04-05 |
+| **Total GMB Raw Leads** | 437 | 2026-04-05 |
 | **Total GMB Enriched Leads** | 106 | 2026-04-05 |
-| **Total LinkedIn Public Leads** | 114 | 2026-04-05 |
-| **Total Other Web Leads** | 88 | 2026-04-05 |
-| **Total Areas Started** | 1 | 2026-04-05 |
+| **Total LinkedIn Public Leads** | 216 | 2026-04-05 |
+| **Total Other Web Leads** | 244 | 2026-04-05 |
+| **Total Areas Started** | 2 | 2026-04-05 |
 | **Total Areas Completed** | 0 | 2026-04-05 |
 | **Total Countries Touched** | 1 | 2026-04-05 |
 | **Total Emails Validated** | 0 | 2026-04-05 |
 | **Total Emails Valid** | 0 | 2026-04-05 |
 | **Total Emails Invalid** | 0 | 2026-04-05 |
 | **Total Emails Pending** | 75+ | 2026-04-05 |
-| **Total Niches Covered** | 36 | 2026-04-05 |
-| **Total Sessions Logged** | 3 | 2026-04-05 |
+| **Total Niches Covered** | 66 | 2026-04-05 |
+| **Total Sessions Logged** | 4 | 2026-04-05 |
 | **Total Unique Agents** | 3 (System, LeadCollector-01, DataConsolidator-01) | 2026-04-05 |
 
 ### Per-Country Lead Breakdown
@@ -532,7 +594,7 @@ This section provides a running tally of cumulative project statistics. These nu
 | Barbados | 0 | 0 | 0 | 0 | 0 | 0 |
 | Belize | 0 | 0 | 0 | 0 | 0 | 0 |
 | Canada | 0 | 0 | 0 | 0 | 0 | 0 |
-| Ghana | 193 | 106 | 114 | 88 | 0 | 395 |
+| Ghana | 437 | 106 | 216 | 244 | 0 | 897 |
 | Guyana | 0 | 0 | 0 | 0 | 0 | 0 |
 | Ireland | 0 | 0 | 0 | 0 | 0 | 0 |
 | Jamaica | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -542,7 +604,7 @@ This section provides a running tally of cumulative project statistics. These nu
 | Trinidad and Tobago | 0 | 0 | 0 | 0 | 0 | 0 |
 | United Kingdom | 0 | 0 | 0 | 0 | 0 | 0 |
 | United States of America | 0 | 0 | 0 | 0 | 0 | 0 |
-| **TOTAL** | **193** | **106** | **114** | **88** | **0** | **395** |
+| **TOTAL** | **437** | **106** | **216** | **244** | **0** | **897** |
 
 ---
 
