@@ -193,7 +193,7 @@ The following table tracks high-level coverage across all 15 countries in the re
 | Barbados | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Belize | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Canada | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
-| Ghana | 16 | 2 | 0 | 897 | 2026-04-05 | In Progress |
+| Ghana | 16 | 3 | 0 | 1,575 | 2026-04-05 | In Progress |
 | Guyana | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Ireland | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Jamaica | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
@@ -230,7 +230,7 @@ This section tracks the status of individual city areas. Each city area progress
 
 | Country | State | City | Area | GMB | LinkedIn | Other Web | Emails Validated | Status | Agent |
 |---------|-------|------|------|-----|----------|-----------|-----------------|--------|-------|
-| Ghana | Greater-Accra | Accra | Airport-Residential | 0 | 0 | 0 | 0 | Not Started | — |
+| Ghana | Greater-Accra | Accra | Airport-Residential | 353 | 71 | 254 | 0 | Deduplication Complete | DataConsolidator-01 |
 | Ghana | Greater-Accra | Accra | Cantonments | 0 | 0 | 0 | 0 | Not Started | — |
 | Ghana | Greater-Accra | Accra | Dansoman | 0 | 0 | 0 | 0 | Not Started | — |
 | Ghana | Greater-Accra | Accra | East-Legon | 193 | 114 | 88 | 0 | Validation In Progress | DataConsolidator-01 |
@@ -534,6 +534,67 @@ This section contains the **permanent, chronological record** of all operational
 
 ---
 
+#### 2026-04-05 — Session 005
+- **Agent ID**: DataConsolidator-01
+- **Location**: Ghana / Greater-Accra / Accra / Airport-Residential
+- **Session Start**: 2026-04-05 14:00 UTC
+- **Session End**: 2026-04-05 15:30 UTC
+- **Duration**: 1h 30m
+
+##### Completed Actions
+- Read and analyzed all Airport Residential source CSV files across 3 lead sources (GMB, LinkedIn, Other Web)
+- Deduplicated GMB raw_leads.csv (378 leads) using case-insensitive fuzzy matching (SequenceMatcher 0.85 threshold)
+- Identified 25 intra-GMB duplicates including cross-niche listings (e.g., Ci Gusta in restaurants+cafes, Huawei in IT+electronics) and some false positives (e.g., Embassy of Spain/Sudan, Ambassador Residences with common prefix)
+- Deduplicated LinkedIn companies (50) by company_name + industry combination — 0 duplicates found
+- Deduplicated LinkedIn professionals (21) by linkedin_profile_url and full_name — 0 duplicates found
+- Deduplicated web_leads.csv (256 leads) by case-insensitive business_name — 2 duplicates found (National Service Bakery, Soccabet)
+- Catalogued all 32 GMB niche CSV files with per-niche lead counts
+- Computed LinkedIn industry breakdowns for both companies (25 industries) and professionals (17 industries)
+- Computed web leads category breakdown (22 categories)
+- Identified 40 embassies/diplomatic missions, 18+ hotels, and 15+ corporate HQs as high-value targets
+- Created AREA_SUMMARY.md with comprehensive statistics
+- Updated progress_tracker.md dashboard, checklist, and aggregate statistics
+
+##### Leads Collected
+- GMB Raw Leads (post-dedup): 353 (from 378 original, 25 removed)
+- LinkedIn Companies (post-dedup): 50 (from 50 original, 0 removed)
+- LinkedIn Professionals (post-dedup): 21 (from 21 original, 0 removed)
+- Other Web Leads (post-dedup): 254 (from 256 original, 2 removed)
+- **Total Leads (all sources, post-dedup): 678**
+- **Net New Leads This Session**: +678 (Airport Residential is a new area)
+
+##### Niches Covered
+- 32 GMB niches: restaurants (45), embassies (38), hotels (28), consulting_firms (25), banks (21), it_companies (19), schools (14), airlines_offices (13), supermarkets (13), hospitals_clinics (11), real_estate (11), gym_fitness (10), law_firms (10), pharmacy (9), travel_agencies (9), accounting_firms (8), car_dealerships (8), fast_food (8), marketing_agencies (8), salon_spa (8), bars_lounges (7), event_planning (7), photography_studios (7), printing_services (7), bakeries (6), cafes (6), electronics_stores (6), fashion_boutiques (5), insurance (4), shopping_malls (4), government (1), jewelry (0)
+- 25 LinkedIn company industries: Real Estate (9), Healthcare (4), Aviation (4), Hospitality (3), IT (3), Banking (3), Energy (3)
+- 22 web categories: Embassy/Diplomatic (39), Food & Beverage (38), Corporate/Company (30), Financial Services (27)
+
+##### Emails Validated
+- No email validation performed this session
+
+##### Issues Encountered
+- **GMB fuzzy dedup false positives:** The 0.85 threshold produced ~6-8 false positive merges due to common prefix patterns: Embassy of Spain matched Embassy of Sudan; multiple Ambassador Residence entries matched each other; Fanida International School matched Ghana International School; Al-Rayan International School matched American International School. True GMB unique count is likely ~359-361.
+- **Multi-niche GMB listings:** ~8 businesses appear legitimately in multiple niches (Ci Gusta, Sky Bar 25, Big Al's, Huawei, etc.). These are correct cross-niche entries, not errors.
+- **Web data identical files:** raw_leads.csv and Business_Niches/web_leads.csv contain identical data (256 rows each).
+- **Cross-source overlap not addressed:** Businesses like Geodrill, Villa Monticello, and several hotels appear in multiple sources. True unique count < 678.
+
+##### Next Steps
+- Cross-source deduplication across GMB + LinkedIn + Web for true unique business count
+- Manual review of false positive GMB dedup merges (~6-8 records)
+- Email enrichment for leads with websites but no email
+- Email validation using SMTP checks
+- Expand to additional niches (Auto Repair, Cleaning, Courier, Co-working)
+- Begin collection for next area (Cantonments, Labone, or Dansoman)
+
+##### Files Modified
+- `countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv` (created — 353 deduplicated leads)
+- `countries/Ghana/Greater-Accra/Accra/Airport-Residential/LinkedIn_Public_Leads/Raw_Leads/linkedin_companies_deduped.csv` (created — 50 deduplicated companies)
+- `countries/Ghana/Greater-Accra/Accra/Airport-Residential/LinkedIn_Public_Leads/Raw_Leads/linkedin_professionals_deduped.csv` (created — 21 deduplicated professionals)
+- `countries/Ghana/Greater-Accra/Accra/Airport-Residential/Other_Public_Web_Leads/Raw_Leads/web_leads_deduped.csv` (created — 254 deduplicated leads)
+- `countries/Ghana/Greater-Accra/Accra/Airport-Residential/AREA_SUMMARY.md` (created)
+- `docs/progress_tracker.md` (updated dashboard, checklist, aggregate stats, added Session 005)
+
+---
+
 ---
 
 ## Session Planning Template
@@ -569,20 +630,20 @@ This section provides a running tally of cumulative project statistics. These nu
 
 | Metric | Value | Last Updated |
 |--------|-------|--------------|
-| **Total Leads Collected** | 897 | 2026-04-05 |
-| **Total GMB Raw Leads** | 437 | 2026-04-05 |
+| **Total Leads Collected** | 1,575 | 2026-04-05 |
+| **Total GMB Raw Leads** | 790 | 2026-04-05 |
 | **Total GMB Enriched Leads** | 106 | 2026-04-05 |
-| **Total LinkedIn Public Leads** | 216 | 2026-04-05 |
-| **Total Other Web Leads** | 244 | 2026-04-05 |
-| **Total Areas Started** | 2 | 2026-04-05 |
+| **Total LinkedIn Public Leads** | 287 | 2026-04-05 |
+| **Total Other Web Leads** | 498 | 2026-04-05 |
+| **Total Areas Started** | 3 | 2026-04-05 |
 | **Total Areas Completed** | 0 | 2026-04-05 |
 | **Total Countries Touched** | 1 | 2026-04-05 |
 | **Total Emails Validated** | 0 | 2026-04-05 |
 | **Total Emails Valid** | 0 | 2026-04-05 |
 | **Total Emails Invalid** | 0 | 2026-04-05 |
 | **Total Emails Pending** | 75+ | 2026-04-05 |
-| **Total Niches Covered** | 66 | 2026-04-05 |
-| **Total Sessions Logged** | 4 | 2026-04-05 |
+| **Total Niches Covered** | 98 | 2026-04-05 |
+| **Total Sessions Logged** | 5 | 2026-04-05 |
 | **Total Unique Agents** | 3 (System, LeadCollector-01, DataConsolidator-01) | 2026-04-05 |
 
 ### Per-Country Lead Breakdown
@@ -594,7 +655,7 @@ This section provides a running tally of cumulative project statistics. These nu
 | Barbados | 0 | 0 | 0 | 0 | 0 | 0 |
 | Belize | 0 | 0 | 0 | 0 | 0 | 0 |
 | Canada | 0 | 0 | 0 | 0 | 0 | 0 |
-| Ghana | 437 | 106 | 216 | 244 | 0 | 897 |
+| Ghana | 790 | 106 | 287 | 498 | 0 | 1,575 |
 | Guyana | 0 | 0 | 0 | 0 | 0 | 0 |
 | Ireland | 0 | 0 | 0 | 0 | 0 | 0 |
 | Jamaica | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -604,7 +665,7 @@ This section provides a running tally of cumulative project statistics. These nu
 | Trinidad and Tobago | 0 | 0 | 0 | 0 | 0 | 0 |
 | United Kingdom | 0 | 0 | 0 | 0 | 0 | 0 |
 | United States of America | 0 | 0 | 0 | 0 | 0 | 0 |
-| **TOTAL** | **437** | **106** | **216** | **244** | **0** | **897** |
+| **TOTAL** | **790** | **106** | **287** | **498** | **0** | **1,575** |
 
 ---
 
