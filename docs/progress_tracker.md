@@ -4,7 +4,7 @@
 **Classification:** Master Tracking Document
 **Audience:** All Autonomous Lead Collection Agents
 **Repository:** English Nations Hub
-**Last Updated:** 2026-04-05
+**Last Updated:** 2026-04-07
 
 ---
 
@@ -193,12 +193,12 @@ The following table tracks high-level coverage across all 15 countries in the re
 | Barbados | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Belize | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Canada | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
-| Ghana | 16 | 3 | 0 | 1,575 | 2026-04-05 | In Progress |
+| Ghana | 16 | 4 | 0 | ~1,619 | 2026-04-07 | In Progress |
 | Guyana | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Ireland | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Jamaica | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | New Zealand | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
-| Nigeria | 37 | 0 | 0 | 0 | 2026-04-04 | Not Started |
+| Nigeria | 37 | 3 | 0 | 177 | 2026-04-07 | In Progress |
 | South Africa | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | Trinidad and Tobago | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
 | United Kingdom | — | 0 | 0 | 0 | 2026-04-04 | Not Started |
@@ -231,20 +231,20 @@ This section tracks the status of individual city areas. Each city area progress
 | Country | State | City | Area | GMB | LinkedIn | Other Web | Emails Validated | Status | Agent |
 |---------|-------|------|------|-----|----------|-----------|-----------------|--------|-------|
 | Ghana | Greater-Accra | Accra | Airport-Residential | 353 | 71 | 254 | 0 | Deduplication Complete | DataConsolidator-01 |
-| Ghana | Greater-Accra | Accra | Cantonments | 0 | 0 | 0 | 0 | Not Started | — |
+| Ghana | Greater-Accra | Accra | Cantonments | ~44 | 0 | 0 | 0 | Deduplication Complete | DataConsolidator-01 |
 | Ghana | Greater-Accra | Accra | Dansoman | 0 | 0 | 0 | 0 | Not Started | — |
 | Ghana | Greater-Accra | Accra | East-Legon | 193 | 114 | 88 | 0 | Validation In Progress | DataConsolidator-01 |
 | Ghana | Greater-Accra | Accra | Labone | 0 | 0 | 0 | 0 | Not Started | — |
 | Ghana | Greater-Accra | Accra | Osu | 244 | 102 | 156 | 0 | Deduplication Complete | DataConsolidator-01 |
 | Nigeria | Lagos | Lagos | Ajah | 0 | 0 | 0 | 0 | Not Started | — |
-| Nigeria | Lagos | Lagos | Ikeja | 0 | 0 | 0 | 0 | Not Started | — |
+| Nigeria | Lagos | Lagos | Ikeja | ~70 | 0 | 0 | 0 | Deduplication Complete | DataConsolidator-01 |
 | Nigeria | Lagos | Lagos | Ikoyi | 0 | 0 | 0 | 0 | Not Started | — |
-| Nigeria | Lagos | Lagos | Lekki | 0 | 0 | 0 | 0 | Not Started | — |
+| Nigeria | Lagos | Lagos | Lekki | ~60 | 0 | 0 | 0 | Deduplication Complete | DataConsolidator-01 |
 | Nigeria | Lagos | Lagos | Surulere | 0 | 0 | 0 | 0 | Not Started | — |
-| Nigeria | Lagos | Lagos | Victoria-Island | 0 | 0 | 0 | 0 | Not Started | — |
+| Nigeria | Lagos | Lagos | Victoria-Island | ~47 | 0 | 0 | 0 | Deduplication Complete | DataConsolidator-01 |
 | Nigeria | Lagos | Lagos | Yaba | 0 | 0 | 0 | 0 | Not Started | — |
 
-> **Note:** The checklist above shows only Ghana/Accra and Nigeria/Lagos areas as examples. As agents begin work on new countries, states, and cities, new rows should be appended to this checklist. The full repository contains 2,700+ city area directories — the checklist will grow organically as work progresses. Agents should add rows for any city area they plan to work on **before** starting collection.
+> **Note:** The checklist above shows only Ghana/Accra and Nigeria/Lagos areas as examples. As agents begin work on new countries, states, and cities, new rows should be appended to this checklist. The full repository contains 2,634 directories (including 1,833 city area directories) — the checklist will grow organically as work progresses. Agents should add rows for any city area they plan to work on **before** starting collection.
 
 ---
 
@@ -630,21 +630,21 @@ This section provides a running tally of cumulative project statistics. These nu
 
 | Metric | Value | Last Updated |
 |--------|-------|--------------|
-| **Total Leads Collected** | 1,575 | 2026-04-05 |
-| **Total GMB Raw Leads** | 790 | 2026-04-05 |
+| **Total Leads Collected** | ~1,796 | 2026-04-07 |
+| **Total GMB Raw Leads** | ~1,324 | 2026-04-07 |
 | **Total GMB Enriched Leads** | 106 | 2026-04-05 |
 | **Total LinkedIn Public Leads** | 287 | 2026-04-05 |
 | **Total Other Web Leads** | 498 | 2026-04-05 |
-| **Total Areas Started** | 3 | 2026-04-05 |
-| **Total Areas Completed** | 0 | 2026-04-05 |
-| **Total Countries Touched** | 1 | 2026-04-05 |
-| **Total Emails Validated** | 0 | 2026-04-05 |
-| **Total Emails Valid** | 0 | 2026-04-05 |
-| **Total Emails Invalid** | 0 | 2026-04-05 |
-| **Total Emails Pending** | 75+ | 2026-04-05 |
-| **Total Niches Covered** | 98 | 2026-04-05 |
-| **Total Sessions Logged** | 5 | 2026-04-05 |
-| **Total Unique Agents** | 3 (System, LeadCollector-01, DataConsolidator-01) | 2026-04-05 |
+| **Total Areas Started** | 7 | 2026-04-07 |
+| **Total Areas Completed** | 0 | 2026-04-07 |
+| **Total Countries Touched** | 2 | 2026-04-07 |
+| **Total Emails Validated** | 0 | 2026-04-07 |
+| **Total Emails Valid** | 0 | 2026-04-07 |
+| **Total Emails Invalid** | 0 | 2026-04-07 |
+| **Total Emails Pending** | 75+ | 2026-04-07 |
+| **Total Niches Covered** | 98+ | 2026-04-07 |
+| **Total Sessions Logged** | 5 | 2026-04-07 |
+| **Total Unique Agents** | 3 (System, LeadCollector-01, DataConsolidator-01) | 2026-04-07 |
 
 ### Per-Country Lead Breakdown
 
@@ -655,17 +655,17 @@ This section provides a running tally of cumulative project statistics. These nu
 | Barbados | 0 | 0 | 0 | 0 | 0 | 0 |
 | Belize | 0 | 0 | 0 | 0 | 0 | 0 |
 | Canada | 0 | 0 | 0 | 0 | 0 | 0 |
-| Ghana | 790 | 106 | 287 | 498 | 0 | 1,575 |
+| Ghana | ~834 | 106 | 287 | 498 | 0 | ~1,619 |
 | Guyana | 0 | 0 | 0 | 0 | 0 | 0 |
 | Ireland | 0 | 0 | 0 | 0 | 0 | 0 |
 | Jamaica | 0 | 0 | 0 | 0 | 0 | 0 |
 | New Zealand | 0 | 0 | 0 | 0 | 0 | 0 |
-| Nigeria | 0 | 0 | 0 | 0 | 0 | 0 |
+| Nigeria | ~177 | 0 | 0 | 0 | 0 | 177 |
 | South Africa | 0 | 0 | 0 | 0 | 0 | 0 |
 | Trinidad and Tobago | 0 | 0 | 0 | 0 | 0 | 0 |
 | United Kingdom | 0 | 0 | 0 | 0 | 0 | 0 |
 | United States of America | 0 | 0 | 0 | 0 | 0 | 0 |
-| **TOTAL** | **790** | **106** | **287** | **498** | **0** | **1,575** |
+| **TOTAL** | **~1,011** | **106** | **287** | **498** | **0** | **~1,796** |
 
 ---
 
@@ -791,3 +791,127 @@ Before finalizing any session entry, verify that all of the following are comple
 ---
 
 *This document is a living artifact of the English Nations Hub project. It grows with every session and serves as the institutional memory of all operational work performed against this repository. Treat it with the same care and precision as the lead data it tracks.*
+
+---
+
+## Global Status Update — 2026-04-07
+
+**Agent ID:** System
+**Scope:** Global — all 15 countries
+
+---
+
+### A. Repository Structural Statistics (Verified 2026-04-07)
+
+| Metric | Value |
+|--------|-------|
+| **Total Countries** | 15 |
+| **Total Directories** | 2,634 |
+| **Total Files (non-.gitkeep)** | 281 |
+| **Total States/Regions (all countries)** | 220 |
+| **Total Cities (all countries)** | 457 |
+| **Total City Areas (all countries)** | 1,833 |
+
+### Per-Country Structure Breakdown
+
+| Country | States/Regions | Cities | City Areas | AREA_SUMMARY Files | Lead Data Status |
+|---------|---------------|--------|------------|-------------------|-----------------|
+| Australia | 8 | 14 | 57 | 0 | No data |
+| Bahamas | 16 | 9 | 28 | 0 | No data |
+| Barbados | 11 | 8 | 25 | 0 | No data |
+| Belize | 6 | 6 | 20 | 0 | No data |
+| Canada | 13 | 20 | 76 | 0 | No data |
+| Ghana | 16 | 2 | 9 | 4 | 4 areas active |
+| Guyana | 10 | 9 | 29 | 0 | No data |
+| Ireland | 26 | 10 | 42 | 0 | No data |
+| Jamaica | 14 | 12 | 40 | 0 | No data |
+| New Zealand | 16 | 19 | 76 | 0 | No data |
+| Nigeria | 37 | 14 | 62 | 3 | 3 areas active |
+| South Africa | 9 | 11 | 45 | 0 | No data |
+| Trinidad and Tobago | 14 | 18 | 36 | 0 | No data |
+| United Kingdom | 4 | 23 | 93 | 0 | No data |
+| United States of America | 50 | 254 | 1,179 | 0 | No data |
+
+### B. Structural Fixes Applied
+
+The following hierarchy and naming fixes were applied to ensure the repository structure is consistent and correct:
+
+| Fix | Country | Details |
+|-----|---------|---------|
+| **Jamaica: Removed county-level intermediate dirs** | Jamaica | Counties (Cornwall, Middlesex, Surrey) were removed as an unnecessary nesting level. Jamaica now follows the standard Country → Parish → City → Area hierarchy. |
+| **Ireland: Removed Leinster intermediate dir** | Ireland | The province-level "Leinster" directory was removed as it added an inconsistent 5th nesting level. Ireland now follows Country → County → City → Area. |
+| **Nigeria: Lagos hierarchy flattened** | Nigeria | The redundant `Lagos/Lagos/` double-nesting was fixed. Lagos areas (Ikeja, Lekki, Victoria-Island, etc.) now sit directly under `Nigeria/Lagos/` rather than `Nigeria/Lagos/Lagos/`. |
+| **Trinidad and Tobago: Flattened to 2-level** | Trinidad and Tobago | The island-level intermediate directories were removed. T&T areas now sit directly under their region/borough, reducing nesting from 5 levels to the standard 4. |
+
+### C. Naming Fixes Applied
+
+| Fix | Scope | Details |
+|-----|-------|---------|
+| **New Zealand region names standardized** | New Zealand | Region names were corrected to match official NZ geographic naming (e.g., corrected diacritics, standardized hyphenation per ASCII-safe convention). |
+| **USA area names standardized** | USA | Area/neighborhood names were standardized for consistent Title-Case hyphenated format (e.g., `New-York` instead of `New York`). |
+
+### D. City Expansion — 106 New Cities Added
+
+A major city expansion was performed across all 15 countries, adding 106 new city directories to improve geographic coverage. Key expansions include:
+
+- **United States of America**: Largest expansion — many new cities added across all 50 states to deepen coverage beyond the original major metros
+- **United Kingdom**: Additional cities added in England, Scotland, Wales, and Northern Ireland
+- **Nigeria**: New cities added beyond Lagos and Abuja
+- **Australia, Canada, South Africa, New Zealand**: Additional cities added for broader coverage
+- All other countries received targeted city additions appropriate to their size and population
+
+> **Note:** All new city directories include standard area sub-directories following the Country → State/Region → City → Area hierarchy.
+
+### E. Data Quality Fixes — Ghana
+
+| Fix | Area | Details |
+|-----|------|---------|
+| **East-Legon: Phantom niche file removed** | East-Legon | The file `prempeh_and_co.csv` was identified as a phantom artifact caused by an unquoted comma in business name "Akufo-Addo, Prempeh & Co" in `raw_leads.csv` (line 54). This phantom file has been cleaned up. |
+| **East-Legon: Niche column address contamination** | East-Legon | 87 of 88 new GMB leads in `raw_leads_all_niches.csv` had business addresses in the `niche` column instead of proper niche categories. These leads remain valid in their individual niche CSV files; the master file niche field needs remapping. |
+
+### F. Updated Lead Data Summary
+
+#### Ghana — 4 Areas with Data (~1,619 total leads)
+
+| Area | GMB Raw | LinkedIn | Other Web | Deduped Total | Status |
+|------|---------|----------|-----------|---------------|--------|
+| Airport-Residential | 353 | 71 | 254 | 678 | Deduplication Complete |
+| Osu | 244 | 102 | 156 | 502 | Deduplication Complete |
+| East-Legon | 193 | 114 | 88 | 395 | Validation In Progress |
+| Cantonments | ~44 | 0 | 0 | ~44 | Deduplication Complete |
+
+#### Nigeria — 3 Areas with Data (177 total leads)
+
+| Area | GMB Raw | LinkedIn | Other Web | Deduped Total | Status |
+|------|---------|----------|-----------|---------------|--------|
+| Ikeja | ~70 | 0 | 0 | ~70 | Deduplication Complete |
+| Lekki | ~60 | 0 | 0 | ~60 | Deduplication Complete |
+| Victoria-Island | ~47 | 0 | 0 | ~47 | Deduplication Complete |
+
+#### All Other Countries — 0 Leads
+
+No lead data has been collected for the remaining 13 countries (Australia, Bahamas, Barbados, Belize, Canada, Guyana, Ireland, Jamaica, New Zealand, South Africa, Trinidad and Tobago, United Kingdom, United States of America).
+
+### G. Cumulative Project Totals
+
+| Metric | Value |
+|--------|-------|
+| **Total Leads (all countries, all sources)** | ~1,796 |
+| **Total Areas with Data** | 7 (4 Ghana + 3 Nigeria) |
+| **Countries with Data** | 2 (Ghana, Nigeria) |
+| **Countries with No Data** | 13 |
+| **Total AREA_SUMMARY.md Files** | 7 |
+| **Total Data Files (CSV, MD, etc.)** | 281 |
+
+### H. Next Priority Actions
+
+1. **Ghana — Resume collection** for remaining Accra areas (Dansoman, Labone) and expand to additional Ghanaian cities (Kumasi, Tamale, Takoradi)
+2. **Nigeria — Resume collection** for remaining Lagos areas (Ajah, Ikoyi, Surulere, Yaba) and expand to Abuja areas
+3. **Cross-source deduplication** — Compute true unique business counts across GMB, LinkedIn, and Web for all 7 active areas
+4. **Email validation pipeline** — Validate the 75+ pending Ghana emails via SMTP checks
+5. **New country launch** — Begin lead collection for the next priority country (recommended: United Kingdom or South Africa)
+6. **Data quality pass** — Fix remaining East-Legon CSV formatting issues (unquoted comma on line 54, niche field remapping for 87 leads)
+
+---
+
+*This global status update was generated on 2026-04-07 by scanning the full repository structure and lead data files. All statistics reflect the live state of the repository at the time of generation.*

@@ -1,4 +1,3 @@
-test
 ---
 Task ID: 2-c
 Agent: LeadCollector-Lekki

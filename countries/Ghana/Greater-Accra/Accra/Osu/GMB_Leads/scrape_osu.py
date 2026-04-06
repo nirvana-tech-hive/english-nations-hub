@@ -10,7 +10,7 @@ import subprocess
 import json
 import time
 
-BASE_DIR = "/home/z/my-project/repo/countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads"
+BASE_DIR = "/home/z/my-project/english-nations-hub/countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads"
 NICHES_DIR = os.path.join(BASE_DIR, "Niches")
 RAW_DIR = os.path.join(BASE_DIR, "Raw_Leads")
 DATE = "2026-04-05"

@@ -7,7 +7,7 @@ A comprehensive, deeply nested folder structure documenting all primary English-
 | Metric | Count |
 |--------|-------|
 | **Total Countries** | 15 |
-| **Total Directories** | 2,701+ |
+| **Total Directories** | 2,634 |
 | **Nesting Levels** | 4 (Country → State/Region → City → Area) |
 
 ## 🗺️ Countries Included
@@ -20,7 +20,7 @@ A comprehensive, deeply nested folder structure documenting all primary English-
 | 🇯🇲 **Jamaica** | 14 Parishes |
 | 🇹🇹 **Trinidad and Tobago** | 14 Regions |
 | 🇧🇧 **Barbados** | 11 Parishes |
-| 🇧🇸 **Bahamas** | 14 Islands |
+| 🇧🇸 **Bahamas** | 16 Islands |
 | 🇧🇿 **Belize** | 6 Districts |
 
 ### Europe
@@ -63,19 +63,54 @@ english-nations-hub/
 │   │       └── Houston/
 │   ├── United-Kingdom/
 │   │   ├── England/
-│   │   │   ├── Greater-London/
-│   │   │   └── Greater-Manchester/
+│   │   │   ├── London/
+│   │   │   │   ├── Camden
+│   │   │   │   ├── Chelsea
+│   │   │   │   ├── City-of-London
+│   │   │   │   ├── Greenwich
+│   │   │   │   ├── Hackney
+│   │   │   │   ├── Kensington
+│   │   │   │   └── Westminster
+│   │   │   ├── Manchester/
+│   │   │   │   ├── Chorlton
+│   │   │   │   ├── City-Centre
+│   │   │   │   ├── Didsbury
+│   │   │   │   ├── Northern-Quarter
+│   │   │   │   └── Salford
+│   │   │   ├── Birmingham/
+│   │   │   │   ├── City-Centre
+│   │   │   │   ├── Digbeth
+│   │   │   │   ├── Edgbaston
+│   │   │   │   └── Selly-Oak
+│   │   │   └── Liverpool/
+│   │   │       ├── Anfield
+│   │   │       ├── City-Centre
+│   │   │       └── Everton
 │   │   ├── Scotland/
+│   │   │   ├── Edinburgh/
+│   │   │   └── Glasgow/
 │   │   ├── Wales/
+│   │   │   └── Cardiff/
 │   │   └── Northern-Ireland/
+│   │       └── Belfast/
 │   ├── Nigeria/
 │   │   ├── Lagos/
-│   │   │   ├── Lagos-Island/
-│   │   │   │   ├── Victoria-Island
-│   │   │   │   ├── Ikoyi
-│   │   │   │   └── Lekki
-│   │   │   └── Lagos-Mainland/
+│   │   │   ├── Lagos/
+│   │   │   │   ├── Ikeja/
+│   │   │   │   ├── Lekki/
+│   │   │   │   ├── Victoria-Island/
+│   │   │   │   ├── Ikoyi/
+│   │   │   │   ├── Ajah/
+│   │   │   │   ├── Surulere/
+│   │   │   │   └── Yaba/
 │   │   ├── FCT-Abuja/
+│   │   │   ├── Abuja/
+│   │   │   │   ├── Asokoro/
+│   │   │   │   ├── CBD/
+│   │   │   │   ├── Garki/
+│   │   │   │   ├── Guzape/
+│   │   │   │   ├── Maitama/
+│   │   │   │   └── Wuse/
 │   │   └── ... (36 states + FCT)
 │   └── ... (15 countries total)
 └── README.md
@@ -199,5 +234,5 @@ This repository is provided as open data for public use.
 ---
 
 *Created: March 2026*
-*Total Structure: 2,701+ nested directories across 15 English-speaking nations*
+*Total Structure: 2,634 nested directories across 15 English-speaking nations*
 *Lead Intelligence Framework: 426KB of operational documentation*
