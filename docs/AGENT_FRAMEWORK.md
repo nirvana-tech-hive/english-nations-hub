@@ -313,6 +313,58 @@ Agents should use the following general approach for GMB lead collection:
 
 LinkedIn Public Leads originate from **public LinkedIn profiles** that are discovered through search engines (Google, Bing, etc.) rather than through direct LinkedIn internal search. This distinction is important because it means the leads come from publicly indexable profile data — information that LinkedIn has made visible to search engines.
 
+### ⚠️ CRITICAL: LinkedIn Leads — Email is the Primary End Product
+
+> **This instruction is mandatory and overrides all other LinkedIn collection priorities.**
+
+**The fully validated email address is the #1 mandatory deliverable for every LinkedIn lead.** While the lead's name, profession, company, and phone/WhatsApp contact are important supplementary data points, a LinkedIn lead without a **validated email address** is considered **incomplete** and must be prioritized for enrichment.
+
+#### The Email-First Rule
+
+| Data Field | Priority Level | Required? | Notes |
+|---|---|---|---|
+| **Validated Email Address** | **CRITICAL — #1 Deliverable** | **YES — Mandatory** | Must pass SMTP verification or be validated via the 5-method pipeline |
+| **Full Name** | High | Yes | Required for personalization and deduplication |
+| **Phone/WhatsApp** | Medium-High | Preferred | Important for multi-channel outreach but secondary to email |
+| **LinkedIn Profile URL** | High | Yes | Required for traceability and future re-enrichment |
+| **Company/Business** | Medium-High | Yes | Essential for B2B segmentation |
+| **Skill/Profession** | Medium | Yes | Used for niche categorization |
+| **Location** | Medium | Yes | Used for geographic placement |
+
+#### LinkedIn Lead Collection Protocol (Updated)
+
+When collecting LinkedIn leads, agents must follow this **email-first workflow**:
+
+1. **Discover** the LinkedIn profile via search operators.
+2. **Check for publicly visible email** on the profile itself.
+3. **If no email on profile** → Visit the individual's linked company website and look for:
+   - Staff directory / "Our Team" pages
+   - Contact pages with personal or direct emails
+   - Email patterns (firstname.lastname@company.com)
+4. **If still no email** → Use the company domain to construct and validate likely email patterns:
+   - `{firstname}@{domain}`, `{first.last}@{domain}`, `{flast}@{domain}`
+   - Run these through the SMTP validation pipeline
+5. **Validate every discovered email** using the 5-method validation pipeline (Syntax → Disposable Check → MX Records → SMTP Verification → Role-Based Detection)
+6. **Only mark a LinkedIn lead as "complete"** when the email validation status is **"Validated"**. Leads with "Pending Validation" or "Invalid" emails must be flagged for follow-up.
+
+#### Quality Gate for LinkedIn Leads
+
+A LinkedIn lead is considered **production-ready** only when:
+- ✅ Validated email address (SMTP-verified)
+- ✅ Full name confirmed
+- ✅ Phone/WhatsApp if publicly available
+- ❌ A LinkedIn lead with only a name and profile URL but NO email is **incomplete** — it must be enriched before being included in campaign exports
+
+#### Enrichment Priority for LinkedIn Leads Without Emails
+
+| Enrichment Source | Method | Expected Yield |
+|---|---|---|
+| Company website "Our Team" page | Navigate to team/staff directory | High (30-50% success) |
+| Company domain email pattern guessing | Construct `{first.last}@{domain}` variations + SMTP verify | Medium (20-40% success) |
+| Professional directories (industry-specific) | Cross-reference on Clutch, Crunchbase, etc. | Medium (15-30% success) |
+| Social media profiles (Twitter/X, Instagram) | Check bio for email or link-in-bio | Low-Medium (10-20% success) |
+| Published articles / conference speaker pages | Search for bylines with contact info | Low (5-15% success) |
+
 ### Folder Structure
 
 ```
@@ -379,6 +431,8 @@ LinkedIn profiles frequently list location data at varying levels of precision. 
 - Agents should record **whatever is publicly visible** and not attempt to access restricted or private information.
 - If a profile URL is discovered but the profile content is not publicly accessible, agents should still record the profile URL with available metadata (name, title from search snippet) — this preserves the lead for future enrichment.
 - Agents should never use automated scraping tools that violate LinkedIn's Terms of Service. All discovery should occur through public search engine results.
+- **EMAIL IS MANDATORY:** Per the email-first rule above, every LinkedIn lead must have a validated email address before being considered production-ready. Collect the profile data first, then immediately pursue email enrichment through company websites, email pattern guessing, and SMTP verification.
+- **Never export LinkedIn leads without validated emails** to campaign lists. Leads with pending or missing emails should remain in the enrichment queue until a validated email is obtained or the lead is marked as unreachable after exhausting all enrichment methods.
 
 ---
 

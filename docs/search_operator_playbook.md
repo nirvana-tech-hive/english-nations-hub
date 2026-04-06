@@ -853,6 +853,121 @@ Agents should respect `robots.txt` directives:
 
 ---
 
+## ⚠️ CRITICAL: Human Simulation for Bot Detection Evasion
+
+> **This instruction is mandatory for all agents operating within this repository.** Google and other search engines employ increasingly sophisticated bot detection systems. Agents MUST simulate human search behavior to avoid triggering CAPTCHAs, IP blocks, rate limiting, and result degradation. This section defines the required techniques and is binding for all current and future agent operations.
+
+### Why This Matters
+
+Bot detection systems analyze multiple signals to distinguish automated queries from human searches. These signals include query timing patterns, query structure regularity, session behavior, mouse/keyboard interaction patterns, browser fingerprint characteristics, and IP reputation. A single agent executing dozens of structured operator queries in rapid succession is a textbook bot signature that will trigger detection within minutes, if not seconds. Once flagged, the agent's IP may be throttled, served degraded results, or permanently blocked — crippling lead discovery operations.
+
+### Human Simulation Protocol
+
+#### 1. Query Timing — The Most Important Signal
+
+| Human Behavior | Bot Signature | Simulation Rule |
+|---|---|---|
+| Reads results before searching again | Queries fired in rapid succession | **Minimum 8-15 second gap** between queries. Vary randomly: 8s, 12s, 17s, 11s, 22s, 9s, etc. |
+| Takes breaks | Continuous querying for hours | **Take a 3-5 minute break every 8-12 queries.** During breaks, simulate browsing (visit a result page). |
+| Types at variable speed | Queries submitted instantly | If using browser automation, add keystroke delays (50-200ms per character with variance). |
+| Searches in bursts then stops | Even query spacing | Use **burst-then-pause** pattern: 3-5 queries, then 2-4 minute pause. This mimics human research sessions. |
+| Session duration is variable | 24/7 continuous operation | **Limit sessions to 45-90 minutes.** Take 30+ minute breaks between sessions. |
+
+#### 2. Query Structure Randomization
+
+Humans rarely construct perfectly formatted operator queries. Agents should introduce natural variations:
+
+| Perfect Bot Query | Human-Simulated Version | Why It Works |
+|---|---|---|
+| `site:linkedin.com/in "dentist" "Accra" "email"` | `site:linkedin.com/in dentist Accra email` | Humans often forget quotes around single words |
+| `site:linkedin.com/in "software engineer" "Lagos" "open to work"` | `"software engineer" Lagos site:linkedin.com/in` | Humans put operators in different positions |
+| `site:yelp.com "restaurant" "East Legon" "phone"` | `restaurants East Legon Accra phone site:yelp.com` | Humans use plural forms, add city context naturally |
+| `inurl:contact "plumber" "Austin" "@"` | `plumber Austin contact email` | Humans often skip advanced operators entirely |
+| `"marketing agency" "Victoria Island" "Lagos" "@gmail.com"` | `marketing agencies Victoria Island Lagos email contact` | Humans phrase queries as natural questions |
+
+**Rules for query randomization:**
+- **Omit quotes** around single-word terms 40-60% of the time (only quote multi-word phrases consistently).
+- **Reorder terms** — don't always put `site:` first. Vary placement: sometimes first, sometimes last, sometimes middle.
+- **Use natural language** — intersperse operator-heavy queries with plain English searches: `"who are the best dentists in Accra"` or `"marketing agencies Victoria Island Lagos contact"`.
+- **Add filler words** — humans include words like `"who"`, `"what"`, `"best"`, `"top"`, `"near"`, `"in"`, `"around"` that bots typically omit.
+- **Include misspellings occasionally** — humans make typos. Rarely (2-5% of queries), introduce a minor typo: `"dentsit"` instead of `"dentist"`, `"marketting"` instead of `"marketing"`. This is a strong human signal.
+- **Vary specificity** — not every query should be maximally specific. Mix broad queries (`"dentists Accra"`) with narrow ones (`site:linkedin.com/in "orthodontist" "Accra" "@gmail.com"`).
+
+#### 3. Session Behavior Simulation
+
+A human search session follows a predictable pattern that bots don't replicate:
+
+```
+[Start Session — browser open]
+  → Search query 1
+  → Read results for 15-30 seconds (click 1-2 results)
+  → Search query 2 (related but different)
+  → Click a result, browse for 20-40 seconds
+  → Go back to search results
+  → Search query 3 (refined based on what was found)
+  → Read results
+  → Pause (distraction — 30-90 seconds of inactivity)
+  → Search query 4
+  → Click a result, browse
+  → Take a longer break (2-5 minutes)
+  → Search query 5
+  → ... [repeat pattern]
+[End Session — close browser or navigate away]
+```
+
+**Agents must replicate this pattern:**
+1. After every query, **simulate reading the results** by waiting 10-25 seconds before the next action.
+2. **Click through to result pages** periodically (every 3rd or 4th query). This is the strongest human signal — bots that only view search results pages are easily detected.
+3. **Include "distraction pauses"** — random 30-90 second gaps that simulate the human being distracted by something.
+4. **Occasionally reformulate a query** — search for something, then search again with slightly different terms as if refining (this is very human behavior).
+5. **End sessions naturally** — don't always end after a fixed number of queries. Vary session lengths between 8-15 queries.
+
+#### 4. Browser Fingerprint Normalization
+
+When using browser-based agents:
+
+- **Use a standard user agent** — Rotate between common browser user agents (Chrome, Firefox, Edge) rather than using a single automated user agent string.
+- **Set realistic screen resolutions** — Use common resolutions like 1920x1080, 1366x768, 1440x900 instead of headless defaults.
+- **Set realistic language/timezone** — Match the target location's timezone and language preferences.
+- **Enable JavaScript and cookies** — Many bot detection systems flag browsers with JS disabled.
+- **Maintain a browsing history** — Don't open a clean browser session for every query. Accumulate history, cookies, and cache as a real user would.
+- **Randomize mouse movements** — If using browser automation, add slight randomization to mouse movement patterns.
+
+#### 5. IP Management and Rotation
+
+- **Never exceed 60-80 queries per IP per hour** from a single IP address.
+- **Rotate IPs between sessions** if possible — different IPs have independent rate limit quotas.
+- **Avoid data center IPs** — Google flags cloud provider IP ranges (AWS, GCP, Azure, DigitalOcean) as high-risk for bots. Use residential proxies or VPN IPs when available.
+- **Warm up new IPs** — When switching to a new IP, start with 2-3 simple, natural queries before executing structured operator queries. This establishes a "normal" browsing pattern before intensive searching.
+- **Respect geographic targeting** — When searching for leads in "Accra, Ghana", using an IP geolocated to Ghana is more natural than one from a data center in Virginia.
+
+#### 6. CAPTCHA and Block Recovery
+
+If a CAPTCHA or block is encountered:
+
+1. **STOP immediately.** Do not retry the same query or continue rapid-fire querying.
+2. **Wait 10-30 minutes** before attempting again.
+3. **Switch to a different IP** if available.
+4. **Change the query pattern** when resuming — don't repeat the exact same query that triggered the block.
+5. **Reduce query complexity** — start with simpler, more natural queries to rebuild trust before resuming operator-heavy searches.
+6. **Consider switching search engines** — Bing, DuckDuckGo, and Yahoo also index LinkedIn profiles and business data. If Google blocks you, rotate to an alternative engine.
+
+### Summary Checklist
+
+Before every search session, agents should verify:
+
+- [ ] Query timing uses 8-15 second random gaps between queries
+- [ ] Burst-then-pause pattern is active (3-5 queries, then 2-4 min break)
+- [ ] Queries include natural language variations, not just operator syntax
+- [ ] Some queries omit quotes, vary operator placement, or use plain English
+- [ ] Result pages are periodically clicked and "browsed" (10-25 seconds)
+- [ ] Session length is limited to 45-90 minutes with breaks
+- [ ] IP rotation is available if needed
+- [ ] Non-data-center IPs are preferred
+- [ ] CAPTCHA recovery protocol is understood and ready
+
+---
+
 ## Query Logging
 
 Every query executed by an agent should be logged for reproducibility, optimization, and quality assurance. Query logs enable future agents to learn from past successes and failures, avoid repeating ineffective queries, and continuously improve discovery performance.

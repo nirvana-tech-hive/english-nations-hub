@@ -369,6 +369,16 @@ Yield estimates vary significantly by niche, geographic area, and country. The f
 
 ## Method 2: LinkedIn Public Profile Discovery
 
+> ### ⚠️ CRITICAL POLICY UPDATE — Email-First LinkedIn Leads
+>
+> **The validated email address is the #1 mandatory deliverable for every LinkedIn lead.** While the lead's name, profession, company, and phone/WhatsApp contact are important supplementary data points, a LinkedIn lead without a **validated email address** is considered **incomplete** and must be prioritized for enrichment. This policy is effective immediately and is documented in full in `AGENT_FRAMEWORK.md` Section 6.
+>
+> **Key Rules:**
+> - Every LinkedIn lead MUST have a validated email before being exported to campaign lists
+> - If no email is visible on the profile, agents must pursue enrichment: company website "Our Team" pages, email pattern guessing (`{first.last}@{domain}`), and SMTP validation
+> - Name + Phone are important but secondary — **validated email is the end product**
+> - See `AGENT_FRAMEWORK.md` Section 6 for the complete email enrichment workflow and quality gate
+
 LinkedIn is the world's largest professional network, with over 900 million members across 200+ countries. While much of LinkedIn's data is behind authentication walls, a significant volume of **publicly indexable profile data** is accessible through search engines — and it is this publicly visible data that Method 2 targets. This method is essential for discovering **individual professionals, executives, decision-makers, and skilled workers** who may not appear in any business directory.
 
 ### What Data Is Available
