@@ -1,0 +1,9 @@
+Search queries used for LinkedIn lead discovery in Lekki, Lagos, Nigeria.
+
+Query 1: site:linkedin.com/in real estate agent Lekki Lagos Nigeria
+Query 2: site:linkedin.com/in marketing manager Lagos Nigeria Lekki
+Query 3: site:linkedin.com/in software developer Lekki Lagos Nigeria
+Query 4: site:linkedin.com/in founder CEO Lekki Lagos Nigeria startup
+
+Date: 2025-06-15
+Agent: LeadCollector-Lekki (Task 2-c)
