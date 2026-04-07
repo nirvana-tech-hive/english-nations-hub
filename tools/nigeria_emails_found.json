@@ -1,0 +1,676 @@
+{
+  "generated": "2026-04-07",
+  "summary": {
+    "sites_processed": 65,
+    "sites_with_emails": 44,
+    "total_emails_found": 68
+  },
+  "results": [
+    {
+      "business_name": "Africa Digital Agency",
+      "website": "https://africadigital.com.ng",
+      "emails_found": [
+        "marketing@africadigital.com.ng",
+        "hello@africadigital.com.ng"
+      ]
+    },
+    {
+      "business_name": "Presken Hotels",
+      "website": "https://preskenhotels.com",
+      "emails_found": [
+        "bookings@preskenhotels.com"
+      ]
+    },
+    {
+      "business_name": "Lagos Oriental Hotel",
+      "website": "http://www.lagosoriental.com",
+      "emails_found": [
+        "reservation@lagosoriental.com"
+      ]
+    },
+    {
+      "business_name": "Dental Plus Clinic",
+      "website": "https://dentalplusng.com",
+      "emails_found": [
+        "dentalplus2surulere@gmail.com",
+        "dentalplusanthony@gmail.com",
+        "victoriaisland@dentalplusng.com",
+        "dentalplus.ng@gmail.com"
+      ]
+    },
+    {
+      "business_name": "Mouth Spa Dental Clinic",
+      "website": "https://mouthspa.com.ng",
+      "emails_found": [
+        "info@mouthspa.com.ng",
+        "themouthspa@gmail.com"
+      ]
+    },
+    {
+      "business_name": "Divine Dental Home",
+      "website": "https://divinedentalhome.com.ng",
+      "emails_found": [
+        "ddhdentalhome@gmail.com"
+      ]
+    },
+    {
+      "business_name": "Bolutokun Estate Agency",
+      "website": "https://bolutokun.com",
+      "emails_found": [
+        "info@bolutokun.com",
+        "info.abuja@bolutokun.com"
+      ]
+    },
+    {
+      "business_name": "Ramos Real Estate",
+      "website": "https://ramosrealestateng.com",
+      "emails_found": [
+        "hello@ramosrealestateng.com"
+      ]
+    },
+    {
+      "business_name": "Skyrock Hotel",
+      "website": "https://skyrockhotels.com",
+      "emails_found": [
+        "info@skyrockhotels.co",
+        "info@skyrockhotels.com"
+      ]
+    },
+    {
+      "business_name": "Yellow Chilli Restaurant",
+      "website": "https://yellowchilling.com",
+      "emails_found": [
+        "support@yellowchilling.com"
+      ]
+    },
+    {
+      "business_name": "Ikeja City Mall",
+      "website": "https://ikejacitymall.com.ng",
+      "emails_found": [
+        "info@ikejacitymall.com.ng"
+      ]
+    },
+    {
+      "business_name": "CrownCrystal Tech",
+      "website": "https://cctech.ng",
+      "emails_found": [
+        "sales@cctech.ng"
+      ]
+    },
+    {
+      "business_name": "FEMISH IT Solutions",
+      "website": "https://www.femish.com.ng",
+      "emails_found": [
+        "info@femish.com.ng"
+      ]
+    },
+    {
+      "business_name": "St Gloria Schools",
+      "website": "https://stglorias.com.ng",
+      "emails_found": [
+        "stgloriadaisy@yahoo.com"
+      ]
+    },
+    {
+      "business_name": "Metropolitan Motors",
+      "website": "https://www.toyotanigeria.com/dealers/metropolitan-motors",
+      "emails_found": [
+        "niyi.akinkuolie@metromotorsng.com",
+        "azeez@metromotorsng.com",
+        "sandra.marc@metromotorsng.com",
+        "goke.oriyomi@metromotorsng.com",
+        "wale_dare37@yahoo.com"
+      ]
+    },
+    {
+      "business_name": "Groomed By Elereka",
+      "website": "https://groomedbyelereka.com",
+      "emails_found": [
+        "info@groomedbyelereka.com",
+        "customerservice@elerekagroup.com"
+      ]
+    },
+    {
+      "business_name": "TPhilips Unisex Salon",
+      "website": "https://mrtphilips.com.ng",
+      "emails_found": [
+        "info@mrtphilips.com.ng"
+      ]
+    },
+    {
+      "business_name": "Ikwiseprodigy Barber Shop",
+      "website": "https://ikwiseprodigy.com.ng",
+      "emails_found": [
+        "info@ikwiseprodigy.com.ng"
+      ]
+    },
+    {
+      "business_name": "HealthPlug Pharmacy",
+      "website": "https://healthplugpharmacy.com",
+      "emails_found": [
+        "healthplugpharmacylagos@gmail.com"
+      ]
+    },
+    {
+      "business_name": "Celond Dental Clinic",
+      "website": "https://celondentalclinic.com",
+      "emails_found": [
+        "info@celondentalclinic.com"
+      ]
+    },
+    {
+      "business_name": "Amaramedicare Dental",
+      "website": "https://amaramedicare.com",
+      "emails_found": [
+        "okota@amaramedicare.com"
+      ]
+    },
+    {
+      "business_name": "Fitness Factory",
+      "website": "https://fitnessfactory.ng",
+      "emails_found": [
+        "info@fitnessfactory.ng"
+      ]
+    },
+    {
+      "business_name": "BodyLine Fitness",
+      "website": "https://bodylinegym.com.ng",
+      "emails_found": [
+        "info@bodylinegym.com.ng"
+      ]
+    },
+    {
+      "business_name": "Fitness Plus Nigeria",
+      "website": "https://fitnessplusng.com",
+      "emails_found": [
+        "info@fitnessplusng.com"
+      ]
+    },
+    {
+      "business_name": "Olympus Law Partnership",
+      "website": "https://www.olympuslp.com",
+      "emails_found": [
+        "enquiries@olympuslp.com"
+      ]
+    },
+    {
+      "business_name": "Lekki British School",
+      "website": "https://lekkibritishschool.org",
+      "emails_found": [
+        "enquiries@lekkibritishschool.org",
+        "inquiries@lekkibritishschool.org"
+      ]
+    },
+    {
+      "business_name": "GISS German Intl School",
+      "website": "https://giss.com.ng",
+      "emails_found": [
+        "contact@giss.com.ng",
+        "okomah@gobalcollegeonline.com"
+      ]
+    },
+    {
+      "business_name": "Standard Bearers School",
+      "website": "https://standardbearersschool.ng",
+      "emails_found": [
+        "admissions@standardbearersschool.ng",
+        "administration@standardbearersschool.ng"
+      ]
+    },
+    {
+      "business_name": "Digital Square",
+      "website": "https://digitalsquare.com.ng",
+      "emails_found": [
+        "info@digitalsquare.com.ng"
+      ]
+    },
+    {
+      "business_name": "The Junction Restaurant",
+      "website": "http://thejunctionrestaurants.com",
+      "emails_found": [
+        "info@thejunctionrestaurants.com",
+        "info@thejunctionreestaurants.com"
+      ]
+    },
+    {
+      "business_name": "i-Fitness Lekki",
+      "website": "https://ifitness.ng",
+      "emails_found": [
+        "info@ifitness.ng"
+      ]
+    },
+    {
+      "business_name": "Sky Fitness Gym",
+      "website": "https://www.skyfitnessng.com",
+      "emails_found": [
+        "shizimedia@gmail.com"
+      ]
+    },
+    {
+      "business_name": "TDigital",
+      "website": "https://tdigital.ng",
+      "emails_found": [
+        "johnfash@tdigital.ng"
+      ]
+    },
+    {
+      "business_name": "Atco Homes",
+      "website": "https://atcohomes.ng",
+      "emails_found": [
+        "info@atcohomes.ng"
+      ]
+    },
+    {
+      "business_name": "Meadow Hall Education",
+      "website": "https://meadowhalleducation.org",
+      "emails_found": [
+        "info@meadowhallschool.org",
+        "admissions@meadowhallschool.org"
+      ]
+    },
+    {
+      "business_name": "Mopheth Pharmacy",
+      "website": "https://mophethonline.com",
+      "emails_found": [
+        "hello@mophethonline.com"
+      ]
+    },
+    {
+      "business_name": "HealthPlus Pharmacy",
+      "website": "https://healthplusnigeria.com",
+      "emails_found": [
+        "customercare@healthplusnigeria.com"
+      ]
+    },
+    {
+      "business_name": "MedPlus Pharmacy Novare",
+      "website": "https://novare-lekki.com",
+      "emails_found": [
+        "info@novare-lekki.com"
+      ]
+    },
+    {
+      "business_name": "Gadiel Event Planners",
+      "website": "https://www.gadieleventplanners.com.ng",
+      "emails_found": [
+        "gadielluxury@gmail.com"
+      ]
+    },
+    {
+      "business_name": "New Hall Intl School",
+      "website": "https://newhallschool.com.ng",
+      "emails_found": [
+        "admissions@newhallschool.com.ng",
+        "info@newhallschool.com.ng"
+      ]
+    },
+    {
+      "business_name": "CIS Lagos",
+      "website": "https://www.cislagos.com",
+      "emails_found": [
+        "info@cislagos.org"
+      ]
+    },
+    {
+      "business_name": "Lagoon Hospital",
+      "website": "https://www.lagoonhospitals.com",
+      "emails_found": [
+        "livemorelife@lagoonhospitals.com"
+      ]
+    },
+    {
+      "business_name": "Oxgital Marketing",
+      "website": "https://oxgital.com",
+      "emails_found": [
+        "oxgital@gmail.com"
+      ]
+    },
+    {
+      "business_name": "Flutterwave",
+      "website": "https://flutterwave.com",
+      "emails_found": [
+        "integration_support_intercom@flutterwavego.com",
+        "tuition@flutterwavego.com",
+        "hi@flutterwavego.com",
+        "kelechi@flutterwavego.com",
+        "onboarding@flutterwavego.com",
+        "oladipo@flutterwavego.com",
+        "serviceclient@flutterwavego.com"
+      ]
+    }
+  ],
+  "businesses_with_emails": [
+    {
+      "business_name": "Africa Digital Agency",
+      "website": "https://africadigital.com.ng",
+      "emails_found": [
+        "marketing@africadigital.com.ng",
+        "hello@africadigital.com.ng"
+      ]
+    },
+    {
+      "business_name": "Presken Hotels",
+      "website": "https://preskenhotels.com",
+      "emails_found": [
+        "bookings@preskenhotels.com"
+      ]
+    },
+    {
+      "business_name": "Lagos Oriental Hotel",
+      "website": "http://www.lagosoriental.com",
+      "emails_found": [
+        "reservation@lagosoriental.com"
+      ]
+    },
+    {
+      "business_name": "Dental Plus Clinic",
+      "website": "https://dentalplusng.com",
+      "emails_found": [
+        "dentalplus2surulere@gmail.com",
+        "dentalplusanthony@gmail.com",
+        "victoriaisland@dentalplusng.com",
+        "dentalplus.ng@gmail.com"
+      ]
+    },
+    {
+      "business_name": "Mouth Spa Dental Clinic",
+      "website": "https://mouthspa.com.ng",
+      "emails_found": [
+        "info@mouthspa.com.ng",
+        "themouthspa@gmail.com"
+      ]
+    },
+    {
+      "business_name": "Divine Dental Home",
+      "website": "https://divinedentalhome.com.ng",
+      "emails_found": [
+        "ddhdentalhome@gmail.com"
+      ]
+    },
+    {
+      "business_name": "Bolutokun Estate Agency",
+      "website": "https://bolutokun.com",
+      "emails_found": [
+        "info@bolutokun.com",
+        "info.abuja@bolutokun.com"
+      ]
+    },
+    {
+      "business_name": "Ramos Real Estate",
+      "website": "https://ramosrealestateng.com",
+      "emails_found": [
+        "hello@ramosrealestateng.com"
+      ]
+    },
+    {
+      "business_name": "Skyrock Hotel",
+      "website": "https://skyrockhotels.com",
+      "emails_found": [
+        "info@skyrockhotels.co",
+        "info@skyrockhotels.com"
+      ]
+    },
+    {
+      "business_name": "Yellow Chilli Restaurant",
+      "website": "https://yellowchilling.com",
+      "emails_found": [
+        "support@yellowchilling.com"
+      ]
+    },
+    {
+      "business_name": "Ikeja City Mall",
+      "website": "https://ikejacitymall.com.ng",
+      "emails_found": [
+        "info@ikejacitymall.com.ng"
+      ]
+    },
+    {
+      "business_name": "CrownCrystal Tech",
+      "website": "https://cctech.ng",
+      "emails_found": [
+        "sales@cctech.ng"
+      ]
+    },
+    {
+      "business_name": "FEMISH IT Solutions",
+      "website": "https://www.femish.com.ng",
+      "emails_found": [
+        "info@femish.com.ng"
+      ]
+    },
+    {
+      "business_name": "St Gloria Schools",
+      "website": "https://stglorias.com.ng",
+      "emails_found": [
+        "stgloriadaisy@yahoo.com"
+      ]
+    },
+    {
+      "business_name": "Metropolitan Motors",
+      "website": "https://www.toyotanigeria.com/dealers/metropolitan-motors",
+      "emails_found": [
+        "niyi.akinkuolie@metromotorsng.com",
+        "azeez@metromotorsng.com",
+        "sandra.marc@metromotorsng.com",
+        "goke.oriyomi@metromotorsng.com",
+        "wale_dare37@yahoo.com"
+      ]
+    },
+    {
+      "business_name": "Groomed By Elereka",
+      "website": "https://groomedbyelereka.com",
+      "emails_found": [
+        "info@groomedbyelereka.com",
+        "customerservice@elerekagroup.com"
+      ]
+    },
+    {
+      "business_name": "TPhilips Unisex Salon",
+      "website": "https://mrtphilips.com.ng",
+      "emails_found": [
+        "info@mrtphilips.com.ng"
+      ]
+    },
+    {
+      "business_name": "Ikwiseprodigy Barber Shop",
+      "website": "https://ikwiseprodigy.com.ng",
+      "emails_found": [
+        "info@ikwiseprodigy.com.ng"
+      ]
+    },
+    {
+      "business_name": "HealthPlug Pharmacy",
+      "website": "https://healthplugpharmacy.com",
+      "emails_found": [
+        "healthplugpharmacylagos@gmail.com"
+      ]
+    },
+    {
+      "business_name": "Celond Dental Clinic",
+      "website": "https://celondentalclinic.com",
+      "emails_found": [
+        "info@celondentalclinic.com"
+      ]
+    },
+    {
+      "business_name": "Amaramedicare Dental",
+      "website": "https://amaramedicare.com",
+      "emails_found": [
+        "okota@amaramedicare.com"
+      ]
+    },
+    {
+      "business_name": "Fitness Factory",
+      "website": "https://fitnessfactory.ng",
+      "emails_found": [
+        "info@fitnessfactory.ng"
+      ]
+    },
+    {
+      "business_name": "BodyLine Fitness",
+      "website": "https://bodylinegym.com.ng",
+      "emails_found": [
+        "info@bodylinegym.com.ng"
+      ]
+    },
+    {
+      "business_name": "Fitness Plus Nigeria",
+      "website": "https://fitnessplusng.com",
+      "emails_found": [
+        "info@fitnessplusng.com"
+      ]
+    },
+    {
+      "business_name": "Olympus Law Partnership",
+      "website": "https://www.olympuslp.com",
+      "emails_found": [
+        "enquiries@olympuslp.com"
+      ]
+    },
+    {
+      "business_name": "Lekki British School",
+      "website": "https://lekkibritishschool.org",
+      "emails_found": [
+        "enquiries@lekkibritishschool.org",
+        "inquiries@lekkibritishschool.org"
+      ]
+    },
+    {
+      "business_name": "GISS German Intl School",
+      "website": "https://giss.com.ng",
+      "emails_found": [
+        "contact@giss.com.ng",
+        "okomah@gobalcollegeonline.com"
+      ]
+    },
+    {
+      "business_name": "Standard Bearers School",
+      "website": "https://standardbearersschool.ng",
+      "emails_found": [
+        "admissions@standardbearersschool.ng",
+        "administration@standardbearersschool.ng"
+      ]
+    },
+    {
+      "business_name": "Digital Square",
+      "website": "https://digitalsquare.com.ng",
+      "emails_found": [
+        "info@digitalsquare.com.ng"
+      ]
+    },
+    {
+      "business_name": "The Junction Restaurant",
+      "website": "http://thejunctionrestaurants.com",
+      "emails_found": [
+        "info@thejunctionrestaurants.com",
+        "info@thejunctionreestaurants.com"
+      ]
+    },
+    {
+      "business_name": "i-Fitness Lekki",
+      "website": "https://ifitness.ng",
+      "emails_found": [
+        "info@ifitness.ng"
+      ]
+    },
+    {
+      "business_name": "Sky Fitness Gym",
+      "website": "https://www.skyfitnessng.com",
+      "emails_found": [
+        "shizimedia@gmail.com"
+      ]
+    },
+    {
+      "business_name": "TDigital",
+      "website": "https://tdigital.ng",
+      "emails_found": [
+        "johnfash@tdigital.ng"
+      ]
+    },
+    {
+      "business_name": "Atco Homes",
+      "website": "https://atcohomes.ng",
+      "emails_found": [
+        "info@atcohomes.ng"
+      ]
+    },
+    {
+      "business_name": "Meadow Hall Education",
+      "website": "https://meadowhalleducation.org",
+      "emails_found": [
+        "info@meadowhallschool.org",
+        "admissions@meadowhallschool.org"
+      ]
+    },
+    {
+      "business_name": "Mopheth Pharmacy",
+      "website": "https://mophethonline.com",
+      "emails_found": [
+        "hello@mophethonline.com"
+      ]
+    },
+    {
+      "business_name": "HealthPlus Pharmacy",
+      "website": "https://healthplusnigeria.com",
+      "emails_found": [
+        "customercare@healthplusnigeria.com"
+      ]
+    },
+    {
+      "business_name": "MedPlus Pharmacy Novare",
+      "website": "https://novare-lekki.com",
+      "emails_found": [
+        "info@novare-lekki.com"
+      ]
+    },
+    {
+      "business_name": "Gadiel Event Planners",
+      "website": "https://www.gadieleventplanners.com.ng",
+      "emails_found": [
+        "gadielluxury@gmail.com"
+      ]
+    },
+    {
+      "business_name": "New Hall Intl School",
+      "website": "https://newhallschool.com.ng",
+      "emails_found": [
+        "admissions@newhallschool.com.ng",
+        "info@newhallschool.com.ng"
+      ]
+    },
+    {
+      "business_name": "CIS Lagos",
+      "website": "https://www.cislagos.com",
+      "emails_found": [
+        "info@cislagos.org"
+      ]
+    },
+    {
+      "business_name": "Lagoon Hospital",
+      "website": "https://www.lagoonhospitals.com",
+      "emails_found": [
+        "livemorelife@lagoonhospitals.com"
+      ]
+    },
+    {
+      "business_name": "Oxgital Marketing",
+      "website": "https://oxgital.com",
+      "emails_found": [
+        "oxgital@gmail.com"
+      ]
+    },
+    {
+      "business_name": "Flutterwave",
+      "website": "https://flutterwave.com",
+      "emails_found": [
+        "integration_support_intercom@flutterwavego.com",
+        "tuition@flutterwavego.com",
+        "hi@flutterwavego.com",
+        "kelechi@flutterwavego.com",
+        "onboarding@flutterwavego.com",
+        "oladipo@flutterwavego.com",
+        "serviceclient@flutterwavego.com"
+      ]
+    }
+  ]
+}

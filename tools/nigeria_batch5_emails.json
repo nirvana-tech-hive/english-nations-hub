@@ -1,0 +1,70 @@
+[
+  {
+    "business_name": "The Junction Restaurant",
+    "website": "http://thejunctionrestaurants.com",
+    "emails_found": [
+      "info@thejunctionrestaurants.com",
+      "info@thejunctionreestaurants.com"
+    ]
+  },
+  {
+    "business_name": "The Place Restaurants",
+    "website": "https://theplace.com.ng",
+    "emails_found": []
+  },
+  {
+    "business_name": "i-Fitness Lekki",
+    "website": "https://ifitness.ng",
+    "emails_found": [
+      "info@ifitness.ng"
+    ]
+  },
+  {
+    "business_name": "Pure Fitness Africa",
+    "website": "https://purefitnessafrica.com",
+    "emails_found": []
+  },
+  {
+    "business_name": "FitGrit Gym",
+    "website": "https://fitgritgym.com",
+    "emails_found": []
+  },
+  {
+    "business_name": "Sky Fitness Gym",
+    "website": "https://www.skyfitnessng.com",
+    "emails_found": [
+      "shizimedia@gmail.com"
+    ]
+  },
+  {
+    "business_name": "CompraMart",
+    "website": "https://www.comprasupermart.com",
+    "emails_found": [
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "1eeb89147c984dc6bc3ffafd9e6cd089@sentry.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "8c4075d5481d476e945486754f783364@sentry.io",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+    ]
+  },
+  {
+    "business_name": "Cybertech Digitals",
+    "website": "https://cybertechdigitals.com",
+    "emails_found": []
+  },
+  {
+    "business_name": "TDigital",
+    "website": "https://tdigital.ng",
+    "emails_found": [
+      "johnfash@tdigital.ng"
+    ]
+  },
+  {
+    "business_name": "Atco Homes",
+    "website": "https://atcohomes.ng",
+    "emails_found": [
+      "info@atcohomes.ng"
+    ]
+  }
+]

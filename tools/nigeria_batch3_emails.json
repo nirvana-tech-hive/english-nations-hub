@@ -1,0 +1,67 @@
+[
+  {
+    "business_name": "Above Lifestyle",
+    "website": "https://abovelifestyle.com",
+    "emails_found": []
+  },
+  {
+    "business_name": "Kayzplace Barbershop",
+    "website": "https://kayzplaceworldwide.com",
+    "emails_found": []
+  },
+  {
+    "business_name": "Groomed By Elereka",
+    "website": "https://groomedbyelereka.com",
+    "emails_found": [
+      "info@groomedbyelereka.com",
+      "customerservice@elerekagroup.com"
+    ]
+  },
+  {
+    "business_name": "TPhilips Unisex Salon",
+    "website": "https://mrtphilips.com.ng",
+    "emails_found": [
+      "info@mrtphilips.com.ng"
+    ]
+  },
+  {
+    "business_name": "Ikwiseprodigy Barber Shop",
+    "website": "https://ikwiseprodigy.com.ng",
+    "emails_found": [
+      "info@ikwiseprodigy.com.ng"
+    ]
+  },
+  {
+    "business_name": "HealthPlug Pharmacy",
+    "website": "https://healthplugpharmacy.com",
+    "emails_found": [
+      "healthplugpharmacylagos@gmail.com"
+    ]
+  },
+  {
+    "business_name": "Anakle",
+    "website": "https://www.anakle.com",
+    "emails_found": []
+  },
+  {
+    "business_name": "Celond Dental Clinic",
+    "website": "https://celondentalclinic.com",
+    "emails_found": [
+      "info@celondentalclinic.com"
+    ]
+  },
+  {
+    "business_name": "Amaramedicare Dental",
+    "website": "https://amaramedicare.com",
+    "emails_found": [
+      "okota@amaramedicare.com"
+    ]
+  },
+  {
+    "business_name": "Fitness Factory",
+    "website": "https://fitnessfactory.ng",
+    "emails_found": [
+      "info@fitnessfactory.ng"
+    ]
+  }
+]

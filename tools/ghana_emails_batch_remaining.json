@@ -1,0 +1,1788 @@
+[
+  {
+    "business_name": "805 Restaurant",
+    "website": "https://805restaurants.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "Visited 4 page(s), no emails found"
+  },
+  {
+    "business_name": "AT Ghana",
+    "website": "https://www.at.com.gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "Visited 4 page(s), no emails found"
+  },
+  {
+    "business_name": "Absa",
+    "website": "https://www.absa.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "Visited 1 page(s), no emails found"
+  },
+  {
+    "business_name": "Accra Marriott Hotel",
+    "website": "https://www.marriott.com/en-us/hotels/accmc-accra-marriott-hotel/overview/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/international chain - contact not specific to Ghana location"
+  },
+  {
+    "business_name": "Airside Hotel",
+    "website": "https://airsidehotel.com.gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "reservations@airsidehotel.com.gh"
+    ],
+    "status": "found",
+    "notes": "Found 1 email(s) (domain-specific) across 3 page(s)"
+  },
+  {
+    "business_name": "Astra ERP",
+    "website": "https://statelyhub.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "info@statelyhub.com"
+    ],
+    "status": "found",
+    "notes": "Found 1 email(s) (domain-specific) across 2 page(s)"
+  },
+  {
+    "business_name": "Bank of Africa",
+    "website": "https://boaghana.com/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "complaints@boaghana.com",
+      "enquiries@boaghana.com"
+    ],
+    "status": "found",
+    "notes": "Found 2 email(s) (domain-specific) across 4 page(s)"
+  },
+  {
+    "business_name": "Bulk Oil Storage and Transportation (BOST)",
+    "website": "http://www.bost.com.gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Government/international organization"
+  },
+  {
+    "business_name": "CSIR-Food Research Institute",
+    "website": "https://foodresearchgh.org/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "Café Kwae",
+    "website": "https://www.lovecafekwae.com/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "Visited 2 page(s), no emails found"
+  },
+  {
+    "business_name": "CalBank",
+    "website": "https://calbank.net",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "customercare@calbank.net"
+    ],
+    "status": "found",
+    "notes": "Found 1 email(s) (domain-specific) across 4 page(s)"
+  },
+  {
+    "business_name": "Ecobank",
+    "website": "https://ecobank.com/gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/international chain - contact not specific to Ghana location"
+  },
+  {
+    "business_name": "Escort Security Services",
+    "website": "https://escortsecurity.com.gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "info@escortsecurity.com.gh"
+    ],
+    "status": "found",
+    "notes": "Found 1 email(s) (domain-specific) across 3 page(s)"
+  },
+  {
+    "business_name": "Esther's",
+    "website": "https://www.esthers-hotel.com/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "esthershotel@gmail.com"
+    ],
+    "status": "found",
+    "notes": "Found 1 email(s) (third-party domain) across 3 page(s)"
+  },
+  {
+    "business_name": "First National Bank",
+    "website": "https://www.firstnationalbank.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "environment@firstnationalbank.com.gh",
+      "info@firstnationalbank.com.gh"
+    ],
+    "status": "found",
+    "notes": "Found 2 email(s) (third-party domain) across 4 page(s)"
+  },
+  {
+    "business_name": "High Commission of India",
+    "website": "https://www.hciaccra.gov.in/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Government/international organization"
+  },
+  {
+    "business_name": "International Organization for Migration",
+    "website": "https://www.iom.int/countries/ghana/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/international chain - contact not specific to Ghana location"
+  },
+  {
+    "business_name": "JICA Ghana Office",
+    "website": "https://www.jica.go.jp/ghana/english/office/index.html",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/international chain - contact not specific to Ghana location"
+  },
+  {
+    "business_name": "Kwarleyz Residence",
+    "website": "https://www.the-ascott.com/en/ghana/accra/kwarleyz-residence-accra.html",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/international chain - contact not specific to Ghana location"
+  },
+  {
+    "business_name": "MTN Service Centre",
+    "website": "https://mtn.com.gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/international chain - contact not specific to Ghana location"
+  },
+  {
+    "business_name": "Melcom",
+    "website": "https://melcom.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "Oak Plaza Hotel East Airport",
+    "website": "https://www.oakplazahotel.com/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "res@oakplazahotel.com"
+    ],
+    "status": "found",
+    "notes": "Found 1 email(s) (domain-specific) across 1 page(s)"
+  },
+  {
+    "business_name": "PaySwitch",
+    "website": "https://payswitch.com.gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "ask@payswitch.com.gh"
+    ],
+    "status": "found",
+    "notes": "Found 1 email(s) (domain-specific) across 2 page(s)"
+  },
+  {
+    "business_name": "Pizza Hut",
+    "website": "https://www.kfc.com.gh/en/store-locator/kfc_accra_mall",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/international chain - contact not specific to Ghana location"
+  },
+  {
+    "business_name": "SSNIT",
+    "website": "https://www.ssnit.org.gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Government/international organization"
+  },
+  {
+    "business_name": "Sky Suites Airport Residential",
+    "website": "https://www.skysuites.pro",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "ceo@skysuites.pro"
+    ],
+    "status": "found",
+    "notes": "Found 1 email(s) (domain-specific) across 4 page(s)"
+  },
+  {
+    "business_name": "Société Générale",
+    "website": "https://societegenerale.com.gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "sgghana.info@socgen.com",
+      "complaints.desk@socgen.com"
+    ],
+    "status": "found",
+    "notes": "Found 3 email(s) (third-party domain) across 3 page(s)"
+  },
+  {
+    "business_name": "Standard Chartered ATM",
+    "website": "https://www.sc.com/gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "premierservice.gh@sc.com",
+      "feedback.ghana@sc.com",
+      "askhr@sc.com"
+    ],
+    "status": "found",
+    "notes": "Found 6 email(s) (third-party domain) across 3 page(s)"
+  },
+  {
+    "business_name": "TS Lodgings",
+    "website": "https://tslodgings.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "The Palms by Eagles",
+    "website": "https://www.eaglesghana.com/the-palms-by-eagles",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "info@eaglesproperties.com.gh",
+      "airport.palms@eaglesproperties.com.gh",
+      "frontoffice.palms@eaglesproperties.com.gh"
+    ],
+    "status": "found",
+    "notes": "Found 3 email(s) (third-party domain) across 4 page(s)"
+  },
+  {
+    "business_name": "Tunnel Lounge",
+    "website": "https://thetunnellounge.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "info@thetunnellounge.com"
+    ],
+    "status": "found",
+    "notes": "Found 1 email(s) (domain-specific) across 4 page(s)"
+  },
+  {
+    "business_name": "West African Rescue Association",
+    "website": "https://westafrican-rescue.com/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Government/international organization"
+  },
+  {
+    "business_name": "Wishes Alliance",
+    "website": "http://www.wishesalliance.org/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Government/international organization"
+  },
+  {
+    "business_name": "+233 Jazz Bar & Grill",
+    "website": "https://www.233jazzbar.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "A1 Printing Solutions",
+    "website": "https://www.a1printinggh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "AB&David Law Affiliates",
+    "website": "https://www.abdavidlaw.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "AURA LIFESTYLE CLUB",
+    "website": "https://auralifestyle.co",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "uche@auralifestyle.co"
+    ],
+    "status": "found",
+    "notes": "Domain email(s)"
+  },
+  {
+    "business_name": "Absa Bank Osu",
+    "website": "https://www.absa.co.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "Access Bank Osu",
+    "website": "https://www.accessbankgh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "Accra City Hotel",
+    "website": "https://www.accracityhotel.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "info@accracityhotel.com"
+    ],
+    "status": "found",
+    "notes": "Third-party email(s)"
+  },
+  {
+    "business_name": "Accra Ghana Temple",
+    "website": "https://www.churchofjesuschrist.org/temples",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails on homepage or contact page"
+  },
+  {
+    "business_name": "Accra High School",
+    "website": "https://www.accrahighschool.edu.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "Afrilogic Solutions Limited",
+    "website": "https://www.afrilogic.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "Alisa Hotel North Ridge",
+    "website": "https://www.alisahotel.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "Alliance Media Ghana",
+    "website": "https://www.alliancemediaafrica.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "Artists Alliance Gallery",
+    "website": "https://www.artistsalliancegallery.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "Aura Wellness & Spa",
+    "website": "https://www.aurawellnessspa.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails on homepage or contact page"
+  },
+  {
+    "business_name": "Auto Gallery Osu",
+    "website": "https://www.autogallerygh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "Barclays's Fast Food",
+    "website": "https://www.barclaysfastfood.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "Bella Afrik Authentic Italian Restaurant & Wooden Fire Pizzeria",
+    "website": "https://www.bellaafrik.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "info@bellaafrik.com"
+    ],
+    "status": "found",
+    "notes": "Third-party email(s)"
+  },
+  {
+    "business_name": "Bistro 22",
+    "website": "http://bistro22gh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "Black Star Printing Press",
+    "website": "https://www.blackstarprinting.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails on homepage or contact page"
+  },
+  {
+    "business_name": "BloomBar",
+    "website": "https://www.bloombargh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails on homepage or contact page"
+  },
+  {
+    "business_name": "Blue Skies Spa",
+    "website": "https://www.blueskiesspagh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "Brasa Restaurant",
+    "website": "https://www.brasaghana.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "Bread & Butter Cafe",
+    "website": "https://www.breadandbuttercafe.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails on homepage or contact page"
+  },
+  {
+    "business_name": "Brookman Amissah & Associates",
+    "website": "https://www.brookmanamissah.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "CITSYS LIMITED",
+    "website": "https://www.citsysgh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "COMPUGHANA LIMITED",
+    "website": "https://www.compughana.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "ecommerce@compughana.com"
+    ],
+    "status": "found",
+    "notes": "Domain email(s)"
+  },
+  {
+    "business_name": "CQ Legal & Consulting",
+    "website": "https://www.cqlegalconsulting.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "Cafe Kwae",
+    "website": "https://www.cafekwae.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "Capitol Cafe & Restaurant",
+    "website": "https://www.capitolcafe.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Could not fetch page"
+  },
+  {
+    "business_name": "Carbon Nightclub",
+    "website": "https://www.carbonnightclub.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails on homepage or contact page"
+  },
+  {
+    "business_name": "Cathedral Church of the Most Holy Trinity",
+    "website": "https://www.holytrinitycathedral.org.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "Central Hotel OSU",
+    "website": "https://www.centralhotelgh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "Christie Brown",
+    "website": "https://www.christiebrown.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "Continent Tours LTD",
+    "website": "https://www.continenttours.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "info@continenttours.com"
+    ],
+    "status": "found",
+    "notes": "1 email(s) found"
+  },
+  {
+    "business_name": "Corenet IT Limited",
+    "website": "https://www.corenetit.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "Crosstrain Ghana Ltd",
+    "website": "https://www.crosstraingh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "Cuppa Cappa Coffee",
+    "website": "https://www.cuppacappa.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "Debonair Afrik",
+    "website": "https://www.debonairafrik.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "Deloitte Ghana",
+    "website": "https://www.deloitte.com/gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "Derrick O. Photography",
+    "website": "https://www.derrickophotography.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "Devonish Art Gallery",
+    "website": "https://www.devonishart.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "Diskava Travel",
+    "website": "https://www.diskavatravel.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "DreamFix Realty",
+    "website": "https://www.dreamfixrealty.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "Duppys Nightclub",
+    "website": "https://www.duppygh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "EAT by ZOE",
+    "website": "https://www.eatbyzoe.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "Ecobank Osu",
+    "website": "https://www.ecobank.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/government site"
+  },
+  {
+    "business_name": "Electroland Ghana Limited",
+    "website": "https://www.electrolandgh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "email@mail.com"
+    ],
+    "status": "found",
+    "notes": "1 email(s) found"
+  },
+  {
+    "business_name": "Elegance Events Ghana",
+    "website": "https://www.eleganceeventsgh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "Elle Lokko",
+    "website": "https://www.ellelokko.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "elle@lokkohouse.com"
+    ],
+    "status": "found",
+    "notes": "1 email(s) found"
+  },
+  {
+    "business_name": "Enterprise Insurance Company",
+    "website": "https://www.enterpriseinsurance.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "Ernst & Young Ghana",
+    "website": "https://www.ey.com/gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "FRIIS I.T Solutions",
+    "website": "https://www.friisit.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "FSB Law Consult",
+    "website": "https://www.fsblawconsult.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "info@fsblawconsult.com"
+    ],
+    "status": "found",
+    "notes": "1 email(s) found"
+  },
+  {
+    "business_name": "Fidelity Bank Osu",
+    "website": "https://www.fidelitybank.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "wecare@myfidelitybank.net"
+    ],
+    "status": "found",
+    "notes": "1 email(s) found"
+  },
+  {
+    "business_name": "Fine Things Patisserie",
+    "website": "https://www.finethingspatisserie.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "Foundation for Contemporary Art Ghana",
+    "website": "https://www.fcaghana.org",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "Frankie's Hotel",
+    "website": "https://www.frankiesgh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "Front/Back",
+    "website": "https://www.frontbackgh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "G.C Royal Hotel",
+    "website": "https://www.gcroyalhotel.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "gchotelgh@gmail.com",
+      "gcbusinesscentra@gmail.com"
+    ],
+    "status": "found",
+    "notes": "2 email(s) found"
+  },
+  {
+    "business_name": "GALATECH SOLUTIONS",
+    "website": "https://www.galatechsolutions.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails found"
+  },
+  {
+    "business_name": "GOLDKEY PROPERTIES",
+    "website": "https://www.goldkeyproperties.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Gadget Palace Gh",
+    "website": "https://www.gadgetpalacegh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "German International School Accra",
+    "website": "https://www.gisaccra.org",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Ghana Commercial Bank (GCB) Osu",
+    "website": "https://www.gcb.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Ghana Health Service",
+    "website": "https://www.ghanahealthservice.org",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Ghana Must Go Tours",
+    "website": "https://www.ghanamustgotours.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Ghana Prime Properties",
+    "website": "https://www.ghanaprimereproperties.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Glico Insurance",
+    "website": "https://www.glicoinsurance.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Global Media Alliance",
+    "website": "https://www.globalmediaalliance.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "HBK Insurance Brokers",
+    "website": "https://www.hbkinsurance.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Healthstyle Pharmacy",
+    "website": "https://www.healthstylepharmacy.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "info@healthstylepharmacy.com"
+    ],
+    "status": "found",
+    "notes": "1 email(s)"
+  },
+  {
+    "business_name": "Heavenly Spa",
+    "website": "https://www.heavenlyspagh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Heritage Indian Restaurant",
+    "website": "http://heritageindianrestaurant.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "heritage@noblehouseghana.com"
+    ],
+    "status": "found",
+    "notes": "1 email(s)"
+  },
+  {
+    "business_name": "Holiday Inn Accra Airport by IHG",
+    "website": "https://www.ihg.com/holidayinn",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Hotgossip Night Club",
+    "website": "https://www.hotgossipgh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Insight Marketing & Consultancy Ltd",
+    "website": "https://www.insightmarketinggh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "JETLINK",
+    "website": "https://www.jetlinkgh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Japs Motors",
+    "website": "https://www.japsmotors.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Java House Osu",
+    "website": "https://www.javahouseafrica.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "guest.relations@javahouseafrica.com"
+    ],
+    "status": "found",
+    "notes": "1 email(s)"
+  },
+  {
+    "business_name": "Josh Travels",
+    "website": "https://www.joshtravels.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "KAB-FAM",
+    "website": "https://www.kabfam.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "KFC Marina Mall",
+    "website": "https://www.kfc.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "KPMG Ghana",
+    "website": "https://www.kpmg.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Kareena Cakes",
+    "website": "https://www.kareenacakes.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Kempinski Hotel Gold Coast City Accra",
+    "website": "https://www.kempinski.com/en/accra",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "info.development@kempinski.com",
+      "pr.corporate@kempinski.com",
+      "contact@discoveryloyalty.com",
+      "meetings.accra@kempinski.com",
+      "reservations.corporate@kempinski.com",
+      "asana.accra@kempinski.com",
+      "info.residences@kempinski.com",
+      "reservations.accra@kempinski.com",
+      "fb.accra@kempinski.com",
+      "information.corporate@kempinski.com"
+    ],
+    "status": "found",
+    "notes": "10 email(s)"
+  },
+  {
+    "business_name": "Ki-Ari Realty",
+    "website": "https://www.ki-arirealty.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Koala Shopping Center",
+    "website": "https://www.koala.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Kofi Setordji Studio",
+    "website": "https://www.kofisetordji.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Kukun",
+    "website": "https://www.kukungh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "La Piazza",
+    "website": "https://www.lapiazza.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "La Villa Boutique Hotel",
+    "website": "https://www.lavillaboutiquehotel.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Labadi Beach Hotel",
+    "website": "https://www.labadibeachhotel.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "reservations@labadibeachhotelgh.com"
+    ],
+    "status": "found",
+    "notes": "1 email(s)"
+  },
+  {
+    "business_name": "Landtours Ghana",
+    "website": "https://www.landtoursghana.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Le Magellan Restaurant",
+    "website": "https://www.lemagellan.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Le Pavillon Restaurant",
+    "website": "https://www.lepavillon-restaurant.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "All emails were false positives"
+  },
+  {
+    "business_name": "Legal Ink Lawyers & Notaries",
+    "website": "https://www.legalinkgh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Lions Plus Travel and Tours",
+    "website": "https://www.lionsplustravel.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Lister Hospital & Fertility Centre",
+    "website": "https://www.listerhospital.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Loom Gallery",
+    "website": "https://www.loomgallery.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "MARGINS ID GROUP LIMITED",
+    "website": "https://www.marginsidgroup.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "MTN Ghana",
+    "website": "https://www.mtn.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Marina Mall Supermarket",
+    "website": "https://www.marinamallgh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "cmensah@brollghana.com",
+      "eamoa@brollghana.com"
+    ],
+    "status": "found",
+    "notes": "2 email(s)"
+  },
+  {
+    "business_name": "Marwako Fast Food",
+    "website": "https://www.marwako.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "MaxMart Supermarket Osu",
+    "website": "https://www.maxmartgh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Melcom Accra",
+    "website": "https://www.melcom.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Memory Lane Photography",
+    "website": "https://www.memorylanegh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Mensvic Grand Hotel",
+    "website": "https://www.mensvicgrandhotel.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Merton International School",
+    "website": "https://www.mertoninternational.edu.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Metropolitan Insurance",
+    "website": "https://www.metropolitaninsurance.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Movenpick Ambassador Hotel Accra",
+    "website": "https://www.movenpick.com/en/accra",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Multy Gym",
+    "website": "https://www.multygym.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "N Nketiah Law",
+    "website": "https://www.nnketiahlaw.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Nanny's CAKES",
+    "website": "https://www.nannyscakesgh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "New Horizon Special School",
+    "website": "https://www.newhorizonspecialschool.org",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "primahengkiki@gmail.com"
+    ],
+    "status": "found",
+    "notes": "1 email(s)"
+  },
+  {
+    "business_name": "Nii Obodai Studio",
+    "website": "https://www.niiobodaistudio.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Noble House Restaurant",
+    "website": "https://www.noblehouserestaurant.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Noella Marketing",
+    "website": "https://www.noellamarketing.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Nubuke Foundation",
+    "website": "https://www.nubukefoundation.org",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Number One Oxford Street Hotel & Suites",
+    "website": "https://www.numberoneoxford.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Nyaho Medical Centre",
+    "website": "https://www.nyahomedicalcentre.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "PHC Motors",
+    "website": "https://www.phcmotors.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "POMONA",
+    "website": "https://pomonaaccra.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "PRIMUS-TECH LIMITED",
+    "website": "https://www.primustechgh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "PRO VISION CONSULTANTS Ltd",
+    "website": "https://www.provisionconsultants.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Palace Pharmacy",
+    "website": "https://www.palacepharmacy.org",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Papaye's",
+    "website": "https://www.papayegh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Phoenix Insurance Company",
+    "website": "https://www.phoenixinsurance.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Pippa's Health Centre",
+    "website": "https://www.pippashealthcentre.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Pork Office",
+    "website": "https://www.porkofficegh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Power Fitness Institute",
+    "website": "https://www.powerfitnessinstitute.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Prestige Suite Hotel",
+    "website": "https://www.prestigesuitehotel.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "PricewaterhouseCoopers Ghana",
+    "website": "https://www.pwc.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "RESC",
+    "website": "https://www.rescghana.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Red 7 Events",
+    "website": "https://www.red7events.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Redpoint Real Estate and Property Management",
+    "website": "https://www.redpointrealestate.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Ridge Church School",
+    "website": "https://www.ridgechurchschool.edu.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Ridge Hospital",
+    "website": "https://www.ridgehospital.gov.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Rlg Communications",
+    "website": "https://www.rlgghana.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Rockefellas Sushi Korean Continental Restaurant",
+    "website": "https://www.rockefellasgh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Roots Hotel Apartment",
+    "website": "https://www.rootshotelapartment.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Royal House Chapel International",
+    "website": "https://www.royalhousechapel.org",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Royal Kingdom Estate",
+    "website": "https://www.royalkingdomestate.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "sales@royalkingdomestate.com",
+      "info@royalkingdomestate.com"
+    ],
+    "status": "found",
+    "notes": "2 email(s)"
+  },
+  {
+    "business_name": "SAM. OKUDZETO & ASSOCIATES",
+    "website": "https://www.okudzetolaw.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "SIC Insurance Company",
+    "website": "https://www.sicinsurance.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Sandbox Beach Club",
+    "website": "https://www.sandboxbeachclub.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [
+      "marketing@groupesebastien.com"
+    ],
+    "status": "found",
+    "notes": "1 email(s)"
+  },
+  {
+    "business_name": "Satguru Travels Ghana Ltd",
+    "website": "https://www.satgurutravels.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Shoprite Accra",
+    "website": "https://www.shoprite.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Silver Star Auto",
+    "website": "https://www.silverstarauto.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "SilverHair Salon & Spa Osu",
+    "website": "https://www.fresha.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Simply Healthy Ghana",
+    "website": "https://www.simplyhealthygh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Sky Bar 25",
+    "website": "https://www.skybar25gh.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Springboard Salon",
+    "website": "https://www.springboardsalon.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "St. Thomas Aquinas Senior High School",
+    "website": "https://www.stthomasaquinas.edu.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Stanbic Bank Osu",
+    "website": "https://www.stanbic.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Stellar Travel",
+    "website": "https://www.stellartravel.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Strategic Communications Africa Ltd (Stratcomm)",
+    "website": "https://www.stratcommafrica.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Osu/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Osu",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  }
+]

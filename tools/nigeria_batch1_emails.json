@@ -1,0 +1,75 @@
+[
+  {
+    "business_name": "Associated Attorneys",
+    "website": "https://associated-attorneys.com",
+    "emails_found": []
+  },
+  {
+    "business_name": "Africa Digital Agency",
+    "website": "https://africadigital.com.ng",
+    "emails_found": [
+      "hello@africadigital.com.ng",
+      "admin@africadidgital.com.ng",
+      "marketing@africadigital.com.ng"
+    ]
+  },
+  {
+    "business_name": "Presken Hotels",
+    "website": "https://preskenhotels.com",
+    "emails_found": [
+      "bookings@preskenhotels.com"
+    ]
+  },
+  {
+    "business_name": "Lagos Oriental Hotel",
+    "website": "http://www.lagosoriental.com",
+    "emails_found": [
+      "reservation@lagosoriental.com"
+    ]
+  },
+  {
+    "business_name": "Dental Plus Clinic",
+    "website": "https://dentalplusng.com",
+    "emails_found": [
+      "dentalplus2surulere@gmail.com",
+      "dentalplusanthony@gmail.com",
+      "dentalplus.ng@gmail.com",
+      "victoriaisland@dentalplusng.com"
+    ]
+  },
+  {
+    "business_name": "Mouth Spa Dental Clinic",
+    "website": "https://mouthspa.com.ng",
+    "emails_found": [
+      "themouthspa@gmail.com",
+      "info@mouthspa.com.ng"
+    ]
+  },
+  {
+    "business_name": "Beaconhill Smile Clinic",
+    "website": "https://beaconhillsmile.com",
+    "emails_found": []
+  },
+  {
+    "business_name": "Divine Dental Home",
+    "website": "https://divinedentalhome.com.ng",
+    "emails_found": [
+      "ddhdentalhome@gmail.com"
+    ]
+  },
+  {
+    "business_name": "Bolutokun Estate Agency",
+    "website": "https://bolutokun.com",
+    "emails_found": [
+      "info.abuja@bolutokun.com",
+      "info@bolutokun.com"
+    ]
+  },
+  {
+    "business_name": "Ramos Real Estate",
+    "website": "https://ramosrealestateng.com",
+    "emails_found": [
+      "hello@ramosrealestateng.com"
+    ]
+  }
+]

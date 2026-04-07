@@ -1,0 +1,891 @@
+{
+  "generated": "2026-04-07T17:07:04.599034",
+  "summary": {
+    "total_csvs_processed": 65,
+    "total_emails_found": 97,
+    "valid_mx": 97,
+    "valid_a_record": 0,
+    "no_mail_server": 0,
+    "invalid_format": 0,
+    "businesses_needing_visit": 94
+  },
+  "email_validations": [
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 2,
+      "business_name": "Eko Hotels & Suites",
+      "email": "sales@ekohotels.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['ekohotels-com.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 2,
+      "business_name": "Eko Hotels & Suites",
+      "email": "banquet@ekohotels.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['ekohotels-com.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 2,
+      "business_name": "Eko Hotels & Suites",
+      "email": "reservation@ekohotels.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['ekohotels-com.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 3,
+      "business_name": "Radisson Blu Anchorage Hotel Lagos",
+      "email": "info.lagos@radissonblu.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['radissonhotels.in.tmes.trendmicro.eu']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 3,
+      "business_name": "Radisson Blu Anchorage Hotel Lagos",
+      "email": "reservations.lagos@radissonblu.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['radissonhotels.in.tmes.trendmicro.eu']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 4,
+      "business_name": "Lagos Continental Hotel",
+      "email": "reservations@thelagoscontinental.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['alt1.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'alt3.aspmx.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 5,
+      "business_name": "Hard Rock Cafe Lagos",
+      "email": "gm.hrclagos@sjmnigeria.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 8,
+      "business_name": "Citibank Nigeria Limited",
+      "email": "complaints.nigeria@citi.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx-b.mail.citi.com', 'mx-a.mail.citi.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 10,
+      "business_name": "Layer3",
+      "email": "enquiry@layer3.com.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['layer3-com-ng.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 10,
+      "business_name": "Layer3",
+      "email": "sales@layer3.com.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['layer3-com-ng.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 12,
+      "business_name": "Dental Plus Clinic",
+      "email": "dentalplus.ng@gmail.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['gmail-smtp-in.l.google.com', 'alt3.gmail-smtp-in.l.google.com', 'alt1.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 13,
+      "business_name": "WSI Axon",
+      "email": "ask@wsiaxon.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['smtp.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 14,
+      "business_name": "Odontoville Dental Clinics",
+      "email": "contact@odontovilledentalclinics.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mail.odontovilledentalclinics.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 15,
+      "business_name": "Orbit Financial Services Limited",
+      "email": "info@orbitfinancial.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['smtp.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 2,
+      "business_name": "Eko Hotels & Suites",
+      "email": "sales@ekohotels.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['ekohotels-com.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 2,
+      "business_name": "Eko Hotels & Suites",
+      "email": "banquet@ekohotels.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['ekohotels-com.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 2,
+      "business_name": "Eko Hotels & Suites",
+      "email": "reservation@ekohotels.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['ekohotels-com.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 3,
+      "business_name": "Radisson Blu Anchorage Hotel Lagos",
+      "email": "info.lagos@radissonblu.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['radissonhotels.in.tmes.trendmicro.eu']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 3,
+      "business_name": "Radisson Blu Anchorage Hotel Lagos",
+      "email": "reservations.lagos@radissonblu.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['radissonhotels.in.tmes.trendmicro.eu']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 4,
+      "business_name": "Lagos Continental Hotel",
+      "email": "reservations@thelagoscontinental.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['alt4.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'alt1.aspmx.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 5,
+      "business_name": "Hard Rock Cafe Lagos",
+      "email": "gm.hrclagos@sjmnigeria.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 7,
+      "business_name": "Citibank Nigeria Limited",
+      "email": "complaints.nigeria@citi.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx-b.mail.citi.com', 'mx-a.mail.citi.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 8,
+      "business_name": "Layer3",
+      "email": "enquiry@layer3.com.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['layer3-com-ng.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 8,
+      "business_name": "Layer3",
+      "email": "sales@layer3.com.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['layer3-com-ng.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 9,
+      "business_name": "Dental Plus Clinic",
+      "email": "dentalplus.ng@gmail.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['alt3.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com', 'alt1.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 10,
+      "business_name": "Mouth Spa Dental Clinic",
+      "email": "themouthspa@gmail.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['alt3.gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com', 'alt1.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 11,
+      "business_name": "Odontoville Dental Clinics",
+      "email": "contact@odontovilledentalclinics.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mail.odontovilledentalclinics.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 13,
+      "business_name": "WSI Axon",
+      "email": "ask@wsiaxon.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['smtp.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 14,
+      "business_name": "Orbit Financial Services Limited",
+      "email": "info@orbitfinancial.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['smtp.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Business_Niches/Hotels_Lodging/hotels_lodging_web.csv",
+      "row": 2,
+      "business_name": "Eko Hotels & Suites",
+      "email": "sales@ekohotels.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['ekohotels-com.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Business_Niches/Hotels_Lodging/hotels_lodging_web.csv",
+      "row": 2,
+      "business_name": "Eko Hotels & Suites",
+      "email": "banquet@ekohotels.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['ekohotels-com.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Business_Niches/Hotels_Lodging/hotels_lodging_web.csv",
+      "row": 2,
+      "business_name": "Eko Hotels & Suites",
+      "email": "reservation@ekohotels.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['ekohotels-com.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Business_Niches/Hotels_Lodging/hotels_lodging_web.csv",
+      "row": 3,
+      "business_name": "Radisson Blu Anchorage Hotel Lagos",
+      "email": "info.lagos@radissonblu.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['radissonhotels.in.tmes.trendmicro.eu']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Business_Niches/Hotels_Lodging/hotels_lodging_web.csv",
+      "row": 3,
+      "business_name": "Radisson Blu Anchorage Hotel Lagos",
+      "email": "reservations.lagos@radissonblu.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['radissonhotels.in.tmes.trendmicro.eu']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Business_Niches/Hotels_Lodging/hotels_lodging_web.csv",
+      "row": 4,
+      "business_name": "Lagos Continental Hotel",
+      "email": "reservations@thelagoscontinental.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['alt4.aspmx.l.google.com', 'aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt1.aspmx.l.google.com', 'alt3.aspmx.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Business_Niches/Marketing_Digital/marketing_digital_web.csv",
+      "row": 3,
+      "business_name": "WSI Axon",
+      "email": "ask@wsiaxon.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['smtp.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Business_Niches/Dental_Clinics/dental_clinics_web.csv",
+      "row": 2,
+      "business_name": "Dental Plus Clinic",
+      "email": "dentalplus.ng@gmail.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['alt4.gmail-smtp-in.l.google.com', 'alt3.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com', 'alt1.gmail-smtp-in.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Business_Niches/Dental_Clinics/dental_clinics_web.csv",
+      "row": 3,
+      "business_name": "Mouth Spa Dental Clinic",
+      "email": "themouthspa@gmail.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['alt2.gmail-smtp-in.l.google.com', 'alt1.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com', 'alt3.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Business_Niches/Dental_Clinics/dental_clinics_web.csv",
+      "row": 4,
+      "business_name": "Odontoville Dental Clinics",
+      "email": "contact@odontovilledentalclinics.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mail.odontovilledentalclinics.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Business_Niches/Banks_Financial_Services/banks_financial_services_web.csv",
+      "row": 2,
+      "business_name": "Citibank Nigeria Limited",
+      "email": "complaints.nigeria@citi.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx-b.mail.citi.com', 'mx-a.mail.citi.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Business_Niches/Banks_Financial_Services/banks_financial_services_web.csv",
+      "row": 4,
+      "business_name": "Orbit Financial Services Limited",
+      "email": "info@orbitfinancial.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['smtp.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Business_Niches/IT_Technology/it_technology_web.csv",
+      "row": 2,
+      "business_name": "Layer3",
+      "email": "enquiry@layer3.com.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['layer3-com-ng.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Business_Niches/IT_Technology/it_technology_web.csv",
+      "row": 2,
+      "business_name": "Layer3",
+      "email": "sales@layer3.com.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['layer3-com-ng.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 2,
+      "business_name": "The Junction Restaurant",
+      "email": "info@thejunctionrestaurants.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mail.thejunctionrestaurants.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 3,
+      "business_name": "The Place Restaurants",
+      "email": "customerservice@theplace.com.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['theplace-com-ng.mail.protection.outlook.com', 'exserver.theplace.com.ng']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 4,
+      "business_name": "Vintano Hotel",
+      "email": "reservations@vintanohotel.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx.stackmail.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 6,
+      "business_name": "i-Fitness Gym & Wellness Centres (Lekki Phase 1)",
+      "email": "info@ifitness.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx.zoho.com', 'mx3.zoho.com', 'mx2.zoho.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 7,
+      "business_name": "Kayzplace Barbershop",
+      "email": "kayzplacebarbershop@gmail.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['alt3.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com', 'alt1.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 8,
+      "business_name": "Caredent Dental Clinic",
+      "email": "info@caredentclinic.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['caredentclinic-com.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 9,
+      "business_name": "New Hall International School",
+      "email": "info@newhallschool.com.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mail.newhallschool.com.ng']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 9,
+      "business_name": "New Hall International School",
+      "email": "admissions@newhallschool.com.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mail.newhallschool.com.ng']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 11,
+      "business_name": "Children's International School Lagos",
+      "email": "info@cislagos.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['alt1.aspmx.l.google.com', 'aspmx5.googlemail.com', 'aspmx3.googlemail.com', 'aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx4.googlemail.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 12,
+      "business_name": "Standard Bearers School",
+      "email": "administration@standardbearersschool.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['standardbearersschool.ng']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 12,
+      "business_name": "Standard Bearers School",
+      "email": "admissions@standardbearersschool.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['standardbearersschool.ng']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 14,
+      "business_name": "Corona Schools (Lekki)",
+      "email": "lks@coronaschools.org",
+      "status": "valid_mx",
+      "detail": "MX records found: ['coronaschools-org.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 15,
+      "business_name": "Lekki Peculiar School",
+      "email": "info@peculiarschools.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['alt1.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 21,
+      "business_name": "Gadiel Event Planners",
+      "email": "gadielluxury@gmail.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['alt1.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com', 'alt3.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 22,
+      "business_name": "Lekki Event Planners",
+      "email": "lekkieventplanners@gmail.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['alt2.gmail-smtp-in.l.google.com', 'alt1.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com', 'alt3.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 23,
+      "business_name": "Oxgital (Digital Marketing & Advertising)",
+      "email": "oxgital@gmail.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com', 'alt3.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com', 'alt1.gmail-smtp-in.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 26,
+      "business_name": "Cybertech Digitals",
+      "email": "info@cybertechdigitals.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx.stackmail.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 27,
+      "business_name": "TDigital",
+      "email": "johnfash@tdigital.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx.zoho.com', 'mx3.zoho.com', 'mx2.zoho.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 28,
+      "business_name": "Atco Homes",
+      "email": "info@atcohomes.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['_dc-mx.63485a15aa80.atcohomes.ng']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 2,
+      "business_name": "Greensprings School (Lekki Campus)",
+      "email": "info.lekki@greenspringsschool.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['aspmx4.googlemail.com', 'alt1.aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx.l.google.com', 'aspmx3.googlemail.com', 'aspmx5.googlemail.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 3,
+      "business_name": "Codep Tech",
+      "email": "info@codeptech.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['codeptech.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 3,
+      "business_name": "Codep Tech",
+      "email": "support@codeptech.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['codeptech.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 4,
+      "business_name": "TechForge IT Consulting",
+      "email": "info@techforgeitconsulting.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx1-hosting.jellyfish.systems', 'mx3-hosting.jellyfish.systems', 'mx2-hosting.jellyfish.systems']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 15,
+      "business_name": "Nivarix Technologies",
+      "email": "contact@nivarix.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx2.privateemail.com', 'mx1.privateemail.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Business_Niches/Restaurants/restaurants_web.csv",
+      "row": 2,
+      "business_name": "The Junction Restaurant",
+      "email": "info@thejunctionrestaurants.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mail.thejunctionrestaurants.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Business_Niches/Restaurants/restaurants_web.csv",
+      "row": 3,
+      "business_name": "The Place Restaurants",
+      "email": "customerservice@theplace.com.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['theplace-com-ng.mail.protection.outlook.com', 'exserver.theplace.com.ng']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Business_Niches/Real_Estate/real_estate_web.csv",
+      "row": 2,
+      "business_name": "Atco Homes",
+      "email": "info@atcohomes.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['_dc-mx.63485a15aa80.atcohomes.ng']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Business_Niches/Tech_Startups/tech_startups_web.csv",
+      "row": 2,
+      "business_name": "Cybertech Digitals",
+      "email": "info@cybertechdigitals.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx.stackmail.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Business_Niches/Tech_Startups/tech_startups_web.csv",
+      "row": 3,
+      "business_name": "TDigital",
+      "email": "johnfash@tdigital.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx2.zoho.com', 'mx3.zoho.com', 'mx.zoho.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Business_Niches/Tech_Startups/tech_startups_web.csv",
+      "row": 4,
+      "business_name": "Codep Tech",
+      "email": "info@codeptech.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['codeptech.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Business_Niches/Tech_Startups/tech_startups_web.csv",
+      "row": 4,
+      "business_name": "Codep Tech",
+      "email": "support@codeptech.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['codeptech.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Business_Niches/Tech_Startups/tech_startups_web.csv",
+      "row": 5,
+      "business_name": "TechForge IT Consulting",
+      "email": "info@techforgeitconsulting.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx1-hosting.jellyfish.systems', 'mx3-hosting.jellyfish.systems', 'mx2-hosting.jellyfish.systems']"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Business_Niches/Tech_Startups/tech_startups_web.csv",
+      "row": 6,
+      "business_name": "Nivarix Technologies",
+      "email": "contact@nivarix.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx2.privateemail.com', 'mx1.privateemail.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 2,
+      "business_name": "Radisson Hotel Lagos Ikeja",
+      "email": "reservations.ikeja@radisson.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['radissonhotels.in.tmes.trendmicro.eu']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 3,
+      "business_name": "Ikeja Residence by BON Hotels",
+      "email": "reservations@bonhotelikeja.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx2.hostinger.com', 'mx1.hostinger.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 4,
+      "business_name": "Yellow Chilli Restaurant & Bar",
+      "email": "support@yellowchilling.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mail.yellowchilling.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 6,
+      "business_name": "R-Jolad Hospital",
+      "email": "wecare@rjolad.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx2.zoho.com', 'rjolad-com.mail.protection.outlook.com', 'mx3.zoho.com', 'mx.zoho.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 9,
+      "business_name": "Access Bank Ikeja Branch",
+      "email": "contactcenter@accessbankplc.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['accessbankplc-com.mail.protection.outlook.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 10,
+      "business_name": "CrownCrystal Tech Ltd",
+      "email": "support@crowncrystaltech.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx2.zoho.com', 'mx.zoho.com', 'mx3.zoho.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 11,
+      "business_name": "FEMISH IT Solutions & Systems Ltd",
+      "email": "info@femish.com.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mail.femish.com.ng']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 11,
+      "business_name": "FEMISH IT Solutions & Systems Ltd",
+      "email": "mishael@femish.com.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mail.femish.com.ng']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 12,
+      "business_name": "Digitalwe Limited",
+      "email": "plusinnovationhub@gmail.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['alt3.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com', 'alt1.gmail-smtp-in.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 13,
+      "business_name": "St Gloria's Schools",
+      "email": "stgloriadaisy@yahoo.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mta6.am0.yahoodns.net', 'mta7.am0.yahoodns.net', 'mta5.am0.yahoodns.net']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 15,
+      "business_name": "i-Fitness Gym & Wellness Ikeja GRA",
+      "email": "info@ifitness.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx3.zoho.com', 'mx2.zoho.com', 'mx.zoho.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 16,
+      "business_name": "Surefit Gym and Fitness Center",
+      "email": "surefitwellness@gmail.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['alt3.gmail-smtp-in.l.google.com', 'alt1.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 18,
+      "business_name": "Bam & Gad Solicitors",
+      "email": "info@bamandgadsolicitors.com.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['bamandgadsolicitors.com.ng']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/Other_Public_Web_Leads/Raw_Leads/raw_leads.csv",
+      "row": 2,
+      "business_name": "CrownCrystal Tech Ltd",
+      "email": "support@crowncrystaltech.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx.zoho.com', 'mx2.zoho.com', 'mx3.zoho.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/Other_Public_Web_Leads/Raw_Leads/raw_leads.csv",
+      "row": 3,
+      "business_name": "FEMISH IT Solutions & Systems Ltd",
+      "email": "info@femish.com.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mail.femish.com.ng']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/Other_Public_Web_Leads/Raw_Leads/raw_leads.csv",
+      "row": 3,
+      "business_name": "FEMISH IT Solutions & Systems Ltd",
+      "email": "mishael@femish.com.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mail.femish.com.ng']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/Other_Public_Web_Leads/Raw_Leads/raw_leads.csv",
+      "row": 4,
+      "business_name": "Digitalwe Limited",
+      "email": "plusinnovationhub@gmail.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['alt4.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com', 'alt3.gmail-smtp-in.l.google.com', 'alt1.gmail-smtp-in.l.google.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/Other_Public_Web_Leads/Business_Niches/IT_Companies/it_companies.csv",
+      "row": 2,
+      "business_name": "CrownCrystal Tech Ltd",
+      "email": "support@crowncrystaltech.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mx3.zoho.com', 'mx.zoho.com', 'mx2.zoho.com']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/Other_Public_Web_Leads/Business_Niches/IT_Companies/it_companies.csv",
+      "row": 3,
+      "business_name": "FEMISH IT Solutions & Systems Ltd",
+      "email": "info@femish.com.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mail.femish.com.ng']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/Other_Public_Web_Leads/Business_Niches/IT_Companies/it_companies.csv",
+      "row": 3,
+      "business_name": "FEMISH IT Solutions & Systems Ltd",
+      "email": "mishael@femish.com.ng",
+      "status": "valid_mx",
+      "detail": "MX records found: ['mail.femish.com.ng']"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/Other_Public_Web_Leads/Business_Niches/IT_Companies/it_companies.csv",
+      "row": 4,
+      "business_name": "Digitalwe Limited",
+      "email": "plusinnovationhub@gmail.com",
+      "status": "valid_mx",
+      "detail": "MX records found: ['gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com', 'alt1.gmail-smtp-in.l.google.com', 'alt3.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com']"
+    }
+  ],
+  "valid_mx_emails": [
+    "sales@ekohotels.com",
+    "banquet@ekohotels.com",
+    "reservation@ekohotels.com",
+    "info.lagos@radissonblu.com",
+    "reservations.lagos@radissonblu.com",
+    "reservations@thelagoscontinental.com",
+    "gm.hrclagos@sjmnigeria.com",
+    "complaints.nigeria@citi.com",
+    "enquiry@layer3.com.ng",
+    "sales@layer3.com.ng",
+    "dentalplus.ng@gmail.com",
+    "ask@wsiaxon.com",
+    "contact@odontovilledentalclinics.com",
+    "info@orbitfinancial.ng",
+    "sales@ekohotels.com",
+    "banquet@ekohotels.com",
+    "reservation@ekohotels.com",
+    "info.lagos@radissonblu.com",
+    "reservations.lagos@radissonblu.com",
+    "reservations@thelagoscontinental.com",
+    "gm.hrclagos@sjmnigeria.com",
+    "complaints.nigeria@citi.com",
+    "enquiry@layer3.com.ng",
+    "sales@layer3.com.ng",
+    "dentalplus.ng@gmail.com",
+    "themouthspa@gmail.com",
+    "contact@odontovilledentalclinics.com",
+    "ask@wsiaxon.com",
+    "info@orbitfinancial.ng",
+    "sales@ekohotels.com",
+    "banquet@ekohotels.com",
+    "reservation@ekohotels.com",
+    "info.lagos@radissonblu.com",
+    "reservations.lagos@radissonblu.com",
+    "reservations@thelagoscontinental.com",
+    "ask@wsiaxon.com",
+    "dentalplus.ng@gmail.com",
+    "themouthspa@gmail.com",
+    "contact@odontovilledentalclinics.com",
+    "complaints.nigeria@citi.com",
+    "info@orbitfinancial.ng",
+    "enquiry@layer3.com.ng",
+    "sales@layer3.com.ng",
+    "info@thejunctionrestaurants.com",
+    "customerservice@theplace.com.ng",
+    "reservations@vintanohotel.com",
+    "info@ifitness.ng",
+    "kayzplacebarbershop@gmail.com",
+    "info@caredentclinic.com",
+    "info@newhallschool.com.ng",
+    "admissions@newhallschool.com.ng",
+    "info@cislagos.com",
+    "administration@standardbearersschool.ng",
+    "admissions@standardbearersschool.ng",
+    "lks@coronaschools.org",
+    "info@peculiarschools.com",
+    "gadielluxury@gmail.com",
+    "lekkieventplanners@gmail.com",
+    "oxgital@gmail.com",
+    "info@cybertechdigitals.com",
+    "johnfash@tdigital.ng",
+    "info@atcohomes.ng",
+    "info.lekki@greenspringsschool.com",
+    "info@codeptech.com",
+    "support@codeptech.com",
+    "info@techforgeitconsulting.com",
+    "contact@nivarix.com",
+    "info@thejunctionrestaurants.com",
+    "customerservice@theplace.com.ng",
+    "info@atcohomes.ng",
+    "info@cybertechdigitals.com",
+    "johnfash@tdigital.ng",
+    "info@codeptech.com",
+    "support@codeptech.com",
+    "info@techforgeitconsulting.com",
+    "contact@nivarix.com",
+    "reservations.ikeja@radisson.com",
+    "reservations@bonhotelikeja.com",
+    "support@yellowchilling.com",
+    "wecare@rjolad.com",
+    "contactcenter@accessbankplc.com",
+    "support@crowncrystaltech.com",
+    "info@femish.com.ng",
+    "mishael@femish.com.ng",
+    "plusinnovationhub@gmail.com",
+    "stgloriadaisy@yahoo.com",
+    "info@ifitness.ng",
+    "surefitwellness@gmail.com",
+    "info@bamandgadsolicitors.com.ng",
+    "support@crowncrystaltech.com",
+    "info@femish.com.ng",
+    "mishael@femish.com.ng",
+    "plusinnovationhub@gmail.com",
+    "support@crowncrystaltech.com",
+    "info@femish.com.ng",
+    "mishael@femish.com.ng",
+    "plusinnovationhub@gmail.com"
+  ],
+  "valid_a_record_emails": [],
+  "no_mail_server_emails": []
+}

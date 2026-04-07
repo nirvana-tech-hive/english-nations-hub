@@ -1,0 +1,39 @@
+[
+  {
+    "business_name": "Genesis Hospital",
+    "website": "https://genesishospitalng.com",
+    "emails_found": []
+  },
+  {
+    "business_name": "Lagoon Hospital",
+    "website": "https://www.lagoonhospitals.com",
+    "emails_found": [
+      "livemorelife@lagoonhospitals.com"
+    ]
+  },
+  {
+    "business_name": "O. Kayode & Co",
+    "website": "https://www.okayode.com",
+    "emails_found": []
+  },
+  {
+    "business_name": "Oxgital Marketing",
+    "website": "https://oxgital.com",
+    "emails_found": [
+      "oxgital@gmail.com"
+    ]
+  },
+  {
+    "business_name": "Flutterwave",
+    "website": "https://flutterwave.com",
+    "emails_found": [
+      "onboarding@flutterwavego.com",
+      "tuition@flutterwavego.com",
+      "serviceclient@flutterwavego.com",
+      "integration_support_intercom@flutterwavego.com",
+      "hi@flutterwavego.com",
+      "oladipo@flutterwavego.com",
+      "kelechi@flutterwavego.com"
+    ]
+  }
+]

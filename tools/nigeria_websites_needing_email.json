@@ -1,0 +1,946 @@
+{
+  "generated": "2026-04-07T17:07:04.599052",
+  "total": 94,
+  "businesses": [
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 6,
+      "business_name": "Associated Attorneys",
+      "business_niche": "Law Firm",
+      "address": "1st Floor OMP Building 33 Kofo Abayomi Street Victoria Island Lagos State Nigeria",
+      "city_area": "Victoria Island",
+      "website": "https://associated-attorneys.com",
+      "phone": "+234 803 787 0631; +234 808 200 0111"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 7,
+      "business_name": "Accenture Nigeria",
+      "business_niche": "Consulting Firm",
+      "address": "Plot 1712 Idejo Street Off Adeola Odeku Street PMB 80885 Victoria Island Lagos",
+      "city_area": "Victoria Island",
+      "website": "https://www.accenture.com/us-en/about/location",
+      "phone": "+234 1 262 6929; +234 1 267 2780; +234 1 320 0299"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 9,
+      "business_name": "Zenith Bank (Victoria Island Branch)",
+      "business_niche": "Bank",
+      "address": "Plot 84 Ajose Adeogun Street Victoria Island Lagos",
+      "city_area": "Victoria Island",
+      "website": "https://www.zenithbank.com",
+      "phone": "+234 1 461 8677"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 11,
+      "business_name": "Africa Digital Agency",
+      "business_niche": "Marketing Agency",
+      "address": "Plot 2 Ajose Adeogun Street Victoria Island Lagos",
+      "city_area": "Victoria Island",
+      "website": "https://africadigital.com.ng",
+      "phone": "+234 806 737 0247"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 2,
+      "business_name": "Eko Hotels & Suites",
+      "business_niche": "Hotel",
+      "address": "Plot 1415 Adetokunbo Ademola Street PMB 12724 Victoria Island Lagos",
+      "city_area": "Victoria Island",
+      "website": "https://www.ekohotels.com",
+      "phone": "+234 1 2772700"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 3,
+      "business_name": "Radisson Blu Anchorage Hotel Lagos",
+      "business_niche": "Hotel",
+      "address": "Ozumba Mbadiwe Road Victoria Island Lagos Nigeria 101241",
+      "city_area": "Victoria Island",
+      "website": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-lagos-anchorage",
+      "phone": "+234 8 139 850"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 4,
+      "business_name": "Lagos Continental Hotel",
+      "business_niche": "Hotel",
+      "address": "Plot 52A Kofo Abayomi Street Victoria Island Lagos 101241",
+      "city_area": "Victoria Island",
+      "website": "https://lagoscontinentalhotel.com-nigeria.com",
+      "phone": "+234 1 2366666"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 5,
+      "business_name": "Hard Rock Cafe Lagos",
+      "business_niche": "Restaurant",
+      "address": "Landmark Village Water Corporation Road Oniru Victoria Island Lagos",
+      "city_area": "Victoria Island",
+      "website": "https://cafe.hardrock.com/lagos",
+      "phone": "+234 908 198 8888"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 6,
+      "business_name": "Presken Hotels @ Victoria Island",
+      "business_niche": "Hotel",
+      "address": "Victoria Island Lagos Nigeria",
+      "city_area": "Victoria Island",
+      "website": "https://preskenhotels.com",
+      "phone": "+234 803 5685 980"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 7,
+      "business_name": "Lagos Oriental Hotel",
+      "business_niche": "Hotel",
+      "address": "3 Lekki Road Victoria Island Lagos Nigeria",
+      "city_area": "Victoria Island",
+      "website": "http://www.lagosoriental.com",
+      "phone": "+234 1 280"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 10,
+      "business_name": "Dental Plus Clinic",
+      "business_niche": "Dental Clinic",
+      "address": "Plot 255 Muri Okunola Street Victoria Island Lagos",
+      "city_area": "Victoria Island",
+      "website": "https://dentalplusng.com",
+      "phone": "+234 1 454 4207; 0802 551 4175"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 11,
+      "business_name": "Mouth Spa Dental Clinic",
+      "business_niche": "Dental Clinic",
+      "address": "Victoria Island Lagos Nigeria",
+      "city_area": "Victoria Island",
+      "website": "https://mouthspa.com.ng",
+      "phone": "+234 809 456 0813; +234 907 142 2040"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 12,
+      "business_name": "Beaconhill Smile Clinic",
+      "business_niche": "Dental Clinic",
+      "address": "First Floor Union Bank Building 97 Ahmadu Bello Way Victoria Island Lagos",
+      "city_area": "Victoria Island",
+      "website": "https://beaconhillsmile.com",
+      "phone": "Not Available"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 13,
+      "business_name": "Odontoville Dental Clinics",
+      "business_niche": "Dental Clinic",
+      "address": "21 Babatunde Jose Street Victoria Island Lagos Nigeria",
+      "city_area": "Victoria Island",
+      "website": "https://www.odontovilledentalclinics.com",
+      "phone": "0808 505 8218; 0809 125 0170"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 15,
+      "business_name": "Citibank Nigeria Limited",
+      "business_niche": "Bank",
+      "address": "Charles S. Sankey House 27 Kofo Abayomi Street Victoria Island Lagos",
+      "city_area": "Victoria Island",
+      "website": "https://www.citigroup.com",
+      "phone": "+234 1 279 8642"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 17,
+      "business_name": "Access Bank (Victoria Island Branch)",
+      "business_niche": "Bank",
+      "address": "Plot 99c Danmole Street Off Adeola Odeku/Idejo Street Victoria Island Lagos",
+      "city_area": "Victoria Island",
+      "website": "https://www.accessbankplc.com",
+      "phone": "+234 1 461 9264"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 21,
+      "business_name": "Layer3",
+      "business_niche": "IT & Managed Service Provider",
+      "address": "Plot 37 Suite 2A Prince Court Ahmed Onibudu Street Victoria Island Lagos",
+      "city_area": "Victoria Island",
+      "website": "https://www.layer3.ng",
+      "phone": "+234 1 280 5526; +234 908 529 3740"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 23,
+      "business_name": "Bolutokun Estate Agency",
+      "business_niche": "Real Estate Agency",
+      "address": "1st Floor Plot 1038A Ologun Agbaje Street Victoria Island Lagos",
+      "city_area": "Victoria Island",
+      "website": "https://bolutokun.com",
+      "phone": "+234 806 716 8266; +234 805 587 3455"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 25,
+      "business_name": "WSI Axon",
+      "business_niche": "Marketing Agency",
+      "address": "9A Oko Awo Street Victoria Island Lagos Nigeria",
+      "city_area": "Victoria Island",
+      "website": "https://www.wsiaxon.com",
+      "phone": "+234 903 898 3631"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 26,
+      "business_name": "Ramos Real Estate",
+      "business_niche": "Real Estate Agency",
+      "address": "Victoria Island Lagos Nigeria",
+      "city_area": "Victoria Island",
+      "website": "https://ramosrealestateng.com",
+      "phone": "+234 813 335 5522"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 27,
+      "business_name": "Orbit Financial Services Limited",
+      "business_niche": "Financial Services",
+      "address": "Plot 1062 Abagbon Close Victoria Island Lagos",
+      "city_area": "Victoria Island",
+      "website": "https://orbitfinancial.ng",
+      "phone": "0704 000 0014"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 29,
+      "business_name": "Divine Dental Home",
+      "business_niche": "Dental Clinic",
+      "address": "Victoria Island Lagos Nigeria",
+      "city_area": "Victoria Island",
+      "website": "https://divinedentalhome.com.ng",
+      "phone": "Not Available"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 6,
+      "business_name": "Accenture Nigeria",
+      "business_niche": "Consulting & Technology",
+      "address": "Not Available",
+      "city_area": "+234 1 262 6929; +234 1 267 2780; +234 1 320 0299",
+      "website": "https://www.accenture.com",
+      "phone": "https://www.accenture.com"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 5,
+      "business_name": "Iwosan Lagoon Hospital Ikeja",
+      "business_niche": "Hospital",
+      "address": "97/101 Obafemi Awolowo Avenue Ikeja",
+      "city_area": "Ikeja",
+      "website": "https://www.lagoonhospitals.com",
+      "phone": "+234 708 639 3027"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 7,
+      "business_name": "Genesis Specialist Hospital",
+      "business_niche": "Hospital",
+      "address": "67 Oduduwa Crescent Ikeja GRA Lagos",
+      "city_area": "Ikeja",
+      "website": "https://genesishospitalng.com",
+      "phone": "+234 908 706 6796"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 8,
+      "business_name": "IBILE Microfinance Bank",
+      "business_niche": "Bank/Microfinance",
+      "address": "428 Obafemi Awolowo Way Allen Roundabout Ikeja",
+      "city_area": "Ikeja",
+      "website": "https://ibilemfb.com",
+      "phone": "+234 700 444 1 444"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 17,
+      "business_name": "Wonderwheels Nigeria",
+      "business_niche": "Car Dealership/Auto Service",
+      "address": "90B Opebi Road Ikeja Lagos",
+      "city_area": "Ikeja",
+      "website": "https://wonderwheelsng.com",
+      "phone": "+234 806 602 2639;+234 700 700 0003"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 19,
+      "business_name": "O. Kayode & Co",
+      "business_niche": "Law Firm",
+      "address": "First floor 22 Oba Akran Avenue Ikeja Lagos",
+      "city_area": "Ikeja",
+      "website": "https://www.okayode.com",
+      "phone": "+234 707 429 5059;+234 813 192 1244"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 20,
+      "business_name": "Westpoint Homes and Properties",
+      "business_niche": "Real Estate Agency",
+      "address": "111 Ogunlowo Street Ikeja Lagos",
+      "city_area": "Ikeja",
+      "website": "https://westpointr.com",
+      "phone": "+234 913 204 5774"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 2,
+      "business_name": "Radisson Hotel Lagos Ikeja",
+      "business_niche": "Hotel",
+      "address": "27/29 Isaac John Street GRA Ikeja",
+      "city_area": "Ikeja",
+      "website": "https://www.radissonhotels.com/en-us/hotels/radisson-lagos-ikeja",
+      "phone": "+234 201 466 2380"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 3,
+      "business_name": "Lagos Marriott Hotel Ikeja",
+      "business_niche": "Hotel",
+      "address": "122 Joel Ogunnaike Street Ikeja GRA Lagos",
+      "city_area": "Ikeja",
+      "website": "https://www.marriott.com/en-us/hotels/loslg-lagos-marriott-hotel-ikeja/overview",
+      "phone": "+234 8139 84 4850"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 4,
+      "business_name": "Skyrock Hotel",
+      "business_niche": "Hotel",
+      "address": "24 Ogunsiji Street Off Allen Avenue Ikeja",
+      "city_area": "Ikeja",
+      "website": "https://skyrockhotels.com",
+      "phone": "+234 913 815 5297"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 5,
+      "business_name": "Ikeja Residence by BON Hotels",
+      "business_niche": "Hotel",
+      "address": "51 Sobo Ariobiodu Street GRA Ikeja Lagos",
+      "city_area": "Ikeja",
+      "website": "https://bonhotels.com/hotel/ikeja-residence",
+      "phone": "+234 707 203 2040"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 7,
+      "business_name": "Yellow Chilli Restaurant & Bar",
+      "business_niche": "Restaurant",
+      "address": "35 Joel Ogunnaike Street GRA Ikeja Lagos",
+      "city_area": "Ikeja",
+      "website": "https://yellowchilling.com",
+      "phone": "+234 814 113 0890;+234 808 994 8999"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 12,
+      "business_name": "R-Jolad Hospital",
+      "business_niche": "Hospital",
+      "address": "Shop 4 Jara Mall Simbiat Abiola Way Ikeja",
+      "city_area": "Ikeja",
+      "website": "https://rjolad.com",
+      "phone": "+234 700 075 6523"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 17,
+      "business_name": "Ikeja City Mall",
+      "business_niche": "Shopping Mall",
+      "address": "Obafemi Awolowo Way Alausa Ikeja Lagos",
+      "city_area": "Ikeja",
+      "website": "https://ikejacitymall.com.ng",
+      "phone": "Not Available"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 19,
+      "business_name": "CrownCrystal Tech Ltd",
+      "business_niche": "IT Company",
+      "address": "23 Oshifila Street Anifowoshe Ikeja Lagos",
+      "city_area": "Ikeja",
+      "website": "https://cctech.ng",
+      "phone": "+234 915 910 0000"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 20,
+      "business_name": "FEMISH IT Solutions & Systems Ltd",
+      "business_niche": "IT Company",
+      "address": "1 Majekodunmi Street Off Allen Avenue Ikeja Lagos",
+      "city_area": "Ikeja",
+      "website": "https://www.femish.com.ng",
+      "phone": "+234 812 811 4584"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 21,
+      "business_name": "Digitalwe Limited",
+      "business_niche": "IT Company/Digital Agency",
+      "address": "76b Adeniyi Jones Avenue Ikeja Lagos",
+      "city_area": "Ikeja",
+      "website": "https://digitalwe.biz",
+      "phone": "+234 806 438 2453"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 23,
+      "business_name": "St Gloria's Schools",
+      "business_niche": "School",
+      "address": "28/29 Adekunle Fajuyi Way Ikeja GRA Lagos",
+      "city_area": "Ikeja",
+      "website": "https://stglorias.com.ng",
+      "phone": "+234 806 359 6996;+234 805 719 6225"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 28,
+      "business_name": "Surefit Gym and Fitness Center",
+      "business_niche": "Gym & Fitness",
+      "address": "2 Adewumi Estate Kudirat Abiola Way Oregun Ikeja",
+      "city_area": "Ikeja",
+      "website": "https://www.surefitgymandfitnesscenter.com",
+      "phone": "+234 802 360 9696;+234 702 502 8126"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 30,
+      "business_name": "Metropolitan Motors (Toyota Dealer)",
+      "business_niche": "Car Dealership",
+      "address": "1 Shobo Arobiodu DStv Roundabout GRA Ikeja",
+      "city_area": "Ikeja",
+      "website": "https://www.toyotanigeria.com/dealers/metropolitan-motors",
+      "phone": "+234 815 499 1135"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 32,
+      "business_name": "Bam & Gad Solicitors",
+      "business_niche": "Law Firm",
+      "address": "17/19 Allen Avenue Ikeja Lagos",
+      "city_area": "Ikeja",
+      "website": "https://bamandgadsolicitors.com.ng",
+      "phone": "+234 806 278 7594"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 33,
+      "business_name": "Awosika Law",
+      "business_niche": "Law Firm",
+      "address": "5 Chief Oborokumo Close Off Sobo Arobiodu GRA Ikeja",
+      "city_area": "Ikeja",
+      "website": "https://awosikalaw.com",
+      "phone": "+234 1 290 3248"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 34,
+      "business_name": "Emawodia and Attorneys",
+      "business_niche": "Law Firm",
+      "address": "No 90 Allen Avenue Wuraola House Ikeja Lagos",
+      "city_area": "Ikeja",
+      "website": "https://emawodiaandattorneys.com",
+      "phone": "+234 1 454 3041;+234 812 317 4465"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/Other_Public_Web_Leads/Business_Niches/web_leads.csv",
+      "row": 7,
+      "business_name": "Olympus Law Partnership",
+      "business_niche": "Law Firm",
+      "address": "Not Available",
+      "city_area": "+234 817 037 5419",
+      "website": "https://www.olympuslp.com",
+      "phone": "https://www.olympuslp.com"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 10,
+      "business_name": "Chrisland High School Lekki",
+      "business_niche": "School",
+      "address": "Plot 105A Hakeem Dickson Way Lekki Phase 1 Lekki Lagos",
+      "city_area": "Lekki",
+      "website": "https://www.chrislandschools.com",
+      "phone": "+234 8102836774"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 13,
+      "business_name": "Meadow Hall Education",
+      "business_niche": "School",
+      "address": "Meadow Hall Way Alma Beach Estate Lekki-Epe Express Way Lekki Lagos",
+      "city_area": "Lekki",
+      "website": "https://meadowhalleducation.org",
+      "phone": "+234 8073000556"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 16,
+      "business_name": "Alpha Pharmacy (Lekki Phase 1)",
+      "business_niche": "Pharmacy",
+      "address": "Lekki Phase 1 Lagos",
+      "city_area": "Lekki",
+      "website": "https://alphapharmacy.com.ng",
+      "phone": "+234 12951803"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 17,
+      "business_name": "MedPlus Pharmacy (Novare Lekki Mall)",
+      "business_niche": "Pharmacy",
+      "address": "Novare Lekki Mall Lekki Lagos",
+      "city_area": "Lekki",
+      "website": "https://novare-lekki.com",
+      "phone": "+234 8188687911"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 18,
+      "business_name": "Mopheth Pharmacy (Lekki 1)",
+      "business_niche": "Pharmacy",
+      "address": "32A Admiralty Way Lekki Phase 1 Lagos",
+      "city_area": "Lekki",
+      "website": "https://mophethonline.com",
+      "phone": "+234 8088526198"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 19,
+      "business_name": "HealthPlus Pharmacy",
+      "business_niche": "Pharmacy",
+      "address": "Lagos",
+      "city_area": "Lekki",
+      "website": "https://healthplusnigeria.com",
+      "phone": "+234 7074588745"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 20,
+      "business_name": "Wittyliz Events Limited",
+      "business_niche": "Event Planning",
+      "address": "1 Ayo Opadokun Street Abraham Adesanya Estate Lekki Epe Expressway Lagos",
+      "city_area": "Lekki",
+      "website": "https://wittylizevents.com",
+      "phone": "+234 8071329774"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 24,
+      "business_name": "Team 316 Media (Digital Advertising)",
+      "business_niche": "Marketing & Advertising Agency",
+      "address": "14 Folashade Julius Idowu Street Thomas Lekki Epe Expressway Lagos",
+      "city_area": "Lekki",
+      "website": "https://team316media.com",
+      "phone": "+234 8080248027"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 25,
+      "business_name": "Digital Square (Media Buying)",
+      "business_niche": "Marketing & Advertising Agency",
+      "address": "37 Ladi Alakija Street Lekki Phase 1 Lagos",
+      "city_area": "Lekki",
+      "website": "https://digitalsquare.com.ng",
+      "phone": "Not Available"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Enriched_Leads/enriched_leads.csv",
+      "row": 29,
+      "business_name": "CompraMart (Discount Supermarket)",
+      "business_niche": "Supermarket / Grocery",
+      "address": "25 Mobil Road Ilaje opposite VIO office Lekki-Ajah Lagos",
+      "city_area": "Lekki",
+      "website": "https://www.comprasupermart.com",
+      "phone": "+234 8026615324"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 2,
+      "business_name": "The Junction Restaurant",
+      "business_niche": "Restaurant",
+      "address": "Lekki Lagos",
+      "city_area": "Lekki",
+      "website": "http://thejunctionrestaurants.com",
+      "phone": "+234 8090652927"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 3,
+      "business_name": "The Place Restaurants",
+      "business_niche": "Restaurant / Bar & Lounge",
+      "address": "Lagos (multiple locations including Lekki)",
+      "city_area": "Lekki",
+      "website": "https://theplace.com.ng",
+      "phone": "+234 8182862824"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 4,
+      "business_name": "Above Lifestyle",
+      "business_niche": "Restaurant / Nightlife / Lounge",
+      "address": "Lekki",
+      "city_area": "Lekki",
+      "website": "https://abovelifestyle.com",
+      "phone": "Not Available"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 5,
+      "business_name": "Utazi Restaurant",
+      "business_niche": "Restaurant",
+      "address": "BLK 74 Plot 15 Emma Abimbola Cole Street Lekki 1",
+      "city_area": "Lekki",
+      "website": "https://utazi.africa.restaurant",
+      "phone": "Not Available"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 12,
+      "business_name": "i-Fitness Gym & Wellness Centres (Lekki Phase 1)",
+      "business_niche": "Gym & Fitness Center",
+      "address": "10 Gabby Adeosun Street off Admiralty Way Lekki Phase 1",
+      "city_area": "Lekki",
+      "website": "https://ifitness.ng",
+      "phone": "Not Available"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 13,
+      "business_name": "GO Fitness Centre",
+      "business_niche": "Gym & Fitness Center",
+      "address": "Lekki",
+      "city_area": "Lekki",
+      "website": "https://italawa.com.ng/place/go-fitness-centre",
+      "phone": "Not Available"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 14,
+      "business_name": "Pure Fitness Africa (Lekki Phase 1)",
+      "business_niche": "Gym & Fitness Center",
+      "address": "Adekola Balogun Street Perchstone & Graeys Cl Lekki Phase I Lagos",
+      "city_area": "Lekki",
+      "website": "https://purefitnessafrica.com",
+      "phone": "Not Available"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 15,
+      "business_name": "FitGrit Gym",
+      "business_niche": "Gym & Fitness Center",
+      "address": "Lagos",
+      "city_area": "Lekki",
+      "website": "https://fitgritgym.com",
+      "phone": "Not Available"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 16,
+      "business_name": "Sky Fitness Gym",
+      "business_niche": "Gym & Fitness Center",
+      "address": "Lagos",
+      "city_area": "Lekki",
+      "website": "https://www.skyfitnessng.com",
+      "phone": "Not Available"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 17,
+      "business_name": "Kayzplace Barbershop",
+      "business_niche": "Barbershop / Salon",
+      "address": "25a Admiralty Way Lekki Lagos 101233",
+      "city_area": "Lekki",
+      "website": "https://kayzplaceworldwide.com",
+      "phone": "+234 9090002749"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 18,
+      "business_name": "Groomed By Elereka",
+      "business_niche": "Barbershop / Salon",
+      "address": "6 Akanni Bashorun Street Lekki Phase 1 Lagos",
+      "city_area": "Lekki",
+      "website": "https://groomedbyelereka.com",
+      "phone": "Not Available"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 20,
+      "business_name": "TPhilips Unisex Salon",
+      "business_niche": "Unisex Salon",
+      "address": "2nd Floor Brasar's Place Victoria Atobieke Street Lekki Phase 1 Lekki Lagos 105102",
+      "city_area": "Lekki",
+      "website": "https://mrtphilips.com.ng",
+      "phone": "+234 8060459869"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 21,
+      "business_name": "Ikwiseprodigy Barber Shop",
+      "business_niche": "Barbershop",
+      "address": "16 Victoria Arobieke Street Lekki Lagos",
+      "city_area": "Lekki",
+      "website": "https://ikwiseprodigy.com.ng",
+      "phone": "+234 8105341971"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 22,
+      "business_name": "Caredent Dental Clinic",
+      "business_niche": "Dental Clinic",
+      "address": "The Quad 20 Layi Yusuf Crescent off Admiralty Way Lekki Phase 1 Lagos",
+      "city_area": "Lekki",
+      "website": "https://www.caredentclinic.com",
+      "phone": "+234 7025007914"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 24,
+      "business_name": "New Hall International School",
+      "business_niche": "School",
+      "address": "12 Adegbenle Street Chevy View Estate Off Chevron Drive Lekki Lagos",
+      "city_area": "Lekki",
+      "website": "https://newhallschool.com.ng",
+      "phone": "+234 7067847977"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 26,
+      "business_name": "Children's International School Lagos",
+      "business_niche": "School",
+      "address": "Plot 8 Amore Street Lekki Phase 1 Lagos",
+      "city_area": "Lekki",
+      "website": "https://www.cislagos.com",
+      "phone": "+234 9062977064"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 28,
+      "business_name": "Corona Schools (Lekki)",
+      "business_niche": "School",
+      "address": "Block 35 Corona Drive Abijo GRA Scheme 2 Ibeju Lekki",
+      "city_area": "Lekki",
+      "website": "https://coronaschools.org",
+      "phone": "+234 7072713342"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 33,
+      "business_name": "HealthPlug People's Pharmacy",
+      "business_niche": "Pharmacy",
+      "address": "1 Remilade Opadokun Street Off Alawe Road Ilasan Lekki",
+      "city_area": "Lekki",
+      "website": "https://healthplugpharmacy.com",
+      "phone": "Not Available"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 35,
+      "business_name": "Gadiel Event Planners",
+      "business_niche": "Event Planning",
+      "address": "Lekki Lagos",
+      "city_area": "Lekki",
+      "website": "https://www.gadieleventplanners.com.ng",
+      "phone": "Not Available"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 36,
+      "business_name": "Oxgital (Digital Marketing & Advertising)",
+      "business_niche": "Marketing & Advertising Agency",
+      "address": "5 Lekki-Epe Expy Lekki Phase 1 Lagos 106104",
+      "city_area": "Lekki",
+      "website": "https://oxgital.com",
+      "phone": "+234 7083845690"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 41,
+      "business_name": "Shoprite (Lekki Mall)",
+      "business_niche": "Supermarket / Grocery",
+      "address": "The Palms Shopping Mall 1 Bisway Street Oniru Victoria Island Lagos",
+      "city_area": "Lekki",
+      "website": "https://shoprite.ng",
+      "phone": "+234 13301700"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 42,
+      "business_name": "Cybertech Digitals",
+      "business_niche": "IT / Software Company",
+      "address": "16b Oluwole Street Lekki Lagos",
+      "city_area": "Lekki",
+      "website": "https://cybertechdigitals.com",
+      "phone": "+234 8107539186"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 43,
+      "business_name": "TDigital",
+      "business_niche": "IT / Software Company",
+      "address": "Lagos Nigeria",
+      "city_area": "Lekki",
+      "website": "https://tdigital.ng",
+      "phone": "+234 9036723177"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Niches/Real_Estate_Agencies/real_estate.csv",
+      "row": 2,
+      "business_name": "Atco Homes",
+      "business_niche": "Real Estate Agency",
+      "address": "Lagos Nigeria",
+      "city_area": "Lekki",
+      "website": "https://atcohomes.ng",
+      "phone": "+234 7048000331"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Niches/Schools_Educational_Institutions/schools.csv",
+      "row": 5,
+      "business_name": "Standard Bearers School",
+      "business_niche": "School",
+      "address": "No.3 Rasheed Ladoja Street Lekki Lagos",
+      "city_area": "Lekki",
+      "website": "https://standardbearersschool.ng",
+      "phone": "+234 8068189259"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Niches/Schools_Educational_Institutions/schools.csv",
+      "row": 8,
+      "business_name": "Lekki British School",
+      "business_niche": "School",
+      "address": "Lekki Lagos",
+      "city_area": "Lekki",
+      "website": "https://lekkibritishschool.org",
+      "phone": "Not Available"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Niches/Schools_Educational_Institutions/schools.csv",
+      "row": 9,
+      "business_name": "GISS (German International School)",
+      "business_niche": "School",
+      "address": "Lekki Lagos",
+      "city_area": "Lekki",
+      "website": "https://giss.com.ng",
+      "phone": "Not Available"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Niches/Schools_Educational_Institutions/schools.csv",
+      "row": 10,
+      "business_name": "Lekki Peculiar School",
+      "business_niche": "School",
+      "address": "A Close Opposite Sky Mall Ocean Palm Estate Lekki-Ajah Lagos",
+      "city_area": "Lekki",
+      "website": "https://peculiarschools.com",
+      "phone": "+234 8120009300"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Niches/Marketing_Advertising_Agencies/marketing_agencies.csv",
+      "row": 5,
+      "business_name": "Anakle",
+      "business_niche": "Digital / Creative Agency",
+      "address": "Lagos Nigeria",
+      "city_area": "Lekki",
+      "website": "https://www.anakle.com",
+      "phone": "Not Available"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 8,
+      "business_name": "Celond Dental Clinic",
+      "business_niche": "Dental Clinic",
+      "address": "Not Available",
+      "city_area": "+234 8023137105",
+      "website": "https://celondentalclinic.com",
+      "phone": "https://celondentalclinic.com"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 9,
+      "business_name": "Amaramedicare Dental Clinic",
+      "business_niche": "Dental Clinic",
+      "address": "Not Available",
+      "city_area": "Not Available",
+      "website": "https://amaramedicare.com",
+      "phone": "https://amaramedicare.com"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 10,
+      "business_name": "Fitness Factory",
+      "business_niche": "Gym & Fitness Center",
+      "address": "Not Available",
+      "city_area": "Not Available",
+      "website": "https://fitnessfactory.ng",
+      "phone": "https://fitnessfactory.ng"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 11,
+      "business_name": "BodyLine Fitness & Gym",
+      "business_niche": "Gym & Fitness Center",
+      "address": "Not Available",
+      "city_area": "Not Available",
+      "website": "https://bodylinegym.com.ng",
+      "phone": "https://bodylinegym.com.ng"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 12,
+      "business_name": "Fitness Plus Nigeria",
+      "business_niche": "Gym & Fitness Center",
+      "address": "Not Available",
+      "city_area": "Not Available",
+      "website": "https://fitnessplusng.com",
+      "phone": "https://fitnessplusng.com"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 13,
+      "business_name": "JIL Nigeria",
+      "business_niche": "Real Estate",
+      "address": "Not Available",
+      "city_area": "234-1-8426041",
+      "website": "https://www.jil-ng.com",
+      "phone": "https://www.jil-ng.com"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 18,
+      "business_name": "Startup Lagos",
+      "business_niche": "Software Development / Startup Hub",
+      "address": "Not Available",
+      "city_area": "Not Available",
+      "website": "https://www.startuplagos.net",
+      "phone": "https://www.startuplagos.net"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 19,
+      "business_name": "StartupBlink (Lekki Startups)",
+      "business_niche": "Startup Directory",
+      "address": "Not Available",
+      "city_area": "Not Available",
+      "website": "https://www.startupblink.com/top-startups/lekki-ng",
+      "phone": "https://www.startupblink.com/top-startups/lekki-ng"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/Other_Public_Web_Leads/Raw_Leads/other_web_raw_leads.csv",
+      "row": 20,
+      "business_name": "Flutterwave",
+      "business_niche": "Fintech / Payment Technology",
+      "address": "Not Available",
+      "city_area": "Not Available",
+      "website": "https://flutterwave.com",
+      "phone": "https://flutterwave.com"
+    }
+  ]
+}

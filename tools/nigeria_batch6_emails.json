@@ -1,0 +1,69 @@
+[
+  {
+    "business_name": "Meadow Hall Education",
+    "website": "https://meadowhalleducation.org",
+    "emails_found": [
+      "admissions@meadowhallschool.org",
+      "info@meadowhallschool.org"
+    ]
+  },
+  {
+    "business_name": "Alpha Pharmacy",
+    "website": "https://alphapharmacy.com.ng",
+    "emails_found": []
+  },
+  {
+    "business_name": "Mopheth Pharmacy",
+    "website": "https://mophethonline.com",
+    "emails_found": [
+      "john@doe.com",
+      "hello@mophethonline.com"
+    ]
+  },
+  {
+    "business_name": "HealthPlus Pharmacy",
+    "website": "https://healthplusnigeria.com",
+    "emails_found": [
+      "customercare@healthplusnigeria.com"
+    ]
+  },
+  {
+    "business_name": "MedPlus Pharmacy Novare",
+    "website": "https://novare-lekki.com",
+    "emails_found": [
+      "info@novare-lekki.com"
+    ]
+  },
+  {
+    "business_name": "Gadiel Event Planners",
+    "website": "https://www.gadieleventplanners.com.ng",
+    "emails_found": [
+      "gadielluxury@gmail.com"
+    ]
+  },
+  {
+    "business_name": "Chrisland High School",
+    "website": "https://www.chrislandschools.com",
+    "emails_found": []
+  },
+  {
+    "business_name": "New Hall Intl School",
+    "website": "https://newhallschool.com.ng",
+    "emails_found": [
+      "admissions@newhallschool.com.ng",
+      "info@newhallschool.com.ng"
+    ]
+  },
+  {
+    "business_name": "CIS Lagos",
+    "website": "https://www.cislagos.com",
+    "emails_found": [
+      "info@cislagos.org"
+    ]
+  },
+  {
+    "business_name": "Corona Schools",
+    "website": "https://coronaschools.org",
+    "emails_found": []
+  }
+]

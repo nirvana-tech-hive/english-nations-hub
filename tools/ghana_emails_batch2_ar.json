@@ -1,0 +1,329 @@
+[
+  {
+    "business_name": "805 Restaurant",
+    "website": "https://805restaurants.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "AT Ghana",
+    "website": "https://www.at.com.gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Absa",
+    "website": "https://www.absa.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "Accra Marriott Hotel",
+    "website": "https://www.marriott.com/en-us/hotels/accmc-accra-marriott-hotel/overview/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/government"
+  },
+  {
+    "business_name": "Airside Hotel",
+    "website": "https://airsidehotel.com.gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "reservations@airsidehotel.com.gh"
+    ],
+    "status": "found",
+    "notes": "1 email(s)"
+  },
+  {
+    "business_name": "Astra ERP",
+    "website": "https://statelyhub.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "info@statelyhub.com"
+    ],
+    "status": "found",
+    "notes": "1 email(s)"
+  },
+  {
+    "business_name": "Bank of Africa",
+    "website": "https://boaghana.com/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "complaints@boaghana.com",
+      "enquiries@boaghana.com"
+    ],
+    "status": "found",
+    "notes": "2 email(s)"
+  },
+  {
+    "business_name": "Bulk Oil Storage and Transportation (BOST)",
+    "website": "http://www.bost.com.gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/government"
+  },
+  {
+    "business_name": "CSIR-Food Research Institute",
+    "website": "https://foodresearchgh.org/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "info@foodresearchgh.org"
+    ],
+    "status": "found",
+    "notes": "1 email(s)"
+  },
+  {
+    "business_name": "Café Kwae",
+    "website": "https://www.lovecafekwae.com/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "CalBank",
+    "website": "https://calbank.net",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "customercare@calbank.net"
+    ],
+    "status": "found",
+    "notes": "1 email(s)"
+  },
+  {
+    "business_name": "Ecobank",
+    "website": "https://ecobank.com/gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/government"
+  },
+  {
+    "business_name": "Escort Security Services",
+    "website": "https://escortsecurity.com.gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "info@escortsecurity.com.gh"
+    ],
+    "status": "found",
+    "notes": "1 email(s)"
+  },
+  {
+    "business_name": "Esther's",
+    "website": "https://www.esthers-hotel.com/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "esthershotel@gmail.com"
+    ],
+    "status": "found",
+    "notes": "1 email(s)"
+  },
+  {
+    "business_name": "First National Bank",
+    "website": "https://www.firstnationalbank.com.gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "not_found",
+    "notes": "No emails"
+  },
+  {
+    "business_name": "High Commission of India",
+    "website": "https://www.hciaccra.gov.in/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/government"
+  },
+  {
+    "business_name": "International Organization for Migration",
+    "website": "https://www.iom.int/countries/ghana/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/government"
+  },
+  {
+    "business_name": "JICA Ghana Office",
+    "website": "https://www.jica.go.jp/ghana/english/office/index.html",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/government"
+  },
+  {
+    "business_name": "Kwarleyz Residence",
+    "website": "https://www.the-ascott.com/en/ghana/accra/kwarleyz-residence-accra.html",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/government"
+  },
+  {
+    "business_name": "MTN Service Centre",
+    "website": "https://mtn.com.gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/government"
+  },
+  {
+    "business_name": "Melcom",
+    "website": "https://melcom.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Fetch failed"
+  },
+  {
+    "business_name": "Oak Plaza Hotel East Airport",
+    "website": "https://www.oakplazahotel.com/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Fetch failed"
+  },
+  {
+    "business_name": "PaySwitch",
+    "website": "https://payswitch.com.gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "ask@payswitch.com.gh"
+    ],
+    "status": "found",
+    "notes": "1 email(s)"
+  },
+  {
+    "business_name": "Pizza Hut",
+    "website": "https://www.kfc.com.gh/en/store-locator/kfc_accra_mall",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/government"
+  },
+  {
+    "business_name": "SSNIT",
+    "website": "https://www.ssnit.org.gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/government"
+  },
+  {
+    "business_name": "Sky Suites Airport Residential",
+    "website": "https://www.skysuites.pro",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "ceo@skysuites.pro"
+    ],
+    "status": "found",
+    "notes": "1 email(s)"
+  },
+  {
+    "business_name": "Société Générale",
+    "website": "https://societegenerale.com.gh/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "sgghana.info@socgen.com"
+    ],
+    "status": "found",
+    "notes": "1 email(s)"
+  },
+  {
+    "business_name": "Standard Chartered ATM",
+    "website": "https://www.sc.com/gh",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "feedback.ghana@sc.com",
+      "standardchartered@2x.png"
+    ],
+    "status": "found",
+    "notes": "2 email(s)"
+  },
+  {
+    "business_name": "TS Lodgings",
+    "website": "https://tslodgings.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "error",
+    "notes": "Fetch failed"
+  },
+  {
+    "business_name": "The Palms by Eagles",
+    "website": "https://www.eaglesghana.com/the-palms-by-eagles",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "info@eaglesproperties.com.gh",
+      "airport.palms@eaglesproperties.com.gh",
+      "frontoffice.palms@eaglesproperties.com.gh"
+    ],
+    "status": "found",
+    "notes": "3 email(s)"
+  },
+  {
+    "business_name": "Tunnel Lounge",
+    "website": "https://thetunnellounge.com",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [
+      "info@thetunnellounge.com"
+    ],
+    "status": "found",
+    "notes": "1 email(s)"
+  },
+  {
+    "business_name": "West African Rescue Association",
+    "website": "https://westafrican-rescue.com/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/government"
+  },
+  {
+    "business_name": "Wishes Alliance",
+    "website": "http://www.wishesalliance.org/",
+    "csv_file": "countries/Ghana/Greater-Accra/Accra/Airport-Residential/GMB_Leads/Raw_Leads/raw_leads_deduped.csv",
+    "area": "Airport-Residential",
+    "extracted_emails": [],
+    "status": "skipped",
+    "notes": "Corporate/government"
+  }
+]

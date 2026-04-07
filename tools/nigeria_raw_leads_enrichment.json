@@ -1,0 +1,441 @@
+{
+  "generated": "2026-04-07T17:21:29.929611",
+  "total_enrichments": 35,
+  "enrichments": [
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 6,
+      "business_name": "Presken Hotels @ Victoria Island",
+      "business_niche": "Hotel",
+      "city_area": "Victoria Island",
+      "website": "https://preskenhotels.com",
+      "emails_found": [
+        "bookings@preskenhotels.com"
+      ],
+      "enrichment": "Emails found via website visit: bookings@preskenhotels.com"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 7,
+      "business_name": "Lagos Oriental Hotel",
+      "business_niche": "Hotel",
+      "city_area": "Victoria Island",
+      "website": "http://www.lagosoriental.com",
+      "emails_found": [
+        "reservation@lagosoriental.com"
+      ],
+      "enrichment": "Emails found via website visit: reservation@lagosoriental.com"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 10,
+      "business_name": "Dental Plus Clinic",
+      "business_niche": "Dental Clinic",
+      "city_area": "Victoria Island",
+      "website": "https://dentalplusng.com",
+      "emails_found": [
+        "dentalplus.ng@gmail.com",
+        "victoriaisland@dentalplusng.com",
+        "dentalplus2surulere@gmail.com",
+        "dentalplusanthony@gmail.com"
+      ],
+      "enrichment": "Emails found via website visit: dentalplus.ng@gmail.com; victoriaisland@dentalplusng.com; dentalplus2surulere@gmail.com; dentalplusanthony@gmail.com"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 11,
+      "business_name": "Mouth Spa Dental Clinic",
+      "business_niche": "Dental Clinic",
+      "city_area": "Victoria Island",
+      "website": "https://mouthspa.com.ng",
+      "emails_found": [
+        "themouthspa@gmail.com",
+        "info@mouthspa.com.ng"
+      ],
+      "enrichment": "Emails found via website visit: themouthspa@gmail.com; info@mouthspa.com.ng"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 20,
+      "business_name": "Africa Digital Agency",
+      "business_niche": "Marketing Agency",
+      "city_area": "Victoria Island",
+      "website": "https://africadigital.com.ng",
+      "emails_found": [
+        "admin@africadidgital.com.ng",
+        "hello@africadigital.com.ng",
+        "marketing@africadigital.com.ng"
+      ],
+      "enrichment": "Emails found via website visit: admin@africadidgital.com.ng; hello@africadigital.com.ng; marketing@africadigital.com.ng"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 23,
+      "business_name": "Bolutokun Estate Agency",
+      "business_niche": "Real Estate Agency",
+      "city_area": "Victoria Island",
+      "website": "https://bolutokun.com",
+      "emails_found": [
+        "info.abuja@bolutokun.com",
+        "info@bolutokun.com"
+      ],
+      "enrichment": "Emails found via website visit: info.abuja@bolutokun.com; info@bolutokun.com"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 26,
+      "business_name": "Ramos Real Estate",
+      "business_niche": "Real Estate Agency",
+      "city_area": "Victoria Island",
+      "website": "https://ramosrealestateng.com",
+      "emails_found": [
+        "hello@ramosrealestateng.com"
+      ],
+      "enrichment": "Emails found via website visit: hello@ramosrealestateng.com"
+    },
+    {
+      "file": "Lagos/Lagos/Victoria-Island/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 29,
+      "business_name": "Divine Dental Home",
+      "business_niche": "Dental Clinic",
+      "city_area": "Victoria Island",
+      "website": "https://divinedentalhome.com.ng",
+      "emails_found": [
+        "ddhdentalhome@gmail.com"
+      ],
+      "enrichment": "Emails found via website visit: ddhdentalhome@gmail.com"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 2,
+      "business_name": "The Junction Restaurant",
+      "business_niche": "Restaurant",
+      "city_area": "Lekki",
+      "website": "http://thejunctionrestaurants.com",
+      "emails_found": [
+        "info@thejunctionreestaurants.com",
+        "info@thejunctionrestaurants.com"
+      ],
+      "enrichment": "Emails found via website visit: info@thejunctionreestaurants.com; info@thejunctionrestaurants.com"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 16,
+      "business_name": "Sky Fitness Gym",
+      "business_niche": "Gym & Fitness Center",
+      "city_area": "Lekki",
+      "website": "https://www.skyfitnessng.com",
+      "emails_found": [
+        "shizimedia@gmail.com"
+      ],
+      "enrichment": "Emails found via website visit: shizimedia@gmail.com"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 18,
+      "business_name": "Groomed By Elereka",
+      "business_niche": "Barbershop / Salon",
+      "city_area": "Lekki",
+      "website": "https://groomedbyelereka.com",
+      "emails_found": [
+        "info@groomedbyelereka.com",
+        "customerservice@elerekagroup.com"
+      ],
+      "enrichment": "Emails found via website visit: info@groomedbyelereka.com; customerservice@elerekagroup.com"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 20,
+      "business_name": "TPhilips Unisex Salon",
+      "business_niche": "Unisex Salon",
+      "city_area": "Lekki",
+      "website": "https://mrtphilips.com.ng",
+      "emails_found": [
+        "info@mrtphilips.com.ng"
+      ],
+      "enrichment": "Emails found via website visit: info@mrtphilips.com.ng"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 21,
+      "business_name": "Ikwiseprodigy Barber Shop",
+      "business_niche": "Barbershop",
+      "city_area": "Lekki",
+      "website": "https://ikwiseprodigy.com.ng",
+      "emails_found": [
+        "info@ikwiseprodigy.com.ng"
+      ],
+      "enrichment": "Emails found via website visit: info@ikwiseprodigy.com.ng"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 27,
+      "business_name": "Meadow Hall Education",
+      "business_niche": "School",
+      "city_area": "Lekki",
+      "website": "https://meadowhalleducation.org",
+      "emails_found": [
+        "admissions@meadowhallschool.org",
+        "info@meadowhallschool.org"
+      ],
+      "enrichment": "Emails found via website visit: admissions@meadowhallschool.org; info@meadowhallschool.org"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 31,
+      "business_name": "Mopheth Pharmacy (Lekki 1)",
+      "business_niche": "Pharmacy",
+      "city_area": "Lekki",
+      "website": "https://mophethonline.com",
+      "emails_found": [
+        "hello@mophethonline.com"
+      ],
+      "enrichment": "Emails found via website visit: hello@mophethonline.com"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 32,
+      "business_name": "HealthPlus Pharmacy",
+      "business_niche": "Pharmacy",
+      "city_area": "Lekki",
+      "website": "https://healthplusnigeria.com",
+      "emails_found": [
+        "customercare@healthplusnigeria.com"
+      ],
+      "enrichment": "Emails found via website visit: customercare@healthplusnigeria.com"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 35,
+      "business_name": "Gadiel Event Planners",
+      "business_niche": "Event Planning",
+      "city_area": "Lekki",
+      "website": "https://www.gadieleventplanners.com.ng",
+      "emails_found": [
+        "gadielluxury@gmail.com"
+      ],
+      "enrichment": "Emails found via website visit: gadielluxury@gmail.com"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 38,
+      "business_name": "Digital Square (Media Buying)",
+      "business_niche": "Marketing & Advertising Agency",
+      "city_area": "Lekki",
+      "website": "https://digitalsquare.com.ng",
+      "emails_found": [
+        "info@digitalsquare.com.ng"
+      ],
+      "enrichment": "Emails found via website visit: info@digitalsquare.com.ng"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 39,
+      "business_name": "CompraMart (Discount Supermarket)",
+      "business_niche": "Supermarket / Grocery",
+      "city_area": "Lekki",
+      "website": "https://www.comprasupermart.com",
+      "emails_found": [
+        "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+      ],
+      "enrichment": "Emails found via website visit: 605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+    },
+    {
+      "file": "Lagos/Lagos/Lekki/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 43,
+      "business_name": "TDigital",
+      "business_niche": "IT / Software Company",
+      "city_area": "Lekki",
+      "website": "https://tdigital.ng",
+      "emails_found": [
+        "johnfash@tdigital.ng"
+      ],
+      "enrichment": "Emails found via website visit: johnfash@tdigital.ng"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 4,
+      "business_name": "Skyrock Hotel",
+      "business_niche": "Hotel",
+      "city_area": "Ikeja",
+      "website": "https://skyrockhotels.com",
+      "emails_found": [
+        "info@skyrockhotels.com",
+        "info@skyrockhotels.co"
+      ],
+      "enrichment": "Emails found via website visit: info@skyrockhotels.com; info@skyrockhotels.co"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 7,
+      "business_name": "Yellow Chilli Restaurant & Bar",
+      "business_niche": "Restaurant",
+      "city_area": "Ikeja",
+      "website": "https://yellowchilling.com",
+      "emails_found": [
+        "support@yellowchilling.com"
+      ],
+      "enrichment": "Emails found via website visit: support@yellowchilling.com"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 11,
+      "business_name": "Iwosan Lagoon Hospital Ikeja",
+      "business_niche": "Hospital",
+      "city_area": "Ikeja",
+      "website": "https://www.lagoonhospitals.com",
+      "emails_found": [
+        "livemorelife@lagoonhospitals.com"
+      ],
+      "enrichment": "Emails found via website visit: livemorelife@lagoonhospitals.com"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 17,
+      "business_name": "Ikeja City Mall",
+      "business_niche": "Shopping Mall",
+      "city_area": "Ikeja",
+      "website": "https://ikejacitymall.com.ng",
+      "emails_found": [
+        "info@ikejacitymall.com.ng"
+      ],
+      "enrichment": "Emails found via website visit: info@ikejacitymall.com.ng"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 19,
+      "business_name": "CrownCrystal Tech Ltd",
+      "business_niche": "IT Company",
+      "city_area": "Ikeja",
+      "website": "https://cctech.ng",
+      "emails_found": [
+        "sales@cctech.ng"
+      ],
+      "enrichment": "Emails found via website visit: sales@cctech.ng"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 20,
+      "business_name": "FEMISH IT Solutions & Systems Ltd",
+      "business_niche": "IT Company",
+      "city_area": "Ikeja",
+      "website": "https://www.femish.com.ng",
+      "emails_found": [
+        "info@femish.com.ng"
+      ],
+      "enrichment": "Emails found via website visit: info@femish.com.ng"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 26,
+      "business_name": "Healthplus Pharmacy",
+      "business_niche": "Pharmacy",
+      "city_area": "Ikeja",
+      "website": "https://healthplusnigeria.com",
+      "emails_found": [
+        "customercare@healthplusnigeria.com"
+      ],
+      "enrichment": "Emails found via website visit: customercare@healthplusnigeria.com"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Raw_Leads/raw_leads.csv",
+      "row": 30,
+      "business_name": "Metropolitan Motors (Toyota Dealer)",
+      "business_niche": "Car Dealership",
+      "city_area": "Ikeja",
+      "website": "https://www.toyotanigeria.com/dealers/metropolitan-motors",
+      "emails_found": [
+        "goke.oriyomi@metromotorsng.com",
+        "azeez@metromotorsng.com",
+        "sandra.marc@metromotorsng.com",
+        "niyi.akinkuolie@metromotorsng.com",
+        "wale_dare37@yahoo.com"
+      ],
+      "enrichment": "Emails found via website visit: goke.oriyomi@metromotorsng.com; azeez@metromotorsng.com; sandra.marc@metromotorsng.com; niyi.akinkuolie@metromotorsng.com; wale_dare37@yahoo.com"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/Other_Public_Web_Leads/Raw_Leads/raw_leads.csv",
+      "row": 2,
+      "business_name": "CrownCrystal Tech Ltd",
+      "business_niche": "IT Hardware & Software Solutions",
+      "city_area": "+234 915 910 0000",
+      "website": "https://www.crunchbase.com/organization/crown-crystal-technologies",
+      "emails_found": [
+        "sales@cctech.ng"
+      ],
+      "enrichment": "Emails found via website visit: sales@cctech.ng"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/Other_Public_Web_Leads/Raw_Leads/raw_leads.csv",
+      "row": 3,
+      "business_name": "FEMISH IT Solutions & Systems Ltd",
+      "business_niche": "IT Solutions & Systems",
+      "city_area": "+234 812 811 4584",
+      "website": "https://www.femish.com.ng/contact",
+      "emails_found": [
+        "info@femish.com.ng"
+      ],
+      "enrichment": "Emails found via website visit: info@femish.com.ng"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/Other_Public_Web_Leads/Raw_Leads/raw_leads.csv",
+      "row": 12,
+      "business_name": "Olympus Law Partnership",
+      "business_niche": "Law Firm",
+      "city_area": "+234 817 037 5419",
+      "website": "https://www.globallawdirectories.com/searchdirectory/view-lawfirm-profile/8925",
+      "emails_found": [
+        "enquiries@olympuslp.com"
+      ],
+      "enrichment": "Emails found via website visit: enquiries@olympuslp.com"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Niches/IT_Managed_Service_Providers/it_companies.csv",
+      "row": 2,
+      "business_name": "CrownCrystal Tech Ltd",
+      "business_niche": "IT Company",
+      "city_area": "Ikeja",
+      "website": "https://cctech.ng",
+      "emails_found": [
+        "sales@cctech.ng"
+      ],
+      "enrichment": "Emails found via website visit: sales@cctech.ng"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/GMB_Leads/Niches/IT_Managed_Service_Providers/it_companies.csv",
+      "row": 3,
+      "business_name": "FEMISH IT Solutions & Systems Ltd",
+      "business_niche": "IT Company",
+      "city_area": "Ikeja",
+      "website": "https://www.femish.com.ng",
+      "emails_found": [
+        "info@femish.com.ng"
+      ],
+      "enrichment": "Emails found via website visit: info@femish.com.ng"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/Other_Public_Web_Leads/Business_Niches/IT_Companies/it_companies.csv",
+      "row": 2,
+      "business_name": "CrownCrystal Tech Ltd",
+      "business_niche": "IT Hardware & Software Solutions",
+      "city_area": "+234 915 910 0000",
+      "website": "https://www.crunchbase.com/organization/crown-crystal-technologies",
+      "emails_found": [
+        "sales@cctech.ng"
+      ],
+      "enrichment": "Emails found via website visit: sales@cctech.ng"
+    },
+    {
+      "file": "Lagos/Lagos/Ikeja/Other_Public_Web_Leads/Business_Niches/IT_Companies/it_companies.csv",
+      "row": 3,
+      "business_name": "FEMISH IT Solutions & Systems Ltd",
+      "business_niche": "IT Solutions & Systems",
+      "city_area": "+234 812 811 4584",
+      "website": "https://www.femish.com.ng/contact",
+      "emails_found": [
+        "info@femish.com.ng"
+      ],
+      "enrichment": "Emails found via website visit: info@femish.com.ng"
+    }
+  ]
+}
