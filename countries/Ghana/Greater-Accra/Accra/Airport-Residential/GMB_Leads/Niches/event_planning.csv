@@ -1,8 +1,8 @@
-business_name,niche,address,phone,whatsapp,website,email,source_url,date_collected
-THE AVI,event_planning,,,,,,Google Maps,2026-04-05
-Name Event Planners,event_planning,,,,,,Google Maps,2026-04-05
-DNA Events Ghana,event_planning,,,,,,Google Maps,2026-04-05
-Lionheart Events,event_planning,,,,,,Google Maps,2026-04-05
-Partykidsgh,event_planning,,,,,,Google Maps,2026-04-05
-Unique Home Affairs,event_planning,,,,,,Google Maps,2026-04-05
-Cling Events Ghana,event_planning,,,,,,Google Maps,2026-04-05
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+THE AVI,event_planning,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05
+Name Event Planners,event_planning,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05
+DNA Events Ghana,event_planning,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05
+Lionheart Events,event_planning,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05
+Partykidsgh,event_planning,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05
+Unique Home Affairs,event_planning,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05
+Cling Events Ghana,event_planning,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05

@@ -1,29 +1,29 @@
-business_name,niche,address,phone,whatsapp,website,email,source_url,date_collected
-Airside Hotel,hotels,,+233 21 760480 / 783844,,https://airsidehotel.com.gh/,,OpenStreetMap,2026-04-05
-Airport View Hotel,hotels,,,,,,OpenStreetMap/Google Maps,2026-04-05
-Oak Plaza Hotel East Airport,hotels,"Spintex Road, Accra",,,https://www.oakplazahotel.com/,,OpenStreetMap,2026-04-05
-Best Western Premier Airport Hotel,hotels,,,,,,OpenStreetMap,2026-04-05
-Crown Appartmento Hotel,hotels,,,,,,OpenStreetMap,2026-04-05
-Airport West Hotel,hotels,,,,,,OpenStreetMap/Google Maps,2026-04-05
-Lavender Lodge,hotels,,,,,,OpenStreetMap,2026-04-05
-Airport Grande,hotels,,,,,,OpenStreetMap,2026-04-05
-Villa Monticello,hotels,,,,,,OpenStreetMap/LinkedIn,2026-04-05
-Ibis Styles Hotel,hotels,,,,,,OpenStreetMap,2026-04-05
-City Escape Hotel,hotels,,,,,,OpenStreetMap,2026-04-05
-Esther's,hotels,,,,https://www.esthers-hotel.com/,,OpenStreetMap,2026-04-05
-Kwarleyz Residence,hotels,"Kofi Atta Annan Street, Accra",,,https://www.the-ascott.com/en/ghana/accra/kwarleyz-residence-accra.html,,OpenStreetMap,2026-04-05
-Accra Marriott Hotel,hotels,,+233 30 273 8000,,https://www.marriott.com/en-us/hotels/accmc-accra-marriott-hotel/overview/,,OpenStreetMap,2026-04-05
-Sky Suites Airport Residential,hotels,"Kofi Annan St, Accra",0270997700,,www.skysuites.pro,,OpenStreetMap,2026-04-05
-The Palms by Eagles,hotels,"Patrice Lumumba Road, Accra",+233 556 616 100,,https://www.eaglesghana.com/the-palms-by-eagles,,OpenStreetMap,2026-04-05
-The Lennox Accra Luxury Apartments,hotels,,,,,,Google Maps,2026-04-05
-Holiday Inn Accra Airport,hotels,,,,,,Google Maps,2026-04-05
-Court Gardens,hotels,,,,,,OpenStreetMap,2026-04-05
-G.S Plaza,hotels,,,,,,OpenStreetMap,2026-04-05
-Catters Hostel,hotels,,,,,,OpenStreetMap,2026-04-05
-TS Lodgings,hotels,"Mama Adjele Road, Accra",+233 050 600 3567,,tslodgings.com,,OpenStreetMap,2026-04-05
-Parker Airport Resort,hotels,,,,,,OpenStreetMap,2026-04-05
-The Cabin Hotel,hotels,,,,,,OpenStreetMap,2026-04-05
-The Palms By Eagles Accra,hotels,"Patrice Lumumba Road, Accra",+233 556 616 100,,https://www.eaglesghana.com/the-palms-by-eagles,,OpenStreetMap,2026-04-05
-Ange Hill Hotel,hotels,,,,,,OpenStreetMap,2026-04-05
-Mirage Residence,hotels,,,,,,LinkedIn,2026-04-05
-African Regent Hotel,hotels,,,,,,Google Maps,2026-04-05
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Airside Hotel,hotels,,Airport-Residential,+233 21 760480 / 783844,+233 21 760480 / 783844,https://airsidehotel.com.gh/,,OpenStreetMap,info@airsidehotel.com.gh,Pattern Generated,2026-04-05
+Airport View Hotel,hotels,,Airport-Residential,,,,,OpenStreetMap/Google Maps,,N/A,2026-04-05
+Oak Plaza Hotel East Airport,hotels,"Spintex Road, Accra",Airport-Residential,,,https://www.oakplazahotel.com/,,OpenStreetMap,info@oakplazahotel.com,Pattern Generated,2026-04-05
+Best Western Premier Airport Hotel,hotels,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+Crown Appartmento Hotel,hotels,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+Airport West Hotel,hotels,,Airport-Residential,,,,,OpenStreetMap/Google Maps,,N/A,2026-04-05
+Lavender Lodge,hotels,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+Airport Grande,hotels,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+Villa Monticello,hotels,,Airport-Residential,,,,,OpenStreetMap/LinkedIn,,N/A,2026-04-05
+Ibis Styles Hotel,hotels,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+City Escape Hotel,hotels,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+Esther's,hotels,,Airport-Residential,,,https://www.esthers-hotel.com/,,OpenStreetMap,info@esthers-hotel.com,Pattern Generated,2026-04-05
+Kwarleyz Residence,hotels,"Kofi Atta Annan Street, Accra",Airport-Residential,,,https://www.the-ascott.com/en/ghana/accra/kwarleyz-residence-accra.html,,OpenStreetMap,info@the-ascott.com,Pattern Generated,2026-04-05
+Accra Marriott Hotel,hotels,,Airport-Residential,+233 30 273 8000,+233 30 273 8000,https://www.marriott.com/en-us/hotels/accmc-accra-marriott-hotel/overview/,,OpenStreetMap,info@marriott.com,Pattern Generated,2026-04-05
+Sky Suites Airport Residential,hotels,"Kofi Annan St, Accra",Airport-Residential,+233 270997700,+233 270997700,www.skysuites.pro,,OpenStreetMap,info@skysuites.pro,Pattern Generated,2026-04-05
+The Palms by Eagles,hotels,"Patrice Lumumba Road, Accra",Airport-Residential,+233 556 616 100,+233 556 616 100,https://www.eaglesghana.com/the-palms-by-eagles,,OpenStreetMap,info@eaglesghana.com,Pattern Generated,2026-04-05
+The Lennox Accra Luxury Apartments,hotels,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05
+Holiday Inn Accra Airport,hotels,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05
+Court Gardens,hotels,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+G.S Plaza,hotels,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+Catters Hostel,hotels,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+TS Lodgings,hotels,"Mama Adjele Road, Accra",Airport-Residential,+233 050 600 3567,+233 050 600 3567,tslodgings.com,,OpenStreetMap,info@tslodgings.com,Pattern Generated,2026-04-05
+Parker Airport Resort,hotels,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+The Cabin Hotel,hotels,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+The Palms By Eagles Accra,hotels,"Patrice Lumumba Road, Accra",Airport-Residential,+233 556 616 100,+233 556 616 100,https://www.eaglesghana.com/the-palms-by-eagles,,OpenStreetMap,info@eaglesghana.com,Pattern Generated,2026-04-05
+Ange Hill Hotel,hotels,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+Mirage Residence,hotels,,Airport-Residential,,,,,LinkedIn,,N/A,2026-04-05
+African Regent Hotel,hotels,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05

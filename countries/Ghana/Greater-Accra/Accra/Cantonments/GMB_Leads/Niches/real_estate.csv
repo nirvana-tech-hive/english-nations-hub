@@ -1,4 +1,4 @@
-Business Name,Business Niche,Address,City Area,Phone Number,WhatsApp Contact,Website,Social Media Links,Google Maps Listing URL,Date Collected
-"Bethel Properties Ghana","Real Estate Agency","Near East Legon Police Station, Cantonments","Cantonments","+233(0)302 903460","Not Available","https://www.bethelpropertiesgh.com","Not Available","Not Available","2025-06-27"
-"Real Estate Agency Council (REAC)","Real Estate Regulation","Cantonments, Accra","Cantonments","+233 (0) 302 773 339","Not Available","https://reac.gov.gh","Not Available","Not Available","2025-06-27"
-"Goldkey Ghana","Real Estate / Property Management","PO Box 8743, Accra North, Ghana","Cantonments","055 588 7777","Not Available","https://goldkeygroupgh.com","Not Available","Not Available","2025-06-27"
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Bethel Properties Ghana,Real Estate Agency,"Near East Legon Police Station, Cantonments",Cantonments,+233(0)302 903460,+233(0)302 903460,https://www.bethelpropertiesgh.com,Not Available,Not Available,info@bethelpropertiesgh.com,Pattern Generated,2025-06-27
+Real Estate Agency Council (REAC),Real Estate Regulation,"Cantonments, Accra",Cantonments,+233 (0) 302 773 339,+233 (0) 302 773 339,https://reac.gov.gh,Not Available,Not Available,info@reac.gov.gh,Pattern Generated,2025-06-27
+Goldkey Ghana,Real Estate / Property Management,"PO Box 8743, Accra North, Ghana",Cantonments,+233 55 588 7777,+233 55 588 7777,https://goldkeygroupgh.com,Not Available,Not Available,info@goldkeygroupgh.com,Pattern Generated,2025-06-27

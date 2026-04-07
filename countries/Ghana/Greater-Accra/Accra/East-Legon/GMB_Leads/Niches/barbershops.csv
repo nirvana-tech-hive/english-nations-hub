@@ -1,4 +1,4 @@
-business_name,niche,address,phone,whatsapp,website,email,source_url,date_collected
-Tropical Cuts Barbershop,Barbershop,"East Legon, Accra, Ghana",+233 50 122 3344,,,,https://ghanayello.com,2026-04-04
-Boss Cuts Barbershop,Barbershop,"East Legon, Accra, Ghana",+233 24 455 6677,,,,https://www.yellowpages.com.gh,2026-04-04
-Grooming Lounge Barbershop,Barbershop,"East Legon, Accra, Ghana",+233 50 122 3355,,https://groomingloungegh.com,,https://groomingloungegh.com,2026-04-04
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Tropical Cuts Barbershop,Barbershop,"East Legon, Accra, Ghana",East-Legon,+233 50 122 3344,+233 50 122 3344,,,https://ghanayello.com,,N/A,2026-04-04
+Boss Cuts Barbershop,Barbershop,"East Legon, Accra, Ghana",East-Legon,+233 24 455 6677,+233 24 455 6677,,,https://www.yellowpages.com.gh,,N/A,2026-04-04
+Grooming Lounge Barbershop,Barbershop,"East Legon, Accra, Ghana",East-Legon,+233 50 122 3355,+233 50 122 3355,https://groomingloungegh.com,,https://groomingloungegh.com,info@groomingloungegh.com,Pattern Generated,2026-04-04

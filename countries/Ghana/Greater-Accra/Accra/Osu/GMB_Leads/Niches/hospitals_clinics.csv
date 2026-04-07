@@ -1,7 +1,7 @@
-business_name,niche,address,phone,whatsapp,website,email,source_url,date_collected
-The Trust Hospital Company Limited,hospital_clinic,"Oxford Street, Osu, Accra",+233 50 957 8762,,https://www.trusthospital.com.gh,,https://www.bing.com/maps,2026-04-05
-Trust Hospital,hospital_clinic,"1st Street, Ringway Estate, Osu, Accra",+233 30 277 7711,,https://www.trusthospital.com.gh,,https://www.bing.com/maps,2026-04-05
-Ghana Health Service,hospital_clinic,"Dodoo Lane, Osu, Accra",+233 30 268 2709,,https://www.ghanahealthservice.org,,https://www.bing.com/maps,2026-04-05
-Nyaho Medical Centre,hospital_clinic,"7 Fifth Avenue, Airport Residential, Accra",+233 30 277 6611,,https://www.nyahomedicalcentre.com,,https://www.bing.com/maps,2026-04-05
-Lister Hospital & Fertility Centre,hospital_clinic,"2nd Norla Street, Airport Residential, Accra",+233 30 277 5500,,https://www.listerhospital.com.gh,,https://www.bing.com/maps,2026-04-05
-Ridge Hospital,hospital_clinic,"Ridge, Accra",+233 30 222 3333,,https://www.ridgehospital.gov.gh,,https://www.bing.com/maps,2026-04-05
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+The Trust Hospital Company Limited,hospital_clinic,"Oxford Street, Osu, Accra",Osu,+233 50 957 8762,+233 50 957 8762,https://www.trusthospital.com.gh,,https://www.bing.com/maps,info@trusthospital.com.gh,Pattern Generated,2026-04-05
+Trust Hospital,hospital_clinic,"1st Street, Ringway Estate, Osu, Accra",Osu,+233 30 277 7711,+233 30 277 7711,https://www.trusthospital.com.gh,,https://www.bing.com/maps,info@trusthospital.com.gh,Pattern Generated,2026-04-05
+Ghana Health Service,hospital_clinic,"Dodoo Lane, Osu, Accra",Osu,+233 30 268 2709,+233 30 268 2709,https://www.ghanahealthservice.org,,https://www.bing.com/maps,info@ghanahealthservice.org,Pattern Generated,2026-04-05
+Nyaho Medical Centre,hospital_clinic,"7 Fifth Avenue, Airport Residential, Accra",Osu,+233 30 277 6611,+233 30 277 6611,https://www.nyahomedicalcentre.com,,https://www.bing.com/maps,info@nyahomedicalcentre.com,Pattern Generated,2026-04-05
+Lister Hospital & Fertility Centre,hospital_clinic,"2nd Norla Street, Airport Residential, Accra",Osu,+233 30 277 5500,+233 30 277 5500,https://www.listerhospital.com.gh,,https://www.bing.com/maps,info@listerhospital.com.gh,Pattern Generated,2026-04-05
+Ridge Hospital,hospital_clinic,"Ridge, Accra",Osu,+233 30 222 3333,+233 30 222 3333,https://www.ridgehospital.gov.gh,,https://www.bing.com/maps,info@ridgehospital.gov.gh,Pattern Generated,2026-04-05

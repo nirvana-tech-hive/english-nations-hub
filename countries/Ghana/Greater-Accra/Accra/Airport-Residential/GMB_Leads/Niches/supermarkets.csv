@@ -1,14 +1,14 @@
-business_name,niche,address,phone,whatsapp,website,email,source_url,date_collected
-Shoprite,supermarkets,,+233302823020,,,,OpenStreetMap,2026-04-05
-Ridge Stop Over Supermarket,supermarkets,,,,,,OpenStreetMap,2026-04-05
-Diplomatic Shop,supermarkets,,,,,,OpenStreetMap,2026-04-05
-Melcom,supermarkets,,,,https://melcom.com,,OpenStreetMap,2026-04-05
-Maa Gina,supermarkets,,,,,,OpenStreetMap,2026-04-05
-Koala Shopping Centre,supermarkets,,,,,,OpenStreetMap,2026-04-05
-Marina Mall,supermarkets,,,,,,OpenStreetMap,2026-04-05
-2 Guys Supermarket,supermarkets,,,,,,OpenStreetMap,2026-04-05
-Adjentes,supermarkets,,,,,,OpenStreetMap,2026-04-05
-DSTv Shop,supermarkets,,,,,,OpenStreetMap,2026-04-05
-Tax & Duty Free,supermarkets,,,,,,OpenStreetMap,2026-04-05
-Food Lovers Market,supermarkets,,,,,,Google Maps,2026-04-05
-Roberts & Sons,supermarkets,,,,,,Google Maps,2026-04-05
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Shoprite,supermarkets,,Airport-Residential,+233302823020,+233302823020,,,OpenStreetMap,,N/A,2026-04-05
+Ridge Stop Over Supermarket,supermarkets,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+Diplomatic Shop,supermarkets,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+Melcom,supermarkets,,Airport-Residential,,,https://melcom.com,,OpenStreetMap,info@melcom.com,Pattern Generated,2026-04-05
+Maa Gina,supermarkets,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+Koala Shopping Centre,supermarkets,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+Marina Mall,supermarkets,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+2 Guys Supermarket,supermarkets,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+Adjentes,supermarkets,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+DSTv Shop,supermarkets,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+Tax & Duty Free,supermarkets,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+Food Lovers Market,supermarkets,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05
+Roberts & Sons,supermarkets,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05

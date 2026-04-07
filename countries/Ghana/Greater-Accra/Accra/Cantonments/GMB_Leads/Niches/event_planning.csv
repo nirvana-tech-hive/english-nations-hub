@@ -1,4 +1,4 @@
-Business Name,Business Niche,Address,City Area,Phone Number,WhatsApp Contact,Website,Social Media Links,Google Maps Listing URL,Date Collected
-"The Savannah Outdoor Garden","Event Venue / Garden","90 Giffard Rd, East Cantonments","Cantonments","+233 30 276 6917","Not Available","https://www.savannahgh.com","Not Available","Not Available","2025-06-27"
-"PlanIt Events","Event Planning","PMB CT 71, Cantonments","Cantonments","+233 302 939026","Not Available","https://www.planitghana.com","Not Available","Not Available","2025-06-27"
-"Lionheart Events","Event Planning","Accra, Ghana","Cantonments","+233 (0) 54 432 9199","Not Available","https://www.lionheartevents.com","Not Available","Not Available","2025-06-27"
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+The Savannah Outdoor Garden,Event Venue / Garden,"90 Giffard Rd, East Cantonments",Cantonments,+233 30 276 6917,+233 30 276 6917,https://www.savannahgh.com,Not Available,Not Available,info@savannahgh.com,Pattern Generated,2025-06-27
+PlanIt Events,Event Planning,"PMB CT 71, Cantonments",Cantonments,+233 302 939026,+233 302 939026,https://www.planitghana.com,Not Available,Not Available,info@planitghana.com,Pattern Generated,2025-06-27
+Lionheart Events,Event Planning,"Accra, Ghana",Cantonments,+233 (0) 54 432 9199,+233 (0) 54 432 9199,https://www.lionheartevents.com,Not Available,Not Available,info@lionheartevents.com,Pattern Generated,2025-06-27

@@ -1,6 +1,6 @@
-business_name,niche,address,phone,whatsapp,website,email,source_url,date_collected
-Hotgossip Night Club,nightclub,"Adzoatse Street, Osu, Accra",+233 24 333 5539,,https://www.hotgossipgh.com,,https://www.bing.com/maps,2026-04-05
-Duppys Nightclub,nightclub,"Oxford Street, Osu, Accra",+233 30 277 7780,,https://www.duppygh.com,,https://www.bing.com/maps,2026-04-05
-Carbon Nightclub,nightclub,"Osu, Accra",+233 30 277 7781,,https://www.carbonnightclub.com,,https://www.bing.com/maps,2026-04-05
-The Garage Nightclub,nightclub,"Ring Road East, Osu, Accra",+233 30 277 7782,,,,https://www.bing.com/maps,2026-04-05
-BloomBar,nightclub,"Troas Street, Osu, Accra",+233 55 249 8524,,https://www.bloombargh.com,,https://www.bing.com/maps,2026-04-05
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Hotgossip Night Club,nightclub,"Adzoatse Street, Osu, Accra",Osu,+233 24 333 5539,+233 24 333 5539,https://www.hotgossipgh.com,,https://www.bing.com/maps,info@hotgossipgh.com,Pattern Generated,2026-04-05
+Duppys Nightclub,nightclub,"Oxford Street, Osu, Accra",Osu,+233 30 277 7780,+233 30 277 7780,https://www.duppygh.com,,https://www.bing.com/maps,info@duppygh.com,Pattern Generated,2026-04-05
+Carbon Nightclub,nightclub,"Osu, Accra",Osu,+233 30 277 7781,+233 30 277 7781,https://www.carbonnightclub.com,,https://www.bing.com/maps,info@carbonnightclub.com,Pattern Generated,2026-04-05
+The Garage Nightclub,nightclub,"Ring Road East, Osu, Accra",Osu,+233 30 277 7782,+233 30 277 7782,,,https://www.bing.com/maps,,N/A,2026-04-05
+BloomBar,nightclub,"Troas Street, Osu, Accra",Osu,+233 55 249 8524,+233 55 249 8524,https://www.bloombargh.com,,https://www.bing.com/maps,info@bloombargh.com,Pattern Generated,2026-04-05

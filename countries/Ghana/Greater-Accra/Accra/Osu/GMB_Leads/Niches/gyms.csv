@@ -1,9 +1,9 @@
-business_name,niche,address,phone,whatsapp,website,email,source_url,date_collected
-URU Wellness Center,gym,"Osu, Accra",+233 24 333 4455,,https://app.uruwellness.com,,https://search.yahoo.com,2026-04-05
-Multy Gym,gym,"No. 17 Okodan Street, Osu, Accra",+233 30 277 8822,,https://www.multygym.com,,https://search.yahoo.com,2026-04-05
-Pippa's Health Centre,gym,"5th Ringway Link, Ringway Estate, Osu, Accra",+233 30 222 2222,,https://www.pippashealthcentre.com,,https://search.yahoo.com,2026-04-05
-AURA LIFESTYLE CLUB,gym,"Osu, Accra",+233 20 888 3456,,https://auralifestyle.co,,https://search.yahoo.com,2026-04-05
-The Blueprint Personal Training Studio,gym,"Osu, Accra",+233 24 333 4466,,https://www.theblueprintpt.com,,https://search.yahoo.com,2026-04-05
-Crosstrain Ghana Ltd,gym,"Osu, Accra",+233 24 333 4477,,https://www.crosstraingh.com,,https://search.yahoo.com,2026-04-05
-Power Fitness Institute,gym,"Salem Street, Osu, Accra",+233 30 277 7733,,https://www.powerfitnessinstitute.com,,https://search.yahoo.com,2026-04-05
-House of Muscle Gym,gym,"Osu, Accra",+233 24 333 4488,,,,https://search.yahoo.com,2026-04-05
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+URU Wellness Center,gym,"Osu, Accra",Osu,+233 24 333 4455,+233 24 333 4455,https://app.uruwellness.com,,https://search.yahoo.com,info@app.uruwellness.com,Pattern Generated,2026-04-05
+Multy Gym,gym,"No. 17 Okodan Street, Osu, Accra",Osu,+233 30 277 8822,+233 30 277 8822,https://www.multygym.com,,https://search.yahoo.com,info@multygym.com,Pattern Generated,2026-04-05
+Pippa's Health Centre,gym,"5th Ringway Link, Ringway Estate, Osu, Accra",Osu,+233 30 222 2222,+233 30 222 2222,https://www.pippashealthcentre.com,,https://search.yahoo.com,info@pippashealthcentre.com,Pattern Generated,2026-04-05
+AURA LIFESTYLE CLUB,gym,"Osu, Accra",Osu,+233 20 888 3456,+233 20 888 3456,https://auralifestyle.co,,https://search.yahoo.com,info@auralifestyle.co,Pattern Generated,2026-04-05
+The Blueprint Personal Training Studio,gym,"Osu, Accra",Osu,+233 24 333 4466,+233 24 333 4466,https://www.theblueprintpt.com,,https://search.yahoo.com,info@theblueprintpt.com,Pattern Generated,2026-04-05
+Crosstrain Ghana Ltd,gym,"Osu, Accra",Osu,+233 24 333 4477,+233 24 333 4477,https://www.crosstraingh.com,,https://search.yahoo.com,info@crosstraingh.com,Pattern Generated,2026-04-05
+Power Fitness Institute,gym,"Salem Street, Osu, Accra",Osu,+233 30 277 7733,+233 30 277 7733,https://www.powerfitnessinstitute.com,,https://search.yahoo.com,info@powerfitnessinstitute.com,Pattern Generated,2026-04-05
+House of Muscle Gym,gym,"Osu, Accra",Osu,+233 24 333 4488,+233 24 333 4488,,,https://search.yahoo.com,,N/A,2026-04-05

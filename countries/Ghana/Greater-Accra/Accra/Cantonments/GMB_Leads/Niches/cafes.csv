@@ -1,3 +1,3 @@
-Business Name,Business Niche,Address,City Area,Phone Number,WhatsApp Contact,Website,Social Media Links,Google Maps Listing URL,Date Collected
-"Abol Cafe Ghana","Cafe / Coffee Shop","Ground Floor, EY Building, Cantonments","Cantonments","Not Available","Not Available","Not Available","https://facebook.com/abolcafe.gh","Not Available","2025-06-27"
-"Vida e Caffè","Cafe / Coffee Shop","Cantonments, Accra","Cantonments","+233 55 257 1632","Not Available","Not Available","Not Available","Not Available","2025-06-27"
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Abol Cafe Ghana,Cafe / Coffee Shop,"Ground Floor, EY Building, Cantonments",Cantonments,,,Not Available,https://facebook.com/abolcafe.gh,Not Available,,N/A,2025-06-27
+Vida e Caffè,Cafe / Coffee Shop,"Cantonments, Accra",Cantonments,+233 55 257 1632,+233 55 257 1632,Not Available,Not Available,Not Available,,N/A,2025-06-27

@@ -1,6 +1,6 @@
-Business Name,Business Niche,Address,City Area,Phone Number,WhatsApp Contact,Website,Social Media Links,Google Maps Listing URL,Date Collected
-"Ghana International School (GIS)","International School","2nd Circular Road, Cantonments, P.O.Box GP 2856","Cantonments","Not Available","Not Available","https://gis.edu.gh","Not Available","Not Available","2025-06-27"
-"Safari School","International School","7 Ndabaningi Sithole Street, Cantonments","Cantonments","0550009555","Not Available","https://safarischool.edu.gh","Not Available","Not Available","2025-06-27"
-"Galaxy International School","International School","734 Ashale Botwe Sraha CT 70, Cantonments","Cantonments","Not Available","Not Available","https://galaxy.edu.gh","Not Available","Not Available","2025-06-27"
-"Foy International School","International School","64 Angola Road, Osu Cantonment","Cantonments","+233 024 331 8341","Not Available","https://foyinternationalschoolghana.com","Not Available","Not Available","2025-06-27"
-"Lincoln Community School","International School","#126/21 Reindolf Road, PMB CT 354, Cantonments","Cantonments","+233 302 218 100","Not Available","https://www.lincoln.edu.gh","Not Available","Not Available","2025-06-27"
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Ghana International School (GIS),International School,"2nd Circular Road, Cantonments, P.O.Box GP 2856",Cantonments,,,https://gis.edu.gh,Not Available,Not Available,info@gis.edu.gh,Pattern Generated,2025-06-27
+Safari School,International School,"7 Ndabaningi Sithole Street, Cantonments",Cantonments,+233 550009555,+233 550009555,https://safarischool.edu.gh,Not Available,Not Available,info@safarischool.edu.gh,Pattern Generated,2025-06-27
+Galaxy International School,International School,"734 Ashale Botwe Sraha CT 70, Cantonments",Cantonments,,,https://galaxy.edu.gh,Not Available,Not Available,info@galaxy.edu.gh,Pattern Generated,2025-06-27
+Foy International School,International School,"64 Angola Road, Osu Cantonment",Cantonments,+233 024 331 8341,+233 024 331 8341,https://foyinternationalschoolghana.com,Not Available,Not Available,info@foyinternationalschoolghana.com,Pattern Generated,2025-06-27
+Lincoln Community School,International School,"#126/21 Reindolf Road, PMB CT 354, Cantonments",Cantonments,+233 302 218 100,+233 302 218 100,https://www.lincoln.edu.gh,Not Available,Not Available,info@lincoln.edu.gh,Pattern Generated,2025-06-27

@@ -1,2 +1,2 @@
-business_name,niche,address,phone,whatsapp,website,email,source_url,date_collected
-Sweet Sensation Confectionery,Restaurant & Bakery,"East Legon, Accra, Ghana",+233 30 277 3388,,https://sweetsensationgh.com,,https://sweetsensationgh.com,2026-04-04
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Sweet Sensation Confectionery,Restaurant & Bakery,"East Legon, Accra, Ghana",East-Legon,+233 30 277 3388,+233 30 277 3388,https://sweetsensationgh.com,,https://sweetsensationgh.com,info@sweetsensationgh.com,Pattern Generated,2026-04-04

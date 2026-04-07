@@ -1,2 +1,2 @@
-Business Name,Business Niche,Address,City Area,Phone Number,WhatsApp Contact,Website,Social Media Links,Google Maps Listing URL,Date Collected
-"East Cantonments Pharmacy Ltd","Pharmacy","H/no. 123 Giffard Road, East Cantonments","Cantonments","+233 302 772 620","Yes (+233 501607191)","https://ecpl.com.gh","https://facebook.com/ecplpharmacy","Not Available","2025-06-27"
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+East Cantonments Pharmacy Ltd,Pharmacy,"H/no. 123 Giffard Road, East Cantonments",Cantonments,+233 302 772 620,Yes (+233 501607191),https://ecpl.com.gh,https://facebook.com/ecplpharmacy,Not Available,info@ecpl.com.gh,Pattern Generated,2025-06-27

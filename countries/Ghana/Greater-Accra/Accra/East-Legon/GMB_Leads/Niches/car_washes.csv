@@ -1,6 +1,6 @@
-business_name,niche,address,phone,whatsapp,website,email,source_url,date_collected
-East Legon Neat Car Wash,Blackberry St East Legon Accra,+233208188888,+233208188888,,,https://search.yahoo.com,2026-04-05
-SPARKLE EXPRESS CAR WASH,East Legon Accra,,,,,https://search.yahoo.com,2026-04-05
-Fresh and Ready Cleaners,East Legon Accra Ghana,,,,,https://search.yahoo.com,2026-04-05
-Pro Cleaner Ghana,Accra Ghana,+233548011330,+233548011330,,,https://www.ghanabusinessweb.com,2026-04-05
-KKE Wash Systems Pvt Ltd,Accra Ghana,,,https://kkewash.com,,https://search.yahoo.com,2026-04-05
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+East Legon Neat Car Wash,Blackberry St East Legon Accra,+233208188888,East-Legon,+233208188888,+233208188888,,,2026-04-05,,N/A,2026-04-07
+SPARKLE EXPRESS CAR WASH,East Legon Accra,,East-Legon,,,,,2026-04-05,,N/A,2026-04-07
+Fresh and Ready Cleaners,East Legon Accra Ghana,,East-Legon,,,,,2026-04-05,,N/A,2026-04-07
+Pro Cleaner Ghana,Accra Ghana,+233548011330,East-Legon,+233548011330,+233548011330,,,2026-04-05,,N/A,2026-04-07
+KKE Wash Systems Pvt Ltd,Accra Ghana,,East-Legon,,https://kkewash.com,,,2026-04-05,,N/A,2026-04-07

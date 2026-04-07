@@ -1,5 +1,5 @@
-Business Name,Business Niche,Address,City Area,Phone Number,WhatsApp Contact,Website,Social Media Links,Google Maps Listing URL,Date Collected
-"Dentsu Ghana","Marketing / Advertising Agency","BOX CT 5864, Cantonment, Accra","Cantonments","Not Available","Not Available","Not Available","Not Available","Not Available","2025-06-27"
-"PHD Media Ghana","Marketing / Media Agency","71 Ndabaningi Sithole Street, Labone","Cantonments","+233 24 304 7540","Not Available","https://www.phdmedia.com/ghana","Not Available","Not Available","2025-06-27"
-"Nomad Advertising","Marketing / Communications Agency","Accra, Ghana","Cantonments","+233 53 051 8981","Not Available","https://www.thenomad.agency","Not Available","Not Available","2025-06-27"
-"Social Ghana","Digital Marketing / Creative Agency","Accra, Ghana","Cantonments","Not Available","Not Available","https://www.socialghana.com","Not Available","Not Available","2025-06-27"
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Dentsu Ghana,Marketing / Advertising Agency,"BOX CT 5864, Cantonment, Accra",Cantonments,,,Not Available,Not Available,Not Available,,N/A,2025-06-27
+PHD Media Ghana,Marketing / Media Agency,"71 Ndabaningi Sithole Street, Labone",Cantonments,+233 24 304 7540,+233 24 304 7540,https://www.phdmedia.com/ghana,Not Available,Not Available,info@phdmedia.com,Pattern Generated,2025-06-27
+Nomad Advertising,Marketing / Communications Agency,"Accra, Ghana",Cantonments,+233 53 051 8981,+233 53 051 8981,https://www.thenomad.agency,Not Available,Not Available,info@thenomad.agency,Pattern Generated,2025-06-27
+Social Ghana,Digital Marketing / Creative Agency,"Accra, Ghana",Cantonments,,,https://www.socialghana.com,Not Available,Not Available,info@socialghana.com,Pattern Generated,2025-06-27

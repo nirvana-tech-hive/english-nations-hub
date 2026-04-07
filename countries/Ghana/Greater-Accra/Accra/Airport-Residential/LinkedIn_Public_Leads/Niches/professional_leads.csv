@@ -1,22 +1,22 @@
-full_name,job_title,company_name,linkedin_profile_url,location,industry,date_collected,source
-Kakra Duffuor-Nyarko,Staff/Actuarial Analyst,StarLife Assurance,https://gh.linkedin.com/in/kakra-duffuor-nyarko-03a366bb,"Airport Residential Area, Accra",Financial Services,2026-04-05,Yahoo Search
-Gunda Bamere,Insurance Professional,Nexia Insurance Brokers Ltd,https://gh.linkedin.com/in/gunda-bamere-acii-cpcu-arm-0b7a6061,Accra,Insurance,2026-04-05,Yahoo Search
-Anthony Yeboah,Architect & Managing Director,Green Design Systems,https://www.linkedin.com/in/anthony-yeboah-ab828614,Accra,Architecture,2026-04-05,Yahoo Search
-Nader Sbeity,Managing Director,Builders Empire LTD,https://gh.linkedin.com/in/nader-sbeity-491585156,Ghana,Construction,2026-04-05,Yahoo Search
-Samuel Kingsley Kumi Aboagye,Grant Management Specialist (PMP),AGRA,https://gh.linkedin.com/in/samuel-kingsley-kumi-aboagye-pmp%C2%AE-2333a3190,Accra,Development/NGO,2026-04-05,Yahoo Search
-Scot Murray,Managing Director,Denya Developers,https://gh.linkedin.com/in/scot-murray-18266223,Accra,Real Estate,2026-04-05,Yahoo Search
-Daniel Adu Sarfo,Administrative Managing Director - West Africa,,https://gh.linkedin.com/in/daniel-adu-sarfo-a1468651,Accra,Corporate,2026-04-05,Yahoo Search
-Naa Ashirifia Agyemang,Managing Director,BNS TIER LIMITED,https://gh.linkedin.com/in/naa-ashirifia-agyemang-877a8728,Accra,Corporate,2026-04-05,Yahoo Search
-Kwadwo Owusu-Ansah CA,International Finance Analyst,,https://www.linkedin.com/in/kwadwo-owusu-ansah-ca-8086035a,"Airport Residential, Accra",Finance,2026-04-05,Yahoo Search
-Maame Serwaa Tuffour,Energy Commission Professional,Energy Commission,https://uk.linkedin.com/in/maame-serwaa-tuffour-637398252,"Airport Residential, Accra",Energy,2026-04-05,Yahoo Search
-Engr. Archibold Amuakwa-Mensah PE,QA/QC Engineer,Clifton Homes Ghana,https://gh.linkedin.com/in/engr-archibold-amuakwa-mensah,"Airport Residential, Accra",Construction/Real Estate,2026-04-05,Yahoo Search
-Yakup Karatas,General Manager,Yagmur Ghana Limited,https://gh.linkedin.com/in/mirageresidence,Accra,Hospitality,2026-04-05,Yahoo Search
-Hilda Obeng Boateng,Research Professional,National Center for Asphalt Technology,https://www.linkedin.com/in/hilda-boateng,"Airport Residential Area, Accra",Research,2026-04-05,Yahoo Search
-Emmanuel Ofori Boateng,Professional,Agricultural Development Bank Plc,https://gh.linkedin.com/in/emmanuel-ofori-boateng-70150139,"Airport Residential Area, Accra",Banking,2026-04-05,Yahoo Search
-Ing. Joseph Asare Appiah PE GHIE,Geomatic Engineer,Landmark ABL Limited,https://gh.linkedin.com/in/ing-joseph-asare-appiah-pe-ghie,"Airport Residential Area, Accra",Engineering,2026-04-05,Yahoo Search
-Richard Adjani,Professional,Apex Realty Ghana Ltd,https://gh.linkedin.com/in/richard-adjani-508b2312,Accra,Real Estate,2026-04-05,Yahoo Search
-Ing. Dr. Joseph Atuahene Omani,Managing Consultant,Services Plus Consult,https://gh.linkedin.com/in/ing-dr-joseph-atuahene-omani-74980a78,"Airport Residential Area, Accra",Engineering/Consulting,2026-04-05,Yahoo Search
-Hephzibah Armah,Professional,Ghana TVET Service,https://gh.linkedin.com/in/hephzibah-armah-493437119,Accra,Education,2026-04-05,Yahoo Search
-Ekow Mensah,Professional,HustleAid,https://gh.linkedin.com/in/ekowmensah,Accra,Technology,2026-04-05,Yahoo Search
-Gabriel Atter MSc,Digital Marketing Professional,Digital Mojo Tech Solutions,https://gh.linkedin.com/in/gabriel-atter-msc-640409aa,Accra,Marketing/Technology,2026-04-05,Yahoo Search
-Carl Agbenyega,Professional,Merit Network,https://www.linkedin.com/in/aycarl,Ghana,Technology,2026-04-05,Yahoo Search
+full_name,profession,company,industry,linkedin_url,email,phone,whatsapp,location,email_validation_status,date_collected
+Kakra Duffuor-Nyarko,Staff/Actuarial Analyst,StarLife Assurance,Financial Services,https://gh.linkedin.com/in/kakra-duffuor-nyarko-03a366bb,kakra.duffuornyarko@starlifeassurance.com.gh,,,"Airport Residential Area, Accra",Pattern Generated - Needs Validation,2026-04-07
+Gunda Bamere,Insurance Professional,Nexia Insurance Brokers Ltd,Insurance,https://gh.linkedin.com/in/gunda-bamere-acii-cpcu-arm-0b7a6061,gunda.bamere@nexiainsurancebrokers.com.gh,,,Accra,Pattern Generated - Needs Validation,2026-04-07
+Anthony Yeboah,Architect & Managing Director,Green Design Systems,Architecture,https://www.linkedin.com/in/anthony-yeboah-ab828614,anthony.yeboah@greendesignsystems.com.gh,,,Accra,Pattern Generated - Needs Validation,2026-04-07
+Nader Sbeity,Managing Director,Builders Empire LTD,Construction,https://gh.linkedin.com/in/nader-sbeity-491585156,nader.sbeity@buildersempireltd.com.gh,,,Ghana,Pattern Generated - Needs Validation,2026-04-07
+Samuel Kingsley Kumi Aboagye,Grant Management Specialist (PMP),AGRA,Development/NGO,https://gh.linkedin.com/in/samuel-kingsley-kumi-aboagye-pmp%C2%AE-2333a3190,samuel.aboagye@agra.com.gh,,,Accra,Pattern Generated - Needs Validation,2026-04-07
+Scot Murray,Managing Director,Denya Developers,Real Estate,https://gh.linkedin.com/in/scot-murray-18266223,scot.murray@denyadevelopers.com.gh,,,Accra,Pattern Generated - Needs Validation,2026-04-07
+Daniel Adu Sarfo,Administrative Managing Director - West Africa,,Corporate,https://gh.linkedin.com/in/daniel-adu-sarfo-a1468651,,,,Accra,Cannot Generate - Insufficient Data,2026-04-07
+Naa Ashirifia Agyemang,Managing Director,BNS TIER LIMITED,Corporate,https://gh.linkedin.com/in/naa-ashirifia-agyemang-877a8728,naa.agyemang@bnstierlimited.com.gh,,,Accra,Pattern Generated - Needs Validation,2026-04-07
+Kwadwo Owusu-Ansah CA,International Finance Analyst,,Finance,https://www.linkedin.com/in/kwadwo-owusu-ansah-ca-8086035a,,,,"Airport Residential, Accra",Cannot Generate - Insufficient Data,2026-04-07
+Maame Serwaa Tuffour,Energy Commission Professional,Energy Commission,Energy,https://uk.linkedin.com/in/maame-serwaa-tuffour-637398252,maame.tuffour@energycommission.com.gh,,,"Airport Residential, Accra",Pattern Generated - Needs Validation,2026-04-07
+Engr. Archibold Amuakwa-Mensah PE,QA/QC Engineer,Clifton Homes Ghana,Construction/Real Estate,https://gh.linkedin.com/in/engr-archibold-amuakwa-mensah,archibold.pe@cliftonhomes.com.gh,,,"Airport Residential, Accra",Pattern Generated - Needs Validation,2026-04-07
+Yakup Karatas,General Manager,Yagmur Ghana Limited,Hospitality,https://gh.linkedin.com/in/mirageresidence,yakup.karatas@yagmur.com.gh,,,Accra,Pattern Generated - Needs Validation,2026-04-07
+Hilda Obeng Boateng,Research Professional,National Center for Asphalt Technology,Research,https://www.linkedin.com/in/hilda-boateng,hilda.boateng@nationalcenterforasphalttechnology.com.gh,,,"Airport Residential Area, Accra",Pattern Generated - Needs Validation,2026-04-07
+Emmanuel Ofori Boateng,Professional,Agricultural Development Bank Plc,Banking,https://gh.linkedin.com/in/emmanuel-ofori-boateng-70150139,emmanuel.boateng@agriculturaldevelopmentbankplc.com.gh,,,"Airport Residential Area, Accra",Pattern Generated - Needs Validation,2026-04-07
+Ing. Joseph Asare Appiah PE GHIE,Geomatic Engineer,Landmark ABL Limited,Engineering,https://gh.linkedin.com/in/ing-joseph-asare-appiah-pe-ghie,joseph.ghie@landmarkabl.com.gh,,,"Airport Residential Area, Accra",Pattern Generated - Needs Validation,2026-04-07
+Richard Adjani,Professional,Apex Realty Ghana Ltd,Real Estate,https://gh.linkedin.com/in/richard-adjani-508b2312,richard.adjani@apexrealty.com.gh,,,Accra,Pattern Generated - Needs Validation,2026-04-07
+Ing. Dr. Joseph Atuahene Omani,Managing Consultant,Services Plus Consult,Engineering/Consulting,https://gh.linkedin.com/in/ing-dr-joseph-atuahene-omani-74980a78,joseph.omani@servicesplusconsult.com.gh,,,"Airport Residential Area, Accra",Pattern Generated - Needs Validation,2026-04-07
+Hephzibah Armah,Professional,Ghana TVET Service,Education,https://gh.linkedin.com/in/hephzibah-armah-493437119,hephzibah.armah@ghanatvetservice.com.gh,,,Accra,Pattern Generated - Needs Validation,2026-04-07
+Ekow Mensah,Professional,HustleAid,Technology,https://gh.linkedin.com/in/ekowmensah,ekow.mensah@hustleaid.com.gh,,,Accra,Pattern Generated - Needs Validation,2026-04-07
+Gabriel Atter MSc,Digital Marketing Professional,Digital Mojo Tech Solutions,Marketing/Technology,https://gh.linkedin.com/in/gabriel-atter-msc-640409aa,gabriel.atter@digitalmojotechsolutions.com.gh,,,Accra,Pattern Generated - Needs Validation,2026-04-07
+Carl Agbenyega,Professional,Merit Network,Technology,https://www.linkedin.com/in/aycarl,carl.agbenyega@meritnetwork.com.gh,,,Ghana,Pattern Generated - Needs Validation,2026-04-07

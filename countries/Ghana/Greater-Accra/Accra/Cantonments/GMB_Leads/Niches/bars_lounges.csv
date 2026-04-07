@@ -1,3 +1,3 @@
-Business Name,Business Niche,Address,City Area,Phone Number,WhatsApp Contact,Website,Social Media Links,Google Maps Listing URL,Date Collected
-"Django Bar","Bar / Lounge","Osu Avenue Extension, behind Police HQ and Japanese Embassy, Cantonments","Cantonments","050 050 0501","Not Available","Not Available","Not Available","Not Available","2025-06-27"
-"The Grillroom Bar and Lounge","Bar / Restaurant","Fiesta Residences, Fifth Avenue, West Cantonments","Cantonments","Not Available","Not Available","https://fiestaresidences.com","Not Available","Not Available","2025-06-27"
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Django Bar,Bar / Lounge,"Osu Avenue Extension, behind Police HQ and Japanese Embassy, Cantonments",Cantonments,+233 50 050 0501,+233 50 050 0501,Not Available,Not Available,Not Available,,N/A,2025-06-27
+The Grillroom Bar and Lounge,Bar / Restaurant,"Fiesta Residences, Fifth Avenue, West Cantonments",Cantonments,,,https://fiestaresidences.com,Not Available,Not Available,info@fiestaresidences.com,Pattern Generated,2025-06-27

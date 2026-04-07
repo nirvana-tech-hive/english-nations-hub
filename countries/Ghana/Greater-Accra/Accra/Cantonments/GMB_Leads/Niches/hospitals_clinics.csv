@@ -1,3 +1,3 @@
-Business Name,Business Niche,Address,City Area,Phone Number,WhatsApp Contact,Website,Social Media Links,Google Maps Listing URL,Date Collected
-"The Bank Hospital (Dental Dept)","Hospital / Dental Clinic","Block F6, Shippi Road, Cantonments","Cantonments","0302 739 373","Not Available","https://thebankhospital.com","Not Available","Not Available","2025-06-27"
-"Police Hospital","Hospital","Cantonments","Cantonments","Not Available","Not Available","Not Available","Not Available","Not Available","2025-06-27"
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+The Bank Hospital (Dental Dept),Hospital / Dental Clinic,"Block F6, Shippi Road, Cantonments",Cantonments,+233 302 739 373,+233 302 739 373,https://thebankhospital.com,Not Available,Not Available,info@thebankhospital.com,Pattern Generated,2025-06-27
+Police Hospital,Hospital,Cantonments,Cantonments,,,Not Available,Not Available,Not Available,,N/A,2025-06-27

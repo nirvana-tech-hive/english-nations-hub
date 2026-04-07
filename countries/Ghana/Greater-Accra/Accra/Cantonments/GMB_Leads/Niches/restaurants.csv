@@ -1,3 +1,3 @@
-Business Name,Business Niche,Address,City Area,Phone Number,WhatsApp Contact,Website,Social Media Links,Google Maps Listing URL,Date Collected
-"Capitol Cafe & Restaurant","Restaurant / Cafe","5th Circular Rd. 19, Cantonments","Cantonments","+233 55 6975553","Not Available","https://capitolgh.com","https://facebook.com/capitolgh","Not Available","2025-06-27"
-"The Gold Coast Restaurant & Cocktail Bar","Restaurant / Bar","32 Fifth Avenue Ext., Cantonments","Cantonments","0302799834","Not Available","https://tgcrestaurant.com","https://facebook.com/thegoldcoastaccra","Not Available","2025-06-27"
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Capitol Cafe & Restaurant,Restaurant / Cafe,"5th Circular Rd. 19, Cantonments",Cantonments,+233 55 6975553,+233 55 6975553,https://capitolgh.com,https://facebook.com/capitolgh,Not Available,info@capitolgh.com,Pattern Generated,2025-06-27
+The Gold Coast Restaurant & Cocktail Bar,Restaurant / Bar,"32 Fifth Avenue Ext., Cantonments",Cantonments,+233 302799834,+233 302799834,https://tgcrestaurant.com,https://facebook.com/thegoldcoastaccra,Not Available,info@tgcrestaurant.com,Pattern Generated,2025-06-27

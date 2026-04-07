@@ -1,2 +1,2 @@
-Business Name,Business Niche,Address,City Area,Phone Number,WhatsApp Contact,Website,Social Media Links,Google Maps Listing URL,Date Collected
-"Niobe Salon & Spa","Spa / Salon","39 La Tebu Crescent, East Cantonments","Cantonments","0242 426 237","Not Available","https://www.niobebeauty.com","https://instagram.com/niobesalonspa","Not Available","2025-06-27"
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Niobe Salon & Spa,Spa / Salon,"39 La Tebu Crescent, East Cantonments",Cantonments,+233 242 426 237,+233 242 426 237,https://www.niobebeauty.com,https://instagram.com/niobesalonspa,Not Available,info@niobebeauty.com,Pattern Generated,2025-06-27

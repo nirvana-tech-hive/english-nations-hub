@@ -1,5 +1,5 @@
-business_name,niche,address,phone,whatsapp,website,email,source_url,date_collected
-Esca Tech Electrician,East Legon Accra,,,,,https://search.yahoo.com,2026-04-05
-Job Electrical Works,Accra Ghana,,,,,https://search.yahoo.com,2026-04-05
-AJ's Security and Domestic Wiring Ltd,East Legon Accra,,,,,https://www.ghanabusinessweb.com,2026-04-05
-Adaptive Electrical Services,Accra Ghana,,,,,https://search.yahoo.com,2026-04-05
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Esca Tech Electrician,East Legon Accra,,East-Legon,,,,,2026-04-05,,N/A,2026-04-07
+Job Electrical Works,Accra Ghana,,East-Legon,,,,,2026-04-05,,N/A,2026-04-07
+AJ's Security and Domestic Wiring Ltd,East Legon Accra,,East-Legon,,,,,2026-04-05,,N/A,2026-04-07
+Adaptive Electrical Services,Accra Ghana,,East-Legon,,,,,2026-04-05,,N/A,2026-04-07

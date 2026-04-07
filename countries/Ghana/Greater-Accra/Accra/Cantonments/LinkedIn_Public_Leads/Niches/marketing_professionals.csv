@@ -1,8 +1,8 @@
-Full Name,Skill/Profession,LinkedIn Profile URL,Email Address,Phone/WhatsApp,Company/Business,Location Listed,Email Validation Status,Date Collected
-"Kwabena B. Sarpong","Marketing Communications / Digital Transformation","https://gh.linkedin.com/in/kwabena-b-sarpong-44183769","Not Available","Not Available","Midiarack","Accra, Ghana","N/A - Pending Enrichment","2025-06-27"
-"Cassie Twumasi","Branding / Marketing","https://gh.linkedin.com/in/cassie-twumasi-175b091b9","Not Available","Not Available","Cassie's Branding and Marketing","Accra, Ghana","N/A - Pending Enrichment","2025-06-27"
-"Leslie Kasumba","Creative / Marketing Agency Founder","https://gh.linkedin.com/in/leekasumba","Not Available","Not Available","She Speaks Africa","Accra, Ghana","N/A - Pending Enrichment","2025-06-27"
-"Edwin Dela","Growth & Brand Strategist / CEO","https://gh.linkedin.com/in/edwin-dela","Not Available","Not Available","LuminCore Consult / BrandNerds Ltd","Accra, Ghana","N/A - Pending Enrichment","2025-06-27"
-"Richard Mensah","CEO / Business Development","https://gh.linkedin.com/in/richard-mensah-dadzie","Not Available","Not Available","RIG Africa Ltd","Accra, Ghana","N/A - Pending Enrichment","2025-06-27"
-"Akweley Abena Okai","Marketing Director","https://de.linkedin.com/in/acquels","Not Available","Not Available","Beeva AI / Tech Media House","Accra, Ghana","N/A - Pending Enrichment","2025-06-27"
-"Victor Ayisi Obeng-Mensah","Digital Entrepreneur / CEO","https://www.linkedin.com/in/vickynewlovegh","Not Available","Not Available","Nemens Group of Companies","Accra, Ghana","N/A - Pending Enrichment","2025-06-27"
+full_name,profession,company,industry,linkedin_url,email,phone,whatsapp,location,email_validation_status,date_collected
+Kwabena B. Sarpong,Marketing Communications / Digital Transformation,Midiarack,,https://gh.linkedin.com/in/kwabena-b-sarpong-44183769,kwabena.sarpong@midiarack.com.gh,,,"Accra, Ghana",Pattern Generated - Needs Validation,2026-04-07
+Cassie Twumasi,Branding / Marketing,Cassie's Branding and Marketing,,https://gh.linkedin.com/in/cassie-twumasi-175b091b9,cassie.twumasi@cassiesbrandingandmarketing.com.gh,,,"Accra, Ghana",Pattern Generated - Needs Validation,2026-04-07
+Leslie Kasumba,Creative / Marketing Agency Founder,She Speaks Africa,,https://gh.linkedin.com/in/leekasumba,leslie.kasumba@shespeaksafrica.com.gh,,,"Accra, Ghana",Pattern Generated - Needs Validation,2026-04-07
+Edwin Dela,Growth & Brand Strategist / CEO,LuminCore Consult / BrandNerds Ltd,,https://gh.linkedin.com/in/edwin-dela,edwin.dela@lumincoreconsult/brandnerds.com.gh,,,"Accra, Ghana",Pattern Generated - Needs Validation,2026-04-07
+Richard Mensah,CEO / Business Development,RIG Africa Ltd,,https://gh.linkedin.com/in/richard-mensah-dadzie,richard.mensah@rigafrica.com.gh,,,"Accra, Ghana",Pattern Generated - Needs Validation,2026-04-07
+Akweley Abena Okai,Marketing Director,Beeva AI / Tech Media House,,https://de.linkedin.com/in/acquels,akweley.okai@beevaai/techmediahouse.com.gh,,,"Accra, Ghana",Pattern Generated - Needs Validation,2026-04-07
+Victor Ayisi Obeng-Mensah,Digital Entrepreneur / CEO,Nemens Group of Companies,,https://www.linkedin.com/in/vickynewlovegh,victor.obengmensah@nemensgroupofcompanies.com.gh,,,"Accra, Ghana",Pattern Generated - Needs Validation,2026-04-07

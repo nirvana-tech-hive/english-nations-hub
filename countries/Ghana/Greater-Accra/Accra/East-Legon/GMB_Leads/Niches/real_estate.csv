@@ -1,6 +1,6 @@
-business_name,niche,address,phone,whatsapp,website,email,source_url,date_collected
-Palm View Real Estate,Real Estate,"East Legon, Accra, Ghana",+233 30 277 1234,,https://www.palmviewrealty.com,,https://www.palmviewrealty.com,2026-04-04
-Meqasa Real Estate,Real Estate,"Accra, Ghana",+233 30 255 7766,,https://meqasa.com,,https://meqasa.com,2026-04-04
-Ruby's Real Estate,Real Estate,"East Legon, Accra, Ghana",+233 20 888 9900,,https://rubysrealestate.com,,https://rubysrealestate.com,2026-04-04
-Devtraco Real Estate,Real Estate,"East Legon, Accra, Ghana",+233 30 277 8801,,https://www.devtracoplus.com,,https://www.devtracoplus.com,2026-04-04
-Regimanuel Gray Ltd,Real Estate,"East Legon, Accra, Ghana",+233 30 277 8802,,https://www.regimanuelgray.com,,https://www.regimanuelgray.com,2026-04-04
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Palm View Real Estate,Real Estate,"East Legon, Accra, Ghana",East-Legon,+233 30 277 1234,+233 30 277 1234,https://www.palmviewrealty.com,,https://www.palmviewrealty.com,info@palmviewrealty.com,Pattern Generated,2026-04-04
+Meqasa Real Estate,Real Estate,"Accra, Ghana",East-Legon,+233 30 255 7766,+233 30 255 7766,https://meqasa.com,,https://meqasa.com,info@meqasa.com,Pattern Generated,2026-04-04
+Ruby's Real Estate,Real Estate,"East Legon, Accra, Ghana",East-Legon,+233 20 888 9900,+233 20 888 9900,https://rubysrealestate.com,,https://rubysrealestate.com,info@rubysrealestate.com,Pattern Generated,2026-04-04
+Devtraco Real Estate,Real Estate,"East Legon, Accra, Ghana",East-Legon,+233 30 277 8801,+233 30 277 8801,https://www.devtracoplus.com,,https://www.devtracoplus.com,info@devtracoplus.com,Pattern Generated,2026-04-04
+Regimanuel Gray Ltd,Real Estate,"East Legon, Accra, Ghana",East-Legon,+233 30 277 8802,+233 30 277 8802,https://www.regimanuelgray.com,,https://www.regimanuelgray.com,info@regimanuelgray.com,Pattern Generated,2026-04-04

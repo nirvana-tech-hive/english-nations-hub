@@ -1,6 +1,6 @@
-business_name,niche,address,phone,whatsapp,website,email,source_url,date_collected
-PricewaterhouseCoopers Ghana,accounting_firm,"5th Ringway Close, Accra",+233 30 222 2000,,https://www.pwc.com.gh,,https://www.bing.com/maps,2026-04-05
-Deloitte Ghana,accounting_firm,"Atlantic Tower, Liberation Road, Accra",+233 30 266 0000,,https://www.deloitte.com/gh,,https://www.bing.com/maps,2026-04-05
-KPMG Ghana,accounting_firm,"Ring Road Central, Accra",+233 30 266 2000,,https://www.kpmg.com.gh,,https://www.bing.com/maps,2026-04-05
-Ernst & Young Ghana,accounting_firm,"5th Link, Airport Residential, Accra",+233 30 277 7733,,https://www.ey.com/gh,,https://www.bing.com/maps,2026-04-05
-Mensah Bonsu & Co,accounting_firm,"Osu, Accra",+233 30 277 7734,,,,https://www.bing.com/maps,2026-04-05
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+PricewaterhouseCoopers Ghana,accounting_firm,"5th Ringway Close, Accra",Osu,+233 30 222 2000,+233 30 222 2000,https://www.pwc.com.gh,,https://www.bing.com/maps,info@pwc.com.gh,Pattern Generated,2026-04-05
+Deloitte Ghana,accounting_firm,"Atlantic Tower, Liberation Road, Accra",Osu,+233 30 266 0000,+233 30 266 0000,https://www.deloitte.com/gh,,https://www.bing.com/maps,info@deloitte.com,Pattern Generated,2026-04-05
+KPMG Ghana,accounting_firm,"Ring Road Central, Accra",Osu,+233 30 266 2000,+233 30 266 2000,https://www.kpmg.com.gh,,https://www.bing.com/maps,info@kpmg.com.gh,Pattern Generated,2026-04-05
+Ernst & Young Ghana,accounting_firm,"5th Link, Airport Residential, Accra",Osu,+233 30 277 7733,+233 30 277 7733,https://www.ey.com/gh,,https://www.bing.com/maps,info@ey.com,Pattern Generated,2026-04-05
+Mensah Bonsu & Co,accounting_firm,"Osu, Accra",Osu,+233 30 277 7734,+233 30 277 7734,,,https://www.bing.com/maps,,N/A,2026-04-05

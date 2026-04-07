@@ -1,6 +1,6 @@
-business_name,niche,address,phone,whatsapp,website,email,source_url,date_collected
-Enterprise Insurance Ltd,East Legon Accra,,,,,https://search.yahoo.com,2026-04-05
-Phoenix Insurance Company Ghana,East Legon Accra,,,,,https://search.yahoo.com,2026-04-05
-Planwell Financial Group,Accra Ghana,,,,,https://search.yahoo.com,2026-04-05
-SIC Insurance Company,Accra Ghana,,,,,https://search.yahoo.com,2026-04-05
-Glico General Insurance,Accra Ghana,,,,,https://search.yahoo.com,2026-04-05
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Enterprise Insurance Ltd,East Legon Accra,,East-Legon,,,,,2026-04-05,,N/A,2026-04-07
+Phoenix Insurance Company Ghana,East Legon Accra,,East-Legon,,,,,2026-04-05,,N/A,2026-04-07
+Planwell Financial Group,Accra Ghana,,East-Legon,,,,,2026-04-05,,N/A,2026-04-07
+SIC Insurance Company,Accra Ghana,,East-Legon,,,,,2026-04-05,,N/A,2026-04-07
+Glico General Insurance,Accra Ghana,,East-Legon,,,,,2026-04-05,,N/A,2026-04-07

@@ -1,9 +1,9 @@
-business_name,niche,address,phone,whatsapp,website,email,source_url,date_collected
-Rankof Pharmacy,48 Boundary Road East Legon Accra,,,,,https://search.yahoo.com,2026-04-05
-Prime Pharmacy,Garden Rd East Legon Accra,+233501584305,+233501584305,,,https://search.yahoo.com,2026-04-05
-Equity Pharmacy,Tanbu Street East Legon Accra Ghana,+233202532498,+233202532498,https://equity-pharmacy.com,info@equitypharmacy.com,https://search.yahoo.com,2026-04-05
-Ernest Chemists,36 Lagos Ave East Legon Accra,,,,,https://search.yahoo.com,2026-04-05
-Brobbson Pharmacy,East Legon Accra,,,,,https://search.yahoo.com,2026-04-05
-Dinkal Pharmacy,Nii Sai Rd East Legon Accra,,,,,https://search.yahoo.com,2026-04-05
-East Legon Pharmacy,No. 11 East Legon Rd Accra,+233302502174,+233302502174,,,https://search.yahoo.com,2026-04-05
-Life Healthcare Pharmacy,East Legon Accra,,,,,https://search.yahoo.com,2026-04-05
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Rankof Pharmacy,48 Boundary Road East Legon Accra,,East-Legon,,,,,2026-04-05,,N/A,2026-04-07
+Prime Pharmacy,Garden Rd East Legon Accra,+233501584305,East-Legon,+233501584305,+233501584305,,,2026-04-05,,N/A,2026-04-07
+Equity Pharmacy,Tanbu Street East Legon Accra Ghana,+233202532498,East-Legon,+233202532498,https://equity-pharmacy.com,info@equitypharmacy.com,,2026-04-05,info@info@equitypharmacy.com,Pattern Generated,2026-04-07
+Ernest Chemists,36 Lagos Ave East Legon Accra,,East-Legon,,,,,2026-04-05,,N/A,2026-04-07
+Brobbson Pharmacy,East Legon Accra,,East-Legon,,,,,2026-04-05,,N/A,2026-04-07
+Dinkal Pharmacy,Nii Sai Rd East Legon Accra,,East-Legon,,,,,2026-04-05,,N/A,2026-04-07
+East Legon Pharmacy,No. 11 East Legon Rd Accra,+233302502174,East-Legon,+233302502174,+233302502174,,,2026-04-05,,N/A,2026-04-07
+Life Healthcare Pharmacy,East Legon Accra,,East-Legon,,,,,2026-04-05,,N/A,2026-04-07

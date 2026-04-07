@@ -1,9 +1,9 @@
-business_name,niche,address,phone,whatsapp,website,email,source_url,date_collected
-Liange Beauty Salon,salon_spa,,,,,,OpenStreetMap,2026-04-05
-Beauty o'clock,salon_spa,"Boundary Road, Accra",+233244018068,,https://www.instagram.com/beauty__oclock/,,OpenStreetMap,2026-04-05
-Gigi Beauty Bar Airport,salon_spa,,,,,,Google Maps,2026-04-05
-SS WELLNESS SALON AND SPA,salon_spa,,,,,,Google Maps,2026-04-05
-Vams Spa,salon_spa,,,,,,Google Maps,2026-04-05
-Premier Spa and Salon,salon_spa,,,,,,Google Maps,2026-04-05
-DLC Spa,salon_spa,,,,,,Google Maps,2026-04-05
-Beauty Secrets,salon_spa,,,,,,Google Maps,2026-04-05
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Liange Beauty Salon,salon_spa,,Airport-Residential,,,,,OpenStreetMap,,N/A,2026-04-05
+Beauty o'clock,salon_spa,"Boundary Road, Accra",Airport-Residential,+233244018068,+233244018068,https://www.instagram.com/beauty__oclock/,,OpenStreetMap,info@instagram.com,Pattern Generated,2026-04-05
+Gigi Beauty Bar Airport,salon_spa,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05
+SS WELLNESS SALON AND SPA,salon_spa,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05
+Vams Spa,salon_spa,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05
+Premier Spa and Salon,salon_spa,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05
+DLC Spa,salon_spa,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05
+Beauty Secrets,salon_spa,,Airport-Residential,,,,,Google Maps,,N/A,2026-04-05

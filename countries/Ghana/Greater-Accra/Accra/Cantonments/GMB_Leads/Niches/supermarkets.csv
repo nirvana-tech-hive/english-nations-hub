@@ -1,5 +1,5 @@
-Business Name,Business Niche,Address,City Area,Phone Number,WhatsApp Contact,Website,Social Media Links,Google Maps Listing URL,Date Collected
-"Koala Supermarket","Supermarket / Grocery","Cantonments, Accra","Cantonments","024 360 7080","Not Available","Not Available","https://facebook.com/KoalaGhana","Not Available","2025-06-27"
-"Maxmart Cantonments","Supermarket / Grocery","5th Circular Rd, Cantonments","Cantonments","059 488 5587","Not Available","https://maxmartonline.com","https://facebook.com/MaxMartGhana","Not Available","2025-06-27"
-"Marina Supermarket","Supermarket / Grocery","Cantonments, Accra","Cantonments","0531012690","Not Available","Not Available","https://instagram.com/marinasupermarketghana","Not Available","2025-06-27"
-"Great Wall Supermarket","Supermarket / Grocery","Cantonments Rd, Accra","Cantonments","+233 30 277 8916","Not Available","Not Available","Not Available","Not Available","2025-06-27"
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Koala Supermarket,Supermarket / Grocery,"Cantonments, Accra",Cantonments,+233 24 360 7080,+233 24 360 7080,Not Available,https://facebook.com/KoalaGhana,Not Available,,N/A,2025-06-27
+Maxmart Cantonments,Supermarket / Grocery,"5th Circular Rd, Cantonments",Cantonments,+233 59 488 5587,+233 59 488 5587,https://maxmartonline.com,https://facebook.com/MaxMartGhana,Not Available,info@maxmartonline.com,Pattern Generated,2025-06-27
+Marina Supermarket,Supermarket / Grocery,"Cantonments, Accra",Cantonments,+233 531012690,+233 531012690,Not Available,https://instagram.com/marinasupermarketghana,Not Available,,N/A,2025-06-27
+Great Wall Supermarket,Supermarket / Grocery,"Cantonments Rd, Accra",Cantonments,+233 30 277 8916,+233 30 277 8916,Not Available,Not Available,Not Available,,N/A,2025-06-27

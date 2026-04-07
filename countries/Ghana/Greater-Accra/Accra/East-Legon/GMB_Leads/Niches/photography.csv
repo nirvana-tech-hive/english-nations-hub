@@ -1,8 +1,8 @@
-business_name,niche,address,phone,whatsapp,website,email,source_url,date_collected
-Photobooth Services Co. Ltd,Photography,"A&C Shopping Mall, East Legon, Accra, Ghana",,,,,https://www.yellowpages.com.gh/Company-Details/photobooth-services-co-ltd-781913.aspx,2026-04-04
-Aves Shutter Photography,Photography,"East Legon, Accra, Ghana",,,,,https://www.findglocal.com/GH/Accra/1830111550591340/Aves-Shutter,2026-04-04
-Vislyy Photography,Photography,"East Legon, Accra, Ghana",,,https://www.vislyy.com,,https://www.vislyy.com/,2026-04-04
-Purpose Photography & Arts,Photography,"Legon, Accra, Ghana",,,,,https://www.facebook.com/purpose.creationsgh/,2026-04-04
-aboya8 Creative Studio,Photography,"Nii Kwei Mensah Street, East Legon, Accra, Ghana",,,https://aboya8.com,info@aboya8.com,https://aboya8.com/contact/,2026-04-04
-Vome Studio,Photography,"Greater Accra Region, Ghana",+233 55 731 0577,,,,,https://www.africabizinfo.com/GH/vome-studio-055-731-0577
-Photogenic Ghana,Photography,"A&C Mall, East Legon, Accra, Ghana",,,,,https://www.instagram.com/fotogenic_ghana/,2026-04-04
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Photobooth Services Co. Ltd,Photography,"A&C Shopping Mall, East Legon, Accra, Ghana",East-Legon,,,,,https://www.yellowpages.com.gh/Company-Details/photobooth-services-co-ltd-781913.aspx,,N/A,2026-04-04
+Aves Shutter Photography,Photography,"East Legon, Accra, Ghana",East-Legon,,,,,https://www.findglocal.com/GH/Accra/1830111550591340/Aves-Shutter,,N/A,2026-04-04
+Vislyy Photography,Photography,"East Legon, Accra, Ghana",East-Legon,,,https://www.vislyy.com,,https://www.vislyy.com/,info@vislyy.com,Pattern Generated,2026-04-04
+Purpose Photography & Arts,Photography,"Legon, Accra, Ghana",East-Legon,,,,,https://www.facebook.com/purpose.creationsgh/,,N/A,2026-04-04
+aboya8 Creative Studio,Photography,"Nii Kwei Mensah Street, East Legon, Accra, Ghana",East-Legon,,,https://aboya8.com,,https://aboya8.com/contact/,info@aboya8.com,Pending Validation,2026-04-04
+Vome Studio,Photography,"Greater Accra Region, Ghana",East-Legon,+233 55 731 0577,+233 55 731 0577,,,,,N/A,https://www.africabizinfo.com/GH/vome-studio-055-731-0577
+Photogenic Ghana,Photography,"A&C Mall, East Legon, Accra, Ghana",East-Legon,,,,,https://www.instagram.com/fotogenic_ghana/,,N/A,2026-04-04

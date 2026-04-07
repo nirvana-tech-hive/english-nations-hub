@@ -1,5 +1,5 @@
-business_name,niche,address,phone,whatsapp,website,email,source_url,date_collected
-Home World Building Supplies,A&C Corner East Legon Accra,+233205155676,+233205155676,https://www.facebook.com/homeworldghana,,https://search.yahoo.com,2026-04-05
-A F Electricals,1st Mensah Wood St East Legon Accra,,,,,https://search.yahoo.com,2026-04-05
-OFLA TRADING,East Legon Hills Greater Accra,,,https://www.hardware1000.com,,https://search.yahoo.com,2026-04-05
-Intact Ghana,East Legon Accra,,,https://www.intactghana.com,,https://search.yahoo.com,2026-04-05
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Home World Building Supplies,A&C Corner East Legon Accra,+233205155676,East-Legon,+233205155676,https://www.facebook.com/homeworldghana,,,2026-04-05,,N/A,2026-04-07
+A F Electricals,1st Mensah Wood St East Legon Accra,,East-Legon,,,,,2026-04-05,,N/A,2026-04-07
+OFLA TRADING,East Legon Hills Greater Accra,,East-Legon,,https://www.hardware1000.com,,,2026-04-05,,N/A,2026-04-07
+Intact Ghana,East Legon Accra,,East-Legon,,https://www.intactghana.com,,,2026-04-05,,N/A,2026-04-07
