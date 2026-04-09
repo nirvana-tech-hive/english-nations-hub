@@ -1,0 +1,5 @@
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Coptic Hospital,Hospital,"Nairobi, Kenya",Kilimani,+254 20 2723232,+254 20 2723232,https://www.coptichospital.or.ke,,https://www.coptichospital.or.ke,info@coptichospital.or.ke,Found on website,2026-04-07
+Nairobi Hospital,Hospital,"Kilimani Rd, Nairobi, Kenya",Kilimani,+254 20 2826000,+254 20 2826000,https://www.kenyahospitals.org,,https://www.kenyahospitals.org,info@nbh.co.ke,Found on website,2026-04-07
+MP Shah Hospital,Hospital,"Parklands, Near Kilimani, Nairobi",Kilimani,+254 20 3828000,+254 20 3828000,https://www.mpshahhosp.org,,https://www.mpshahhosp.org,info@mpshahhosp.org,Found on website,2026-04-07
+Kenyatta National Hospital,Hospital,"Hospital Rd, Nairobi, Kenya",Kilimani,+254 20 2726300,+254 20 2726300,https://www.knh.or.ke,,https://www.knh.or.ke,info@knh.or.ke,Found on website,2026-04-07

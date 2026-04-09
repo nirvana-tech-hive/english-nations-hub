@@ -1,0 +1,5 @@
+site:linkedin.com/in "software engineer" Nairobi Kenya
+site:linkedin.com/in "CEO" OR "Founder" Nairobi Kenya
+site:linkedin.com/in "marketing" Nairobi Kenya
+site:linkedin.com/in "CTO" Nairobi Kenya
+site:linkedin.com/in "developer" Nairobi Kenya
