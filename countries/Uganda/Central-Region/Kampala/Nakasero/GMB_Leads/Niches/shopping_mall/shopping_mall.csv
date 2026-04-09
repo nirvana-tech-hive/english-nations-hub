@@ -1,0 +1,4 @@
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Acacia Mall,Shopping Mall,"Kisementi, Kampala, Uganda",Nakasero,+256 414 690300,Yes (+256 414 690300),https://www.acaciamall.co.ug,,https://www.google.com/maps/place/Acacia+Mall,info@acaciamall.co.ug,Found on website,2025-06-15
+Garden City Mall,Shopping Mall,"Kampala Road, Kampala, Uganda",Nakasero,+256 414 259900,Yes (+256 414 259900),https://www.gardencity.co.ug,,https://www.google.com/maps/place/Garden+City+Mall,info@gardencity.co.ug,Found on website,2025-06-15
+Victoria Mall Kampala,Shopping Mall,"Entebbe Road, Kampala, Uganda",Nakasero,+256 414 343530,Yes (+256 414 343530),https://www.victoriamall.ug,,https://www.google.com/maps/place/Victoria+Mall,info@victoriamall.ug,Pattern Generated,2025-06-15

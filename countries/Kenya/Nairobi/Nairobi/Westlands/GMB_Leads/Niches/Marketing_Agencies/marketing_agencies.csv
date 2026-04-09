@@ -1,4 +1,4 @@
 business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
-Scangroup,Marketing Agency,"Scangroup Centre, Chiromo Rd, Westlands",Westlands,+254 20 3879000,+254 20 3879000,https://www.scangroup.com,,https://www.scangroup.com,info@scangroup.com,Found on website,2026-04-07
-Ogilvy Africa Nairobi,Marketing Agency,"Nairobi, Kenya",Westlands,+254 20 3862000,+254 20 3862000,https://www.ogilvy.com,,https://www.ogilvy.com,info@ogilvy.com,Pattern Generated,2026-04-07
-Gospel Creatives,Marketing Agency,"Westlands, Nairobi, Kenya",Westlands,+254 722 300300,+254 722 300300,https://www.gospelcreatives.co.ke,,https://www.gospelcreatives.co.ke,info@gospelcreatives.co.ke,Pattern Generated,2026-04-07
+Scangroup,Marketing Agency,"Scangroup Centre, Chiromo Rd, Westlands",Westlands,+254 20 3879000,+254 20 3879000,https://www.scangroup.com,,https://www.scangroup.com,info@scangroup.com,valid_mx,2026-04-07
+Ogilvy Africa Nairobi,Marketing Agency,"Nairobi, Kenya",Westlands,+254 20 3862000,+254 20 3862000,https://www.ogilvy.com,,https://www.ogilvy.com,info@ogilvy.com,valid_mx,2026-04-07
+Gospel Creatives,Marketing Agency,"Westlands, Nairobi, Kenya",Westlands,+254 722 300300,+254 722 300300,https://www.gospelcreatives.co.ke,,https://www.gospelcreatives.co.ke,info@gospelcreatives.co.ke,invalid_no_mx,2026-04-07

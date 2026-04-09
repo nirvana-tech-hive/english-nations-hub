@@ -1,4 +1,4 @@
-business_name,business_niche,address,city_area,phone_number,whatsapp,website,email,date_collected
-St Stithians College,School / Private,"36 Fourways Blvd, Sandton",Sandton,+27 11 577 6000,+27 11 577 6000,https://www.stithian.com,admissions@stithian.com,2025-07-08
-Redhill School,School / Private,"20 Frank St, Sandton",Sandton,+27 11 023 5300,+27 11 023 5300,https://www.redhill.co.za,,2025-07-08
-Dainfern College,School / Private,"Dainfern College Dr, Fourways, Sandton",Sandton,+27 11 539 0200,+27 11 539 0200,https://www.dainferncollege.co.za,,2025-07-08
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,email,date_collected,email_validation_status
+St Stithians College,School / Private,"36 Fourways Blvd, Sandton",Sandton,+27 11 577 6000,+27 11 577 6000,https://www.stithian.com,admissions@stithian.com,2025-07-08,valid_mx
+Redhill School,School / Private,"20 Frank St, Sandton",Sandton,+27 11 023 5300,+27 11 023 5300,https://www.redhill.co.za,,2025-07-08,
+Dainfern College,School / Private,"Dainfern College Dr, Fourways, Sandton",Sandton,+27 11 539 0200,+27 11 539 0200,https://www.dainferncollege.co.za,,2025-07-08,

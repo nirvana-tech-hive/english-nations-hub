@@ -1,5 +1,5 @@
-business_name,business_niche,address,city_area,phone_number,whatsapp,website,email,date_collected
-V&A Waterfront,Shopping Mall / Tourism Hub,"Dock Rd, V&A Waterfront",VA-Waterfront,+27 21 408 7600,+27 21 408 7600,https://www.waterfront.co.za,info@waterfront.co.za,2025-07-08
-Victoria Wharf Shopping Centre,Shopping Mall / Retail,"V&A Waterfront",VA-Waterfront,+27 21 408 7600,+27 21 408 7600,https://www.victoriawharf.co.za,,2025-07-08
-Watershed Design Market,Shopping / Craft Market,"Dock Rd, V&A Waterfront",VA-Waterfront,+27 21 408 7840,+27 21 408 7840,https://www.watershed.co.za,,2025-07-08
-V&A Food Market,Food Market,"V&A Waterfront",VA-Waterfront,+27 21 408 7600,+27 21 408 7600,https://www.waterfront.co.za/food-market,,2025-07-08
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,email,date_collected,email_validation_status
+V&A Waterfront,Shopping Mall / Tourism Hub,"Dock Rd, V&A Waterfront",VA-Waterfront,+27 21 408 7600,+27 21 408 7600,https://www.waterfront.co.za,info@waterfront.co.za,2025-07-08,valid_mx
+Victoria Wharf Shopping Centre,Shopping Mall / Retail,V&A Waterfront,VA-Waterfront,+27 21 408 7600,+27 21 408 7600,https://www.victoriawharf.co.za,,2025-07-08,
+Watershed Design Market,Shopping / Craft Market,"Dock Rd, V&A Waterfront",VA-Waterfront,+27 21 408 7840,+27 21 408 7840,https://www.watershed.co.za,,2025-07-08,
+V&A Food Market,Food Market,V&A Waterfront,VA-Waterfront,+27 21 408 7600,+27 21 408 7600,https://www.waterfront.co.za/food-market,,2025-07-08,

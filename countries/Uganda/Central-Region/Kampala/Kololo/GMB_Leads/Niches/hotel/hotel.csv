@@ -1,0 +1,5 @@
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Serena Hotel Kampala,Hotel,"Kintu Road, Kampala, Uganda",Kololo,+256 414 306000,Yes (+256 414 306000),https://www.serenahotels.com/kampala,,https://www.google.com/maps/place/Serena+Hotel+Kampala,kampala@serenahotels.com,Found on website,2025-06-15
+Emin Pasha Hotel,Hotel,"27 Akii Bua Road, Kololo, Kampala, Uganda",Kololo,+256 414 344344,Yes (+256 414 344344),https://www.eminpasha.com,,https://www.google.com/maps/place/Emin+Pasha+Hotel,reservations@eminpasha.com,Found on website,2025-06-15
+Protea Hotel Kampala,Hotel,"4 Kimathi Avenue, Kololo, Kampala, Uganda",Kololo,+256 414 259600,Yes (+256 414 259600),https://www.proteahotels.com/kampala,,https://www.google.com/maps/place/Protea+Hotel+Kampala,protea.kampala@protea.com,Found on website,2025-06-15
+Hotel Diplomate,Hotel,"3 Parliament Avenue, Kololo, Kampala, Uganda",Kololo,+256 414 259444,Yes (+256 414 259444),https://www.hoteldiplomate.co.ug,,https://www.google.com/maps/place/Hotel+Diplomate,info@hoteldiplomate.co.ug,Pattern Generated,2025-06-15

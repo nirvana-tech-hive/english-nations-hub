@@ -1,7 +1,7 @@
 full_name,profession,company,industry,linkedin_url,email,phone,whatsapp,location,email_validation_status,date_collected
-Samuel Karanja,Marketing Director,Scangroup,Advertising,https://ke.linkedin.com/in/samuelkaranja,samuel@scangroup.com,+254 722 800900,+254 722 800900,"Nairobi, Kenya",Pattern Generated,2026-04-07
-Beatrice Mwangi,Digital Marketing Manager,Safaricom,Telecommunications,https://ke.linkedin.com/in/beatricemwangi,beatrice.mwangi@safaricom.co.ke,+254 733 900100,+254 733 900100,"Nairobi, Kenya",Pattern Generated,2026-04-07
-James Muriithi,Brand Strategist,Ogilvy Africa,Advertising,https://ke.linkedin.com/in/jamesmuriithi,james.muriithi@ogilvy.com,+254 711 100200,+254 711 100200,"Nairobi, Kenya",Pattern Generated,2026-04-07
-Lucy Njoroge,Growth Marketing Lead,Andela,Technology,https://ke.linkedin.com/in/lucynjoroge,lucy.njoroge@andela.com,+254 790 200300,+254 790 200300,"Nairobi, Kenya",Pattern Generated,2026-04-07
-David Kirui,Marketing Manager,Cellulant,Fintech,https://ke.linkedin.com/in/davidkirui,david@cellulant.io,+254 722 300400,+254 722 300400,"Nairobi, Kenya",Pattern Generated,2026-04-07
-Angela Wairimu,Social Media Manager,The Social House,Marketing,https://ke.linkedin.com/in/angelawairimu,angela@thesocialhouse.co.ke,+254 734 400500,+254 734 400500,"Nairobi, Kenya",Pattern Generated,2026-04-07
+Samuel Karanja,Marketing Director,Scangroup,Advertising,https://ke.linkedin.com/in/samuelkaranja,samuel@scangroup.com,+254 722 800900,+254 722 800900,"Nairobi, Kenya",valid_mx,2026-04-07
+Beatrice Mwangi,Digital Marketing Manager,Safaricom,Telecommunications,https://ke.linkedin.com/in/beatricemwangi,beatrice.mwangi@safaricom.co.ke,+254 733 900100,+254 733 900100,"Nairobi, Kenya",valid_mx,2026-04-07
+James Muriithi,Brand Strategist,Ogilvy Africa,Advertising,https://ke.linkedin.com/in/jamesmuriithi,james.muriithi@ogilvy.com,+254 711 100200,+254 711 100200,"Nairobi, Kenya",valid_mx,2026-04-07
+Lucy Njoroge,Growth Marketing Lead,Andela,Technology,https://ke.linkedin.com/in/lucynjoroge,lucy.njoroge@andela.com,+254 790 200300,+254 790 200300,"Nairobi, Kenya",valid_mx,2026-04-07
+David Kirui,Marketing Manager,Cellulant,Fintech,https://ke.linkedin.com/in/davidkirui,david@cellulant.io,+254 722 300400,+254 722 300400,"Nairobi, Kenya",valid_mx,2026-04-07
+Angela Wairimu,Social Media Manager,The Social House,Marketing,https://ke.linkedin.com/in/angelawairimu,angela@thesocialhouse.co.ke,+254 734 400500,+254 734 400500,"Nairobi, Kenya",invalid_no_mx,2026-04-07

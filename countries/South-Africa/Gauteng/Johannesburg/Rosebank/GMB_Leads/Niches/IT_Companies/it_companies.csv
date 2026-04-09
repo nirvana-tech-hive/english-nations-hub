@@ -1,4 +1,4 @@
-business_name,business_niche,address,city_area,phone_number,whatsapp,website,email,date_collected
-Liquid Intelligent Technologies,IT Company / Technology,"102 Rivonia Rd, Sandton",Rosebank,+27 11 205 9000,+27 11 205 9000,https://www.liquid.tech,info@liquid.tech,2025-07-08
-BCX (Pty) Ltd,IT Company / Technology,"22 Sandton Dr, Sandton",Rosebank,+27 11 233 0000,+27 11 233 0000,https://www.bcx.co.za,,2025-07-08
-Afrihost,IT Company / Technology,"The Campus, 57 Sloane St, Bryanston",Rosebank,+27 11 612 7200,+27 11 612 7200,https://www.afrihost.com,,2025-07-08
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,email,date_collected,email_validation_status
+Liquid Intelligent Technologies,IT Company / Technology,"102 Rivonia Rd, Sandton",Rosebank,+27 11 205 9000,+27 11 205 9000,https://www.liquid.tech,info@liquid.tech,2025-07-08,valid_mx
+BCX (Pty) Ltd,IT Company / Technology,"22 Sandton Dr, Sandton",Rosebank,+27 11 233 0000,+27 11 233 0000,https://www.bcx.co.za,,2025-07-08,
+Afrihost,IT Company / Technology,"The Campus, 57 Sloane St, Bryanston",Rosebank,+27 11 612 7200,+27 11 612 7200,https://www.afrihost.com,,2025-07-08,

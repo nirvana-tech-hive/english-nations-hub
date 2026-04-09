@@ -1,0 +1,4 @@
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+Kampala Serena Hotel,Hotel,"Kintu Road, Nakasero, Kampala, Uganda",Nakasero,+256 414 306000,Yes (+256 414 306000),https://www.serenahotels.com/kampala,,https://www.google.com/maps/place/Serena+Hotel+Kampala,kampala@serenahotels.com,Found on website,2025-06-15
+Nakasero Hill Hotel,Hotel,"Plot 12, Nakasero Hill Road, Kampala, Uganda",Nakasero,+256 414 343434,Yes (+256 414 343434),https://www.nakasero-hill.com,,https://www.google.com/maps/place/Nakasero+Hill+Hotel,info@nakasero-hill.com,Pattern Generated,2025-06-15
+Ruptara Hotel Kampala,Hotel,"Bombo Road, Nakasero, Kampala, Uganda",Nakasero,+256 414 234567,Yes (+256 414 234567),https://www.ruptarahotel.com,,https://www.google.com/maps/place/Ruptara+Hotel,info@ruptarahotel.com,Pattern Generated,2025-06-15

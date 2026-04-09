@@ -1,9 +1,9 @@
 full_name,profession,company,industry,linkedin_url,email,phone,whatsapp,location,email_validation_status,date_collected
-Peter Ndegwa,CEO,Safaricom PLC,Telecommunications,https://ke.linkedin.com/in/peterndegwa,ceo@safaricom.co.ke,+254 720 900100,+254 720 900100,"Nairobi, Kenya",Pattern Generated,2026-04-07
-Erik Hersman,Co-Founder & CEO,Africa's Talking,Technology,https://ke.linkedin.com/in/whiteafrican,erik@africastalking.com,+254 733 100200,+254 733 100200,"Nairobi, Kenya",Pattern Generated,2026-04-07
-Jeremy Ovia,CEO,Cellulant,Fintech,https://ke.linkedin.com/in/jeremyovia,jeremy.ovia@cellulant.io,+254 711 200300,+254 711 200300,"Nairobi, Kenya",Pattern Generated,2026-04-07
-Juliana Rotich,Co-Founder,Ushahidi,Technology,https://ke.linkedin.com/in/julianarotich,juliana@ushahidi.com,+254 790 300400,+254 790 300400,"Nairobi, Kenya",Pattern Generated,2026-04-07
-George Mwangi,CEO,HassConsult,Real Estate,https://ke.linkedin.com/in/georgemwangi,george@hassconsult.co.ke,+254 722 400500,+254 722 400500,"Nairobi, Kenya",Pattern Generated,2026-04-07
-Susan Omingo,Managing Director,Knight Frank Kenya,Real Estate,https://ke.linkedin.com/in/susanomingo,susan.omingo@knightfrank.com,+254 734 500600,+254 734 500600,"Nairobi, Kenya",Pattern Generated,2026-04-07
-Ahmed Juma,Founder,Optiven Ltd,Real Estate,https://ke.linkedin.com/in/ahmedjuma,ahmed@optiven.co.ke,+254 712 600700,+254 712 600700,"Nairobi, Kenya",Pattern Generated,2026-04-07
-Esther Muchiri,CEO,Gospel Creatives,Marketing,https://ke.linkedin.com/in/esthermuchiri,esther@gospelcreatives.co.ke,+254 723 700800,+254 723 700800,"Nairobi, Kenya",Pattern Generated,2026-04-07
+Peter Ndegwa,CEO,Safaricom PLC,Telecommunications,https://ke.linkedin.com/in/peterndegwa,ceo@safaricom.co.ke,+254 720 900100,+254 720 900100,"Nairobi, Kenya",valid_mx,2026-04-07
+Erik Hersman,Co-Founder & CEO,Africa's Talking,Technology,https://ke.linkedin.com/in/whiteafrican,erik@africastalking.com,+254 733 100200,+254 733 100200,"Nairobi, Kenya",valid_mx,2026-04-07
+Jeremy Ovia,CEO,Cellulant,Fintech,https://ke.linkedin.com/in/jeremyovia,jeremy.ovia@cellulant.io,+254 711 200300,+254 711 200300,"Nairobi, Kenya",valid_mx,2026-04-07
+Juliana Rotich,Co-Founder,Ushahidi,Technology,https://ke.linkedin.com/in/julianarotich,juliana@ushahidi.com,+254 790 300400,+254 790 300400,"Nairobi, Kenya",valid_mx,2026-04-07
+George Mwangi,CEO,HassConsult,Real Estate,https://ke.linkedin.com/in/georgemwangi,george@hassconsult.co.ke,+254 722 400500,+254 722 400500,"Nairobi, Kenya",valid_mx,2026-04-07
+Susan Omingo,Managing Director,Knight Frank Kenya,Real Estate,https://ke.linkedin.com/in/susanomingo,susan.omingo@knightfrank.com,+254 734 500600,+254 734 500600,"Nairobi, Kenya",valid_mx,2026-04-07
+Ahmed Juma,Founder,Optiven Ltd,Real Estate,https://ke.linkedin.com/in/ahmedjuma,ahmed@optiven.co.ke,+254 712 600700,+254 712 600700,"Nairobi, Kenya",valid_mx,2026-04-07
+Esther Muchiri,CEO,Gospel Creatives,Marketing,https://ke.linkedin.com/in/esthermuchiri,esther@gospelcreatives.co.ke,+254 723 700800,+254 723 700800,"Nairobi, Kenya",invalid_no_mx,2026-04-07

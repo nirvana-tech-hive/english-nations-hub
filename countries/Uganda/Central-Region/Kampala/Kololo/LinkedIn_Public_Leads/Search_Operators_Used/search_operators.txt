@@ -1,0 +1,6 @@
+site:linkedin.com/in "CEO" Kampala Uganda
+site:linkedin.com/in "founder" Kampala Uganda
+site:linkedin.com/in "managing director" Uganda
+site:linkedin.com/in "software engineer" Uganda
+site:linkedin.com/in "marketing" Kampala Uganda
+site:linkedin.com/in "CTO" Kampala Uganda

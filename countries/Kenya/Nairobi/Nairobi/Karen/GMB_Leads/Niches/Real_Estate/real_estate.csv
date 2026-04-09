@@ -1,4 +1,4 @@
 business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
-Karen Real Estate Ltd,Real Estate,"Karen, Nairobi, Kenya",Karen,+254 20 8826544,+254 20 8826544,https://www.karenrealestate.co.ke,,https://www.karenrealestate.co.ke,info@karenrealestate.co.ke,Pattern Generated,2026-04-07
-Optiven Ltd,Real Estate,"Karen, Nairobi, Kenya",Karen,+254 20 8826800,+254 20 8826800,https://www.optiven.co.ke,,https://www.optiven.co.ke,info@optiven.co.ke,Found on website,2026-04-07
-Pam Golding Properties Kenya,Real Estate,"Karen, Nairobi, Kenya",Karen,+254 20 8825080,+254 20 8825080,https://www.pamgolding.co.ke,,https://www.pamgolding.co.ke,info@pamgolding.co.ke,Found on website,2026-04-07
+Karen Real Estate Ltd,Real Estate,"Karen, Nairobi, Kenya",Karen,+254 20 8826544,+254 20 8826544,https://www.karenrealestate.co.ke,,https://www.karenrealestate.co.ke,info@karenrealestate.co.ke,invalid_no_mx,2026-04-07
+Optiven Ltd,Real Estate,"Karen, Nairobi, Kenya",Karen,+254 20 8826800,+254 20 8826800,https://www.optiven.co.ke,,https://www.optiven.co.ke,info@optiven.co.ke,valid_mx,2026-04-07
+Pam Golding Properties Kenya,Real Estate,"Karen, Nairobi, Kenya",Karen,+254 20 8825080,+254 20 8825080,https://www.pamgolding.co.ke,,https://www.pamgolding.co.ke,info@pamgolding.co.ke,valid_mx,2026-04-07

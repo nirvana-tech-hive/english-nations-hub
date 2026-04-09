@@ -1,6 +1,6 @@
-business_name,business_niche,address,city_area,phone_number,whatsapp,website,email,date_collected
-Willoughby & Co,Restaurant / Seafood,"Breakwater Dock Rd, V&A Waterfront",VA-Waterfront,+27 21 419 7540,+27 21 419 7540,https://www.willoughbyandco.co.za,info@willoughbyandco.co.za,2025-07-08
-Baia Restaurant,Restaurant / Seafood,"Breakwater Dock Rd, V&A Waterfront",VA-Waterfront,+27 21 421 1938,+27 21 421 1938,https://www.baiarestaurant.co.za,info@baiarestaurant.co.za,2025-07-08
-Sevruga Restaurant,Restaurant / Seafood,"Dock Rd, V&A Waterfront",VA-Waterfront,+27 21 421 3265,+27 21 421 3265,https://www.sevruga.co.za,info@sevruga.co.za,2025-07-08
-Gold Restaurant,Restaurant / African Cuisine,"13 Dock Rd, V&A Waterfront",VA-Waterfront,+27 21 421 4600,+27 21 421 4600,https://www.goldrestaurant.co.za,info@goldrestaurant.co.za,2025-07-08
-Nobu Cape Town,Restaurant / Japanese,"The Silo Hotel, V&A Waterfront",VA-Waterfront,+27 21 671 6100,+27 21 671 6100,https://www.noburestaurants.com/cape-town,,2025-07-08
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,email,date_collected,email_validation_status
+Willoughby & Co,Restaurant / Seafood,"Breakwater Dock Rd, V&A Waterfront",VA-Waterfront,+27 21 419 7540,+27 21 419 7540,https://www.willoughbyandco.co.za,info@willoughbyandco.co.za,2025-07-08,valid_mx
+Baia Restaurant,Restaurant / Seafood,"Breakwater Dock Rd, V&A Waterfront",VA-Waterfront,+27 21 421 1938,+27 21 421 1938,https://www.baiarestaurant.co.za,info@baiarestaurant.co.za,2025-07-08,valid_mx
+Sevruga Restaurant,Restaurant / Seafood,"Dock Rd, V&A Waterfront",VA-Waterfront,+27 21 421 3265,+27 21 421 3265,https://www.sevruga.co.za,info@sevruga.co.za,2025-07-08,valid_mx
+Gold Restaurant,Restaurant / African Cuisine,"13 Dock Rd, V&A Waterfront",VA-Waterfront,+27 21 421 4600,+27 21 421 4600,https://www.goldrestaurant.co.za,info@goldrestaurant.co.za,2025-07-08,valid_mx
+Nobu Cape Town,Restaurant / Japanese,"The Silo Hotel, V&A Waterfront",VA-Waterfront,+27 21 671 6100,+27 21 671 6100,https://www.noburestaurants.com/cape-town,,2025-07-08,

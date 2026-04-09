@@ -1,0 +1,14 @@
+# LinkedIn Search Operators - Kijitonyama, Dar es Salaam, Tanzania
+# Collected: 2025-06-20
+
+site:linkedin.com/in "Dar es Salaam" AND ("CEO" OR "Managing Director" OR "Director")
+site:linkedin.com/in "Dar es Salaam" AND "Kijitonyama"
+site:linkedin.com/in "Dar es Salaam" AND ("Manager" OR "Head of")
+site:linkedin.com/in "Tanzania" AND ("Software Engineer" OR "CTO" OR "IT Director")
+site:linkedin.com/in "Dar es Salaam" AND ("Real Estate" OR "Property")
+site:linkedin.com/in "Dar es Salaam" AND ("Marketing" OR "Digital Marketing")
+site:linkedin.com/in "Dar es Salaam" AND ("Hospitality" OR "Hotel Manager")
+site:linkedin.com/in "Tanzania" AND ("Banking" OR "Finance Manager")
+site:linkedin.com/in "Dar es Salaam" AND ("Tourism" OR "Safari")
+site:linkedin.com/in "Dar es Salaam" AND ("Education" OR "Principal")
+site:linkedin.com/in "Tanzania" AND ("Entrepreneur" OR "Founder" OR "Startup")

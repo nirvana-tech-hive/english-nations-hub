@@ -1,4 +1,4 @@
-business_name,business_niche,address,city_area,phone_number,whatsapp,website,email,date_collected
-Cape Town Tourism,Tourism / Information,"Breakwater Precinct, V&A Waterfront",VA-Waterfront,+27 21 487 6800,+27 21 487 6800,https://www.capetown.travel,info@capetown.travel,2025-07-08
-Robben Island Museum,Tourism / Heritage,"V&A Waterfront (Departure)",VA-Waterfront,+27 21 413 4200,+27 21 413 4200,https://www.robben-island.org.za,,2025-07-08
-Two Oceans Aquarium,Tourism / Attraction,"Dock Rd, V&A Waterfront",VA-Waterfront,+27 21 418 3823,+27 21 418 3823,https://www.aquarium.co.za,info@aquarium.co.za,2025-07-08
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,email,date_collected,email_validation_status
+Cape Town Tourism,Tourism / Information,"Breakwater Precinct, V&A Waterfront",VA-Waterfront,+27 21 487 6800,+27 21 487 6800,https://www.capetown.travel,info@capetown.travel,2025-07-08,valid_mx
+Robben Island Museum,Tourism / Heritage,V&A Waterfront (Departure),VA-Waterfront,+27 21 413 4200,+27 21 413 4200,https://www.robben-island.org.za,,2025-07-08,
+Two Oceans Aquarium,Tourism / Attraction,"Dock Rd, V&A Waterfront",VA-Waterfront,+27 21 418 3823,+27 21 418 3823,https://www.aquarium.co.za,info@aquarium.co.za,2025-07-08,valid_mx

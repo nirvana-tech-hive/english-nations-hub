@@ -1,2 +1,2 @@
-business_name,business_niche,address,city_area,phone_number,whatsapp,website,email,date_collected
-V&A Waterfront Spa,Spa / Wellness,"V&A Waterfront Centre",VA-Waterfront,+27 21 418 3888,+27 21 418 3888,https://www.waterfrontspa.co.za,info@waterfrontspa.co.za,2025-07-08
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,email,date_collected,email_validation_status
+V&A Waterfront Spa,Spa / Wellness,V&A Waterfront Centre,VA-Waterfront,+27 21 418 3888,+27 21 418 3888,https://www.waterfrontspa.co.za,info@waterfrontspa.co.za,2025-07-08,invalid_no_mx

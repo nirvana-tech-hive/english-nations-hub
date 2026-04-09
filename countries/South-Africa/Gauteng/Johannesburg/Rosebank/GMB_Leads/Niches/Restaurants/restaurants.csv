@@ -1,7 +1,7 @@
-business_name,business_niche,address,city_area,phone_number,whatsapp,website,email,date_collected
-The Grillhouse Rosebank,Restaurant / Fine Dining,"The Firs, Cradock Ave, Rosebank",Rosebank,+27 11 784 5507,+27 11 784 5507,https://www.thegrillhouse.co.za,info@thegrillhouse.co.za,2025-07-08
-Tashas Rosebank,Restaurant / Cafe,"The Firs, Cradock Ave, Rosebank",Rosebank,+27 11 447 2178,+27 11 447 2178,https://tashas.co.za,info@tashas.co.za,2025-07-08
-Hugo's Restaurant,Restaurant / Fine Dining,"Hyatt Regency, 191 Oxford Rd, Rosebank",Rosebank,+27 11 326 9600,+27 11 326 9600,https://www.hyatt.com,johannesburg.regency@hyatt.com,2025-07-08
-4th Avenue Wine & Coffee,Restaurant / Cafe,"4th Ave, Parkhurst, Rosebank",Rosebank,+27 11 646 5699,+27 11 646 5699,https://www.4thavenue.co.za,info@4thavenue.co.za,2025-07-08
-Moyo Urban Zoo Lake,Restaurant / African Cuisine,"Zoo Lake, Jan Smuts Ave, Rosebank",Rosebank,+27 11 447 7262,+27 11 447 7262,https://www.moyo.co.za,,2025-07-08
-Piatto Restaurant,Restaurant / Italian,"The Firs, Cradock Ave, Rosebank",Rosebank,+27 11 447 5336,+27 11 447 5336,https://piattorestaurant.co.za,info@piattorestaurant.co.za,2025-07-08
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,email,date_collected,email_validation_status
+The Grillhouse Rosebank,Restaurant / Fine Dining,"The Firs, Cradock Ave, Rosebank",Rosebank,+27 11 784 5507,+27 11 784 5507,https://www.thegrillhouse.co.za,info@thegrillhouse.co.za,2025-07-08,valid_mx
+Tashas Rosebank,Restaurant / Cafe,"The Firs, Cradock Ave, Rosebank",Rosebank,+27 11 447 2178,+27 11 447 2178,https://tashas.co.za,info@tashas.co.za,2025-07-08,invalid_no_mx
+Hugo's Restaurant,Restaurant / Fine Dining,"Hyatt Regency, 191 Oxford Rd, Rosebank",Rosebank,+27 11 326 9600,+27 11 326 9600,https://www.hyatt.com,johannesburg.regency@hyatt.com,2025-07-08,valid_mx
+4th Avenue Wine & Coffee,Restaurant / Cafe,"4th Ave, Parkhurst, Rosebank",Rosebank,+27 11 646 5699,+27 11 646 5699,https://www.4thavenue.co.za,info@4thavenue.co.za,2025-07-08,valid_mx
+Moyo Urban Zoo Lake,Restaurant / African Cuisine,"Zoo Lake, Jan Smuts Ave, Rosebank",Rosebank,+27 11 447 7262,+27 11 447 7262,https://www.moyo.co.za,,2025-07-08,
+Piatto Restaurant,Restaurant / Italian,"The Firs, Cradock Ave, Rosebank",Rosebank,+27 11 447 5336,+27 11 447 5336,https://piattorestaurant.co.za,info@piattorestaurant.co.za,2025-07-08,invalid_no_mx

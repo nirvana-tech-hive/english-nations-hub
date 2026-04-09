@@ -1,4 +1,4 @@
 business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
-HassConsult Real Estate,Real Estate,"Lenana Rd, Kilimani, Nairobi",Kilimani,+254 20 3912000,+254 20 3912000,https://www.hassconsult.co.ke,,https://www.hassconsult.co.ke,info@hassconsult.co.ke,Found on website,2026-04-07
-Lloyd Masika Ltd,Real Estate,"Kilimani, Nairobi, Kenya",Kilimani,+254 20 2713399,+254 20 2713399,https://www.lloydmasika.com,,https://www.lloydmasika.com,info@lloydmasika.com,Found on website,2026-04-07
-Aspen Real Estate,Real Estate,"Kilimani, Nairobi, Kenya",Kilimani,+254 722 500100,+254 722 500100,https://www.aspenrealty.co.ke,,https://www.aspenrealty.co.ke,info@aspenrealty.co.ke,Pattern Generated,2026-04-07
+HassConsult Real Estate,Real Estate,"Lenana Rd, Kilimani, Nairobi",Kilimani,+254 20 3912000,+254 20 3912000,https://www.hassconsult.co.ke,,https://www.hassconsult.co.ke,info@hassconsult.co.ke,valid_mx,2026-04-07
+Lloyd Masika Ltd,Real Estate,"Kilimani, Nairobi, Kenya",Kilimani,+254 20 2713399,+254 20 2713399,https://www.lloydmasika.com,,https://www.lloydmasika.com,info@lloydmasika.com,valid_mx,2026-04-07
+Aspen Real Estate,Real Estate,"Kilimani, Nairobi, Kenya",Kilimani,+254 722 500100,+254 722 500100,https://www.aspenrealty.co.ke,,https://www.aspenrealty.co.ke,info@aspenrealty.co.ke,invalid_no_mx,2026-04-07

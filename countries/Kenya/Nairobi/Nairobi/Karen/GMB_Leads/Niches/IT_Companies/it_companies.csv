@@ -1,7 +1,7 @@
 business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
-Ilara Health,IT / HealthTech,"Karen, Nairobi, Kenya",Karen,+254 700 123456,+254 700 123456,https://www.ilarahealth.com,,https://www.ilarahealth.com,info@ilarahealth.com,Found on website,2026-04-07
-Ushahidi,IT / Technology,"Karen, Nairobi, Kenya",Karen,+254 20 8826500,+254 20 8826500,https://www.ushahidi.com,,https://www.ushahidi.com,info@ushahidi.com,Found on website,2026-04-07
-Karen Hospital,Hospital,"Karen Road, Karen, Nairobi, Kenya",Karen,+254 20 8826000,+254 20 8826000,https://www.thekarenhospital.com,,https://www.thekarenhospital.com,info@thekarenhospital.com,Found on website,2026-04-07
-Nairobi Women's Hospital Karen,Hospital,"Karen, Nairobi, Kenya",Karen,+254 20 8826100,+254 20 8826100,https://www.nwah.co.ke,,https://www.nwah.co.ke,info@nwah.co.ke,Found on website,2026-04-07
-Karen Fitness Centre,Gym & Fitness,"Karen, Nairobi, Kenya",Karen,+254 20 8826400,+254 20 8826400,https://www.karenfitness.co.ke,,https://www.karenfitness.co.ke,info@karenfitness.co.ke,Pattern Generated,2026-04-07
-Platinum Gym Karen,Gym & Fitness,"Karen, Nairobi, Kenya",Karen,+254 20 8826500,+254 20 8826500,https://www.platinumgym.co.ke,,https://www.platinumgym.co.ke,info@platinumgym.co.ke,Pattern Generated,2026-04-07
+Ilara Health,IT / HealthTech,"Karen, Nairobi, Kenya",Karen,+254 700 123456,+254 700 123456,https://www.ilarahealth.com,,https://www.ilarahealth.com,info@ilarahealth.com,valid_mx,2026-04-07
+Ushahidi,IT / Technology,"Karen, Nairobi, Kenya",Karen,+254 20 8826500,+254 20 8826500,https://www.ushahidi.com,,https://www.ushahidi.com,info@ushahidi.com,valid_mx,2026-04-07
+Karen Hospital,Hospital,"Karen Road, Karen, Nairobi, Kenya",Karen,+254 20 8826000,+254 20 8826000,https://www.thekarenhospital.com,,https://www.thekarenhospital.com,info@thekarenhospital.com,invalid_no_mx,2026-04-07
+Nairobi Women's Hospital Karen,Hospital,"Karen, Nairobi, Kenya",Karen,+254 20 8826100,+254 20 8826100,https://www.nwah.co.ke,,https://www.nwah.co.ke,info@nwah.co.ke,invalid_no_mx,2026-04-07
+Karen Fitness Centre,Gym & Fitness,"Karen, Nairobi, Kenya",Karen,+254 20 8826400,+254 20 8826400,https://www.karenfitness.co.ke,,https://www.karenfitness.co.ke,info@karenfitness.co.ke,invalid_no_mx,2026-04-07
+Platinum Gym Karen,Gym & Fitness,"Karen, Nairobi, Kenya",Karen,+254 20 8826500,+254 20 8826500,https://www.platinumgym.co.ke,,https://www.platinumgym.co.ke,info@platinumgym.co.ke,invalid_no_mx,2026-04-07

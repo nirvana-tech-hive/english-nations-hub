@@ -1,4 +1,4 @@
 business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
-Braeburn School Nairobi,School,"Gitanga Road, Nairobi, Kenya",Westlands,+254 20 3871100,+254 20 3871100,https://www.braeburn.com,,https://www.braeburn.com,admissions@braeburn.com,Found on website,2026-04-07
-International School of Kenya,School,"Kirawa Road, Nairobi, Kenya",Westlands,+254 20 2073300,+254 20 2073300,https://www.isk.ac.ke,,https://www.isk.ac.ke,admissions@isk.ac.ke,Found on website,2026-04-07
-Peponi School,School,"Peponi Road, Westlands, Nairobi",Westlands,+254 20 2675363,+254 20 2675363,https://www.peponischool.org,,https://www.peponischool.org,admissions@peponischool.org,Found on website,2026-04-07
+Braeburn School Nairobi,School,"Gitanga Road, Nairobi, Kenya",Westlands,+254 20 3871100,+254 20 3871100,https://www.braeburn.com,,https://www.braeburn.com,admissions@braeburn.com,valid_mx,2026-04-07
+International School of Kenya,School,"Kirawa Road, Nairobi, Kenya",Westlands,+254 20 2073300,+254 20 2073300,https://www.isk.ac.ke,,https://www.isk.ac.ke,admissions@isk.ac.ke,valid_mx,2026-04-07
+Peponi School,School,"Peponi Road, Westlands, Nairobi",Westlands,+254 20 2675363,+254 20 2675363,https://www.peponischool.org,,https://www.peponischool.org,admissions@peponischool.org,valid_mx,2026-04-07

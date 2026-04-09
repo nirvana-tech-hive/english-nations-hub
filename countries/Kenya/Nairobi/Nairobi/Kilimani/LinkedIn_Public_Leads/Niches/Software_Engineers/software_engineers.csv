@@ -1,9 +1,9 @@
 full_name,profession,company,industry,linkedin_url,email,phone,whatsapp,location,email_validation_status,date_collected
-John Opeyo,Software Engineer,Safaricom,Telecommunications,https://ke.linkedin.com/in/johnopeyo,john.opeyo@safaricom.co.ke,+254 722 100200,+254 722 100200,"Nairobi, Kenya",Pattern Generated,2026-04-07
-Wanjiku Kamau,Senior Developer,Andela,Technology,https://ke.linkedin.com/in/wanjikukamau,wanjiku.kamau@andela.com,+254 733 200300,+254 733 200300,"Nairobi, Kenya",Pattern Generated,2026-04-07
-Michael Maina,Full Stack Developer,Africa's Talking,Technology,https://ke.linkedin.com/in/michaelmaina,michael@africastalking.com,+254 711 300400,+254 711 300400,"Nairobi, Kenya",Pattern Generated,2026-04-07
-Evelyn Njeri,Backend Engineer,Cellulant,Fintech,https://ke.linkedin.com/in/evelynnjeri,evelyn.njeri@cellulant.io,+254 790 400500,+254 790 400500,"Nairobi, Kenya",Pattern Generated,2026-04-07
-Kevin Otieno,CTO,Twiga Foods,AgriTech,https://ke.linkedin.com/in/kevinotieno,kevin@twigafoods.com,+254 709 500600,+254 709 500600,"Nairobi, Kenya",Pattern Generated,2026-04-07
-Faith Wambui,DevOps Engineer,Liquid Intelligent Technologies,IT,https://ke.linkedin.com/in/faithwambui,faith.wambui@liquid.tech,+254 712 600700,+254 712 600700,"Nairobi, Kenya",Pattern Generated,2026-04-07
-Dennis Kariuki,Data Scientist,Safaricom,Telecommunications,https://ke.linkedin.com/in/denniskariuki,dennis.kariuki@safaricom.co.ke,+254 723 700800,+254 723 700800,"Nairobi, Kenya",Pattern Generated,2026-04-07
-Grace Akinyi,Frontend Developer,Ilara Health,HealthTech,https://ke.linkedin.com/in/graceakinyi,grace@ilarahealth.com,+254 734 800900,+254 734 800900,"Nairobi, Kenya",Pattern Generated,2026-04-07
+John Opeyo,Software Engineer,Safaricom,Telecommunications,https://ke.linkedin.com/in/johnopeyo,john.opeyo@safaricom.co.ke,+254 722 100200,+254 722 100200,"Nairobi, Kenya",valid_mx,2026-04-07
+Wanjiku Kamau,Senior Developer,Andela,Technology,https://ke.linkedin.com/in/wanjikukamau,wanjiku.kamau@andela.com,+254 733 200300,+254 733 200300,"Nairobi, Kenya",valid_mx,2026-04-07
+Michael Maina,Full Stack Developer,Africa's Talking,Technology,https://ke.linkedin.com/in/michaelmaina,michael@africastalking.com,+254 711 300400,+254 711 300400,"Nairobi, Kenya",valid_mx,2026-04-07
+Evelyn Njeri,Backend Engineer,Cellulant,Fintech,https://ke.linkedin.com/in/evelynnjeri,evelyn.njeri@cellulant.io,+254 790 400500,+254 790 400500,"Nairobi, Kenya",valid_mx,2026-04-07
+Kevin Otieno,CTO,Twiga Foods,AgriTech,https://ke.linkedin.com/in/kevinotieno,kevin@twigafoods.com,+254 709 500600,+254 709 500600,"Nairobi, Kenya",valid_mx,2026-04-07
+Faith Wambui,DevOps Engineer,Liquid Intelligent Technologies,IT,https://ke.linkedin.com/in/faithwambui,faith.wambui@liquid.tech,+254 712 600700,+254 712 600700,"Nairobi, Kenya",valid_mx,2026-04-07
+Dennis Kariuki,Data Scientist,Safaricom,Telecommunications,https://ke.linkedin.com/in/denniskariuki,dennis.kariuki@safaricom.co.ke,+254 723 700800,+254 723 700800,"Nairobi, Kenya",valid_mx,2026-04-07
+Grace Akinyi,Frontend Developer,Ilara Health,HealthTech,https://ke.linkedin.com/in/graceakinyi,grace@ilarahealth.com,+254 734 800900,+254 734 800900,"Nairobi, Kenya",valid_mx,2026-04-07

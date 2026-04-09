@@ -1,4 +1,4 @@
 business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
-Goodlife Pharmacy Kilimani,Pharmacy,"Kilimani, Nairobi, Kenya",Kilimani,+254 20 2723000,+254 20 2723000,https://www.goodlife.co.ke,,https://www.goodlife.co.ke,info@goodlife.co.ke,Found on website,2026-04-07
-Medplus Pharmacy Kilimani,Pharmacy,"Kilimani, Nairobi, Kenya",Kilimani,+254 700 300300,+254 700 300300,https://www.medplus.co.ke,,https://www.medplus.co.ke,info@medplus.co.ke,Pattern Generated,2026-04-07
-Healthplus Pharmacy Kilimani,Pharmacy,"Kilimani, Nairobi, Kenya",Kilimani,+254 722 300500,+254 722 300500,https://www.healthplus.co.ke,,https://www.healthplus.co.ke,info@healthplus.co.ke,Pattern Generated,2026-04-07
+Goodlife Pharmacy Kilimani,Pharmacy,"Kilimani, Nairobi, Kenya",Kilimani,+254 20 2723000,+254 20 2723000,https://www.goodlife.co.ke,,https://www.goodlife.co.ke,info@goodlife.co.ke,valid_mx,2026-04-07
+Medplus Pharmacy Kilimani,Pharmacy,"Kilimani, Nairobi, Kenya",Kilimani,+254 700 300300,+254 700 300300,https://www.medplus.co.ke,,https://www.medplus.co.ke,info@medplus.co.ke,valid_mx,2026-04-07
+Healthplus Pharmacy Kilimani,Pharmacy,"Kilimani, Nairobi, Kenya",Kilimani,+254 722 300500,+254 722 300500,https://www.healthplus.co.ke,,https://www.healthplus.co.ke,info@healthplus.co.ke,invalid_no_mx,2026-04-07

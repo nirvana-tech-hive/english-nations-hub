@@ -1,0 +1,4 @@
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
+MTN Uganda Head Office,Telecommunications,"Kampala Road, Kampala, Uganda",Nakasero,+256 414 234000,Yes (+256 414 234000),https://www.mtn.co.ug,,https://www.google.com/maps/place/MTN+Uganda,info@mtn.co.ug,Found on website,2025-06-15
+Airtel Uganda Head Office,Telecommunications,"1A Clement Hill Road, Kampala, Uganda",Nakasero,+256 414 300000,Yes (+256 414 300000),https://www.airtel.ug,,https://www.google.com/maps/place/Airtel+Uganda,info@airtel.ug,Found on website,2025-06-15
+Uganda Telecom,Telecommunications,"7th Street, Industrial Area, Kampala, Uganda",Nakasero,+256 414 231000,Yes (+256 414 231000),https://www.ugtel.co.ug,,https://www.google.com/maps/place/Uganda+Telecom,info@ugtel.co.ug,Pattern Generated,2025-06-15

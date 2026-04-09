@@ -1,5 +1,5 @@
 business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,google_maps_url,email,email_validation_status,date_collected
-Giraffe Manor,Hotel,"Giraffe Manor, Karen, Nairobi, Kenya",Karen,+254 20 8022252,+254 20 8022252,https://www.giraffemanor.com,,https://www.giraffemanor.com,reservations@giraffemanor.com,Found on website,2026-04-07
-Hemingways Nairobi,Hotel,"Karen Road, Karen, Nairobi, Kenya",Karen,+254 20 8952000,+254 20 8952000,https://www.hemingways-nairobi.com,,https://www.hemingways-nairobi.com,reservations@hemingways-nairobi.com,Found on website,2026-04-07
-Fairview Hotel Karen,Hotel,"Fairview Hotel, Karen, Nairobi",Karen,+254 20 3891000,+254 20 3891000,https://www.fairviewhotel.co.ke,,https://www.fairviewhotel.co.ke,info@fairviewhotel.co.ke,Found on website,2026-04-07
-Emakoko Lodge,Hotel,"Karen, Nairobi, Kenya",Karen,+254 20 8827000,+254 20 8827000,https://www.theemakoko.com,,https://www.theemakoko.com,reservations@theemakoko.com,Found on website,2026-04-07
+Giraffe Manor,Hotel,"Giraffe Manor, Karen, Nairobi, Kenya",Karen,+254 20 8022252,+254 20 8022252,https://www.giraffemanor.com,,https://www.giraffemanor.com,reservations@giraffemanor.com,valid_mx,2026-04-07
+Hemingways Nairobi,Hotel,"Karen Road, Karen, Nairobi, Kenya",Karen,+254 20 8952000,+254 20 8952000,https://www.hemingways-nairobi.com,,https://www.hemingways-nairobi.com,reservations@hemingways-nairobi.com,valid_a_record,2026-04-07
+Fairview Hotel Karen,Hotel,"Fairview Hotel, Karen, Nairobi",Karen,+254 20 3891000,+254 20 3891000,https://www.fairviewhotel.co.ke,,https://www.fairviewhotel.co.ke,info@fairviewhotel.co.ke,invalid_no_mx,2026-04-07
+Emakoko Lodge,Hotel,"Karen, Nairobi, Kenya",Karen,+254 20 8827000,+254 20 8827000,https://www.theemakoko.com,,https://www.theemakoko.com,reservations@theemakoko.com,valid_a_record,2026-04-07

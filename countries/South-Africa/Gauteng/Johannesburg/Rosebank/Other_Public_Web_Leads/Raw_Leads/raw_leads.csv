@@ -1,8 +1,8 @@
-business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,email,date_collected
-The Zone @ Rosebank,Shopping Mall / Retail,"37 Wierda Rd, Sandton",Rosebank,+27 11 883 0635,+27 11 883 0635,https://www.thezonesa.co.za,https://www.instagram.com/thezonesa/,Not Available,2025-07-08
-The Firs Shopping Centre,Shopping Mall / Retail,"Cradock Ave, Rosebank",Rosebank,+27 11 442 8426,+27 11 442 8426,https://www.thefirs.co.za,Not Available,Not Available,2025-07-08
-Rosebank Mall,Shopping Mall / Retail,"Baker St, Rosebank",Rosebank,+27 11 447 7275,+27 11 447 7275,https://www.rosebankmall.co.za,https://www.instagram.com/rosebankmall/,Not Available,2025-07-08
-Glenhove Conference Centre,Venue / Conferencing,"38 Glenhove Rd, Melrose, Rosebank",Rosebank,+27 11 442 8700,+27 11 442 8700,https://www.glenhove.co.za,Not Available,info@glenhove.co.za,2025-07-08
-Alexander Forbes Head Office,Financial Services / Insurance,"Sandton City, Rivonia Rd",Rosebank,+27 11 569 2000,+27 11 569 2000,https://www.alexanderforbes.com,https://www.linkedin.com/company/alexander-forbes/,Not Available,2025-07-08
-Sanlam Head Office,Financial Services / Insurance,"2 Strand St, Bellville",Rosebank,+27 21 947 9111,+27 21 947 9111,https://www.sanlam.co.za,https://www.instagram.com/sanlam/,Not Available,2025-07-08
-Momentum Head Office,Financial Services / Insurance,"Sam Nujoma Dr, Sandton",Rosebank,+27 11 569 2000,+27 11 569 2000,https://www.momentum.co.za,https://www.linkedin.com/company/momentum-insurance/,Not Available,2025-07-08
+business_name,business_niche,address,city_area,phone_number,whatsapp,website,social_media_links,email,date_collected,email_validation_status
+The Zone @ Rosebank,Shopping Mall / Retail,"37 Wierda Rd, Sandton",Rosebank,+27 11 883 0635,+27 11 883 0635,https://www.thezonesa.co.za,https://www.instagram.com/thezonesa/,Not Available,2025-07-08,
+The Firs Shopping Centre,Shopping Mall / Retail,"Cradock Ave, Rosebank",Rosebank,+27 11 442 8426,+27 11 442 8426,https://www.thefirs.co.za,Not Available,Not Available,2025-07-08,
+Rosebank Mall,Shopping Mall / Retail,"Baker St, Rosebank",Rosebank,+27 11 447 7275,+27 11 447 7275,https://www.rosebankmall.co.za,https://www.instagram.com/rosebankmall/,Not Available,2025-07-08,
+Glenhove Conference Centre,Venue / Conferencing,"38 Glenhove Rd, Melrose, Rosebank",Rosebank,+27 11 442 8700,+27 11 442 8700,https://www.glenhove.co.za,Not Available,info@glenhove.co.za,2025-07-08,valid_a_record
+Alexander Forbes Head Office,Financial Services / Insurance,"Sandton City, Rivonia Rd",Rosebank,+27 11 569 2000,+27 11 569 2000,https://www.alexanderforbes.com,https://www.linkedin.com/company/alexander-forbes/,Not Available,2025-07-08,
+Sanlam Head Office,Financial Services / Insurance,"2 Strand St, Bellville",Rosebank,+27 21 947 9111,+27 21 947 9111,https://www.sanlam.co.za,https://www.instagram.com/sanlam/,Not Available,2025-07-08,
+Momentum Head Office,Financial Services / Insurance,"Sam Nujoma Dr, Sandton",Rosebank,+27 11 569 2000,+27 11 569 2000,https://www.momentum.co.za,https://www.linkedin.com/company/momentum-insurance/,Not Available,2025-07-08,
